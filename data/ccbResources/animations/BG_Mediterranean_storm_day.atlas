@@ -1,0 +1,55 @@
+
+BG_Mediterranean_storm_day.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue_light_00
+  rotate: false
+  xy: 470, 2
+  size: 144, 52
+  orig: 166, 64
+  offset: 15, 7
+  index: -1
+Cloud_Day_U
+  rotate: false
+  xy: 2, 14
+  size: 466, 40
+  orig: 470, 46
+  offset: 1, 6
+  index: -1
+Item_00
+  rotate: false
+  xy: 616, 51
+  size: 10, 17
+  orig: 33, 38
+  offset: 11, 11
+  index: -1
+Light_00
+  rotate: true
+  xy: 616, 70
+  size: 156, 191
+  orig: 156, 191
+  offset: 0, 0
+  index: -1
+Light_01
+  rotate: false
+  xy: 809, 97
+  size: 156, 129
+  orig: 156, 173
+  offset: 0, 44
+  index: -1
+Mountain
+  rotate: false
+  xy: 2, 142
+  size: 612, 84
+  orig: 612, 84
+  offset: 0, 0
+  index: -1
+Sky
+  rotate: false
+  xy: 2, 56
+  size: 612, 84
+  orig: 612, 84
+  offset: 0, 0
+  index: -1

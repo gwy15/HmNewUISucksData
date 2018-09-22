@@ -1,0 +1,67 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"model.moc",
+	"textures":[
+		"model.1024/texture_00.png",
+		"model.1024/texture_01.png"
+	],
+	"physics":"physics.json",
+	"name":"",
+	    "hit_areas": [
+        { "name": "atama", "id": "D_REF_Face_Touch" },
+        { "name": "mune", "id": "D_REF_Obai_Touch" },
+        { "name": "hara", "id": "D_REF_Skirt_Touch" }
+    ],
+
+    "motions": {
+        "idle": [
+            { "file": "59_1_idle1.mtn", "fade_in": 0, "fade_out": 0, "priority": 1, "sound": "test" },
+            { "file": "59_1_idle2.mtn", "fade_in": 0, "fade_out": 0, "priority": 1, "sound": "test" },
+            { "file": "59_1_idle3.mtn", "fade_in": 0, "fade_out": 0, "priority": 1, "sound": "test" }
+        ],
+
+        "shy": [
+            { "file": "59_1_supurised.mtn", "fade_in": 0, "fade_out": 0, "priority": 2, "sound": "test" }
+        ],
+
+        "smile": [
+        	{ "file": "59_1_smile.mtn", "fade_in": 0, "fade_out": 0, "priority": 2, "sound": "test" },
+        	{ "file": "59_1_suddenly.mtn", "fade_in": 0, "fade_out": 0, "priority": 2, "sound": "test" }
+        ],
+
+        "suprise": [
+            { "file": "59_1_refuse.mtn", "fade_in": 0, "fade_out": 0, "priority": 2, "sound": "test" }
+        ]
+    },
+
+    /* µ¥Î»ÊÇºÁÃë */
+    "trigger": [
+        { "id": "D_REF_Skirt_Touch", "actionType": "click", "action": [ "shy" ], "delay": 15000, "delay_type": 2, "interval": [ 0 ] ,"dialogue":"欸啊！您、您可不要太得寸进尺了！"},
+        { "id": "D_REF_Face_Touch", "actionType": "stroke", "action": [ "smile" ], "delay": 10000, "delay_type": 2, "interval": [ 0 ] ,"dialogue":"是的，我已经看见您了。您的表现欲有些过头了。"},
+        { "id": "D_REF_Obai_Touch", "actionType": "click", "action": [ "suprise" ], "delay": 10000, "delay_type": 2, "interval": [ 0 ] ,"dialogue":"哇——您、您在做些什么啊？"}
+    ],
+
+    "auto_action": {
+        "action": "idle" , "delay" :  20000
+    },
+
+    "head_offset": {
+        "x": 0,
+        "y": 300
+    },
+
+    /* ¸¡µãÊý±íÊ¾»ùÓÚ1024 * 576Çé¿öÏÂµÄ±ÈÀý */
+    "head_range": {
+        "x": 1,
+        "y": 1
+    },
+
+	"bodyRange": {
+        "x": 1
+    },
+    
+	"eyeRange": {
+        "x": 1,
+        "y": 1
+    }
+}

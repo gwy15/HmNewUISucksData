@@ -1,0 +1,152 @@
+
+Connon_comic8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K
+  rotate: false
+  xy: 2, 264
+  size: 375, 547
+  orig: 375, 547
+  offset: 0, 0
+  index: -1
+k1_k1
+  rotate: true
+  xy: 848, 472
+  size: 339, 167
+  orig: 339, 167
+  offset: 0, 0
+  index: -1
+k1_light
+  rotate: true
+  xy: 846, 186
+  size: 284, 158
+  orig: 284, 158
+  offset: 0, 0
+  index: -1
+k1_light2
+  rotate: true
+  xy: 302, 42
+  size: 220, 175
+  orig: 220, 175
+  offset: 0, 0
+  index: -1
+k1_s
+  rotate: false
+  xy: 2, 813
+  size: 556, 199
+  orig: 556, 199
+  offset: 0, 0
+  index: -1
+k2_g
+  rotate: true
+  xy: 2, 2
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1
+k2_light
+  rotate: false
+  xy: 479, 604
+  size: 367, 207
+  orig: 367, 207
+  offset: 0, 0
+  index: -1
+k2_s
+  rotate: false
+  xy: 479, 61
+  size: 364, 204
+  orig: 364, 204
+  offset: 0, 0
+  index: -1
+k3_g3
+  rotate: true
+  xy: 566, 321
+  size: 281, 278
+  orig: 281, 278
+  offset: 0, 0
+  index: -1
+k3_glass
+  rotate: true
+  xy: 973, 940
+  size: 72, 42
+  orig: 72, 42
+  offset: 0, 0
+  index: -1
+k3_k3
+  rotate: true
+  xy: 379, 267
+  size: 335, 185
+  orig: 335, 185
+  offset: 0, 0
+  index: -1
+k3_w
+  rotate: false
+  xy: 560, 813
+  size: 411, 199
+  orig: 411, 199
+  offset: 0, 0
+  index: -1
+
+Connon_comic82.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k1_light3
+  rotate: true
+  xy: 871, 219
+  size: 285, 106
+  orig: 286, 108
+  offset: 1, 1
+  index: -1
+k2_k2
+  rotate: false
+  xy: 2, 29
+  size: 330, 181
+  orig: 330, 181
+  offset: 0, 0
+  index: -1
+k2_q
+  rotate: true
+  xy: 536, 2
+  size: 211, 117
+  orig: 211, 117
+  offset: 0, 0
+  index: -1
+k3_g
+  rotate: false
+  xy: 295, 215
+  size: 288, 289
+  orig: 288, 289
+  offset: 0, 0
+  index: -1
+k3_g2
+  rotate: false
+  xy: 655, 24
+  size: 196, 197
+  orig: 196, 197
+  offset: 0, 0
+  index: -1
+k3_light
+  rotate: false
+  xy: 2, 212
+  size: 291, 292
+  orig: 291, 292
+  offset: 0, 0
+  index: -1
+k3_light2
+  rotate: true
+  xy: 334, 14
+  size: 199, 200
+  orig: 199, 200
+  offset: 0, 0
+  index: -1
+k3_light3
+  rotate: false
+  xy: 585, 223
+  size: 284, 281
+  orig: 284, 281
+  offset: 0, 0
+  index: -1

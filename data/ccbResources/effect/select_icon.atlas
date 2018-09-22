@@ -1,0 +1,20 @@
+
+select_icon.png
+size: 74,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Icon_00
+  rotate: false
+  xy: 57, 39
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Icon_01
+  rotate: false
+  xy: 2, 2
+  size: 53, 52
+  orig: 53, 54
+  offset: 0, 1
+  index: -1

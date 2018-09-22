@@ -1,0 +1,76 @@
+
+cookbook_21.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BB
+  rotate: true
+  xy: 500, 234
+  size: 247, 145
+  orig: 600, 600
+  offset: 89, 180
+  index: -1
+NY
+  rotate: false
+  xy: 875, 758
+  size: 59, 59
+  orig: 600, 600
+  offset: 295, 172
+  index: -1
+PZ1
+  rotate: false
+  xy: 606, 748
+  size: 267, 214
+  orig: 600, 600
+  offset: 192, 79
+  index: -1
+T1
+  rotate: false
+  xy: 606, 517
+  size: 169, 229
+  orig: 600, 600
+  offset: 329, 325
+  index: -1
+T2
+  rotate: false
+  xy: 2, 483
+  size: 300, 479
+  orig: 600, 600
+  offset: 181, 83
+  index: -1
+T3
+  rotate: false
+  xy: 2, 2
+  size: 300, 479
+  orig: 600, 600
+  offset: 181, 83
+  index: -1
+T4
+  rotate: false
+  xy: 304, 483
+  size: 300, 479
+  orig: 600, 600
+  offset: 181, 83
+  index: -1
+TDH1
+  rotate: false
+  xy: 875, 819
+  size: 147, 143
+  orig: 600, 600
+  offset: 322, 255
+  index: -1
+TDH2
+  rotate: false
+  xy: 304, 15
+  size: 165, 159
+  orig: 600, 600
+  offset: 138, 354
+  index: -1
+TDH3
+  rotate: false
+  xy: 304, 176
+  size: 194, 305
+  orig: 600, 600
+  offset: 88, 166
+  index: -1

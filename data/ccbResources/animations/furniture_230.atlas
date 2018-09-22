@@ -1,0 +1,20 @@
+
+furniture_230.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G
+  rotate: true
+  xy: 2, 2
+  size: 28, 45
+  orig: 30, 49
+  offset: 1, 4
+  index: -1
+G1
+  rotate: true
+  xy: 49, 24
+  size: 6, 44
+  orig: 21, 44
+  offset: 8, 0
+  index: -1

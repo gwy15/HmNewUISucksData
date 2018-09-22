@@ -1,0 +1,153 @@
+
+repair_effect.png
+size: 1000,710
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect_Light_0002
+  rotate: false
+  xy: 469, 143
+  size: 42, 21
+  orig: 200, 340
+  offset: 101, 97
+  index: -1
+Effect_Light_0004
+  rotate: false
+  xy: 856, 2
+  size: 103, 71
+  orig: 200, 340
+  offset: 49, 89
+  index: -1
+Effect_Light_0006
+  rotate: false
+  xy: 856, 75
+  size: 120, 84
+  orig: 200, 340
+  offset: 41, 86
+  index: -1
+Effect_Light_0008
+  rotate: false
+  xy: 621, 253
+  size: 132, 225
+  orig: 200, 340
+  offset: 34, 68
+  index: -1
+Effect_Light_0010
+  rotate: false
+  xy: 856, 446
+  size: 142, 262
+  orig: 200, 340
+  offset: 26, 50
+  index: -1
+Effect_Light_0012
+  rotate: false
+  xy: 469, 166
+  size: 150, 269
+  orig: 200, 340
+  offset: 21, 45
+  index: -1
+Effect_Light_0014
+  rotate: false
+  xy: 318, 437
+  size: 156, 271
+  orig: 200, 340
+  offset: 17, 45
+  index: -1
+Effect_Light_0016
+  rotate: false
+  xy: 162, 136
+  size: 159, 280
+  orig: 200, 340
+  offset: 18, 38
+  index: -1
+Effect_Light_0018
+  rotate: false
+  xy: 2, 128
+  size: 158, 288
+  orig: 200, 340
+  offset: 19, 30
+  index: -1
+Effect_Light_0020
+  rotate: false
+  xy: 2, 418
+  size: 160, 290
+  orig: 200, 340
+  offset: 17, 28
+  index: -1
+Effect_Light_0022
+  rotate: false
+  xy: 164, 424
+  size: 152, 284
+  orig: 200, 340
+  offset: 21, 27
+  index: -1
+Effect_Light_0024
+  rotate: false
+  xy: 323, 151
+  size: 144, 284
+  orig: 200, 340
+  offset: 24, 26
+  index: -1
+Effect_Light_0026
+  rotate: true
+  xy: 571, 24
+  size: 140, 283
+  orig: 200, 340
+  offset: 28, 26
+  index: -1
+Effect_Light_0028
+  rotate: true
+  xy: 287, 8
+  size: 126, 282
+  orig: 200, 340
+  offset: 40, 29
+  index: -1
+Effect_Light_0030
+  rotate: true
+  xy: 2, 5
+  size: 121, 283
+  orig: 200, 340
+  offset: 43, 29
+  index: -1
+Effect_Light_0032
+  rotate: false
+  xy: 856, 161
+  size: 121, 283
+  orig: 200, 340
+  offset: 41, 29
+  index: -1
+Effect_Light_0034
+  rotate: true
+  xy: 476, 590
+  size: 118, 285
+  orig: 200, 340
+  offset: 44, 27
+  index: -1
+Effect_Light_0036
+  rotate: true
+  xy: 476, 480
+  size: 108, 285
+  orig: 200, 340
+  offset: 48, 27
+  index: -1
+Effect_Light_0038
+  rotate: false
+  xy: 755, 205
+  size: 98, 264
+  orig: 200, 340
+  offset: 55, 28
+  index: -1
+Effect_Light_0040
+  rotate: false
+  xy: 763, 471
+  size: 78, 237
+  orig: 200, 340
+  offset: 67, 45
+  index: -1
+Effect_Light_0042
+  rotate: false
+  xy: 621, 168
+  size: 77, 83
+  orig: 200, 340
+  offset: 66, 143
+  index: -1

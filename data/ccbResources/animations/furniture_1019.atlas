@@ -1,0 +1,83 @@
+
+furniture_1019.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+build
+  rotate: false
+  xy: 376, 586
+  size: 290, 79
+  orig: 1024, 768
+  offset: 429, 348
+  index: -1
+cloud_1
+  rotate: true
+  xy: 806, 709
+  size: 288, 192
+  orig: 1024, 768
+  offset: 50, 439
+  index: -1
+cloud_2
+  rotate: false
+  xy: 2, 394
+  size: 372, 271
+  orig: 1024, 768
+  offset: 287, 346
+  index: -1
+cloud_3
+  rotate: false
+  xy: 2, 120
+  size: 356, 272
+  orig: 1024, 768
+  offset: 569, 355
+  index: -1
+cloud_4
+  rotate: false
+  xy: 2, 667
+  size: 802, 330
+  orig: 1024, 768
+  offset: 222, 316
+  index: -1
+tree_1
+  rotate: false
+  xy: 376, 381
+  size: 187, 76
+  orig: 1024, 768
+  offset: 0, 338
+  index: -1
+tree_2
+  rotate: false
+  xy: 668, 606
+  size: 104, 59
+  orig: 1024, 768
+  offset: 358, 342
+  index: -1
+tree_3
+  rotate: false
+  xy: 376, 459
+  size: 204, 125
+  orig: 1024, 768
+  offset: 446, 345
+  index: -1
+tree_4
+  rotate: false
+  xy: 2, 2
+  size: 249, 116
+  orig: 1024, 768
+  offset: 650, 356
+  index: -1
+tree_5
+  rotate: false
+  xy: 253, 30
+  size: 72, 88
+  orig: 1024, 768
+  offset: 952, 354
+  index: -1
+wind
+  rotate: false
+  xy: 582, 528
+  size: 56, 56
+  orig: 1024, 768
+  offset: 671, 380
+  index: -1

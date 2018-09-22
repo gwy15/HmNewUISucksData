@@ -1,0 +1,139 @@
+
+furniture_189.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: false
+  xy: 2, 20
+  size: 172, 221
+  orig: 172, 221
+  offset: 0, 0
+  index: -1
+galo_1
+  rotate: false
+  xy: 664, 86
+  size: 64, 79
+  orig: 172, 221
+  offset: 56, 93
+  index: -1
+galo_10
+  rotate: false
+  xy: 502, 64
+  size: 79, 85
+  orig: 172, 221
+  offset: 50, 94
+  index: -1
+galo_11
+  rotate: true
+  xy: 932, 161
+  size: 80, 88
+  orig: 172, 221
+  offset: 50, 92
+  index: -1
+galo_12
+  rotate: false
+  xy: 401, 151
+  size: 82, 90
+  orig: 172, 221
+  offset: 50, 91
+  index: -1
+galo_13
+  rotate: true
+  xy: 746, 167
+  size: 74, 94
+  orig: 172, 221
+  offset: 52, 88
+  index: -1
+galo_14
+  rotate: false
+  xy: 485, 151
+  size: 81, 90
+  orig: 172, 221
+  offset: 44, 91
+  index: -1
+galo_15
+  rotate: false
+  xy: 258, 32
+  size: 80, 88
+  orig: 172, 221
+  offset: 45, 92
+  index: -1
+galo_16
+  rotate: false
+  xy: 583, 66
+  size: 79, 85
+  orig: 172, 221
+  offset: 47, 94
+  index: -1
+galo_2
+  rotate: false
+  xy: 340, 59
+  size: 79, 85
+  orig: 172, 221
+  offset: 47, 94
+  index: -1
+galo_3
+  rotate: false
+  xy: 568, 153
+  size: 80, 88
+  orig: 172, 221
+  offset: 46, 92
+  index: -1
+galo_4
+  rotate: false
+  xy: 176, 25
+  size: 80, 95
+  orig: 172, 221
+  offset: 46, 88
+  index: -1
+galo_5
+  rotate: true
+  xy: 650, 167
+  size: 74, 94
+  orig: 172, 221
+  offset: 52, 88
+  index: -1
+galo_6
+  rotate: false
+  xy: 319, 146
+  size: 80, 95
+  orig: 172, 221
+  offset: 49, 88
+  index: -1
+galo_7
+  rotate: true
+  xy: 842, 161
+  size: 80, 88
+  orig: 172, 221
+  offset: 49, 92
+  index: -1
+galo_8
+  rotate: false
+  xy: 421, 64
+  size: 79, 85
+  orig: 172, 221
+  offset: 49, 94
+  index: -1
+galo_9
+  rotate: false
+  xy: 730, 86
+  size: 64, 79
+  orig: 172, 221
+  offset: 54, 93
+  index: -1
+light
+  rotate: false
+  xy: 176, 122
+  size: 141, 119
+  orig: 172, 221
+  offset: 11, 68
+  index: -1
+magic
+  rotate: false
+  xy: 2, 2
+  size: 98, 16
+  orig: 172, 221
+  offset: 37, 64
+  index: -1

@@ -1,0 +1,132 @@
+
+Ship_girl_263.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BJ
+  rotate: true
+  xy: 172, 31
+  size: 61, 87
+  orig: 300, 300
+  offset: 103, 76
+  index: -1
+JZ_L
+  rotate: true
+  xy: 777, 196
+  size: 54, 107
+  orig: 300, 300
+  offset: 79, 24
+  index: -1
+JZ_L_damage
+  rotate: true
+  xy: 886, 196
+  size: 54, 104
+  orig: 300, 300
+  offset: 79, 24
+  index: -1
+JZ_R
+  rotate: true
+  xy: 396, 120
+  size: 56, 91
+  orig: 300, 300
+  offset: 165, 39
+  index: -1
+JZ_R_damge
+  rotate: true
+  xy: 675, 120
+  size: 56, 91
+  orig: 300, 300
+  offset: 165, 39
+  index: -1
+JZ_R_light
+  rotate: false
+  xy: 566, 144
+  size: 107, 106
+  orig: 300, 300
+  offset: 144, 41
+  index: -1
+Rodney_body_damage
+  rotate: true
+  xy: 2, 20
+  size: 72, 168
+  orig: 300, 300
+  offset: 117, 13
+  index: -1
+Rodney_body_normal
+  rotate: true
+  xy: 396, 178
+  size: 72, 168
+  orig: 300, 300
+  offset: 117, 13
+  index: -1
+Rodney_eyes_damage
+  rotate: false
+  xy: 777, 153
+  size: 56, 41
+  orig: 300, 300
+  offset: 126, 148
+  index: -1
+Rodney_eyes_normal
+  rotate: false
+  xy: 835, 152
+  size: 54, 42
+  orig: 300, 300
+  offset: 128, 148
+  index: -1
+Rodney_ship_body_normal_light
+  rotate: false
+  xy: 145, 94
+  size: 110, 156
+  orig: 300, 300
+  offset: 119, 0
+  index: -1
+hair
+  rotate: false
+  xy: 675, 178
+  size: 100, 72
+  orig: 300, 300
+  offset: 100, 139
+  index: -1
+hair_D
+  rotate: true
+  xy: 2, 2
+  size: 16, 25
+  orig: 300, 300
+  offset: 146, 255
+  index: -1
+hair_L
+  rotate: true
+  xy: 489, 137
+  size: 39, 59
+  orig: 300, 300
+  offset: 68, 186
+  index: -1
+hair_R
+  rotate: true
+  xy: 891, 156
+  size: 38, 56
+  orig: 300, 300
+  offset: 192, 187
+  index: -1
+hand_L
+  rotate: false
+  xy: 992, 213
+  size: 21, 37
+  orig: 300, 300
+  offset: 132, 103
+  index: -1
+head
+  rotate: false
+  xy: 257, 123
+  size: 137, 127
+  orig: 300, 300
+  offset: 75, 138
+  index: -1
+head_light
+  rotate: false
+  xy: 2, 94
+  size: 141, 156
+  orig: 300, 300
+  offset: 117, 129
+  index: -1

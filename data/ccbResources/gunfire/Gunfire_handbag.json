@@ -1,0 +1,386 @@
+{
+"skeleton": { "hash": "A/S4SHCLUWr5pizG9Cf8oT1AKaQ", "spine": "3.2.01", "width": 460, "height": 460, "images": "" },
+"bones": [
+	{ "name": "Gunfire_handbag_all" },
+	{ "name": "Gunfire_big_bang_at_sea", "parent": "Gunfire_handbag_all", "y": 18.57, "scaleX": 2, "scaleY": 2 },
+	{ "name": "Gunfire_small_bang_at_sea", "parent": "Gunfire_handbag_all", "scaleX": 2, "scaleY": 2 },
+	{ "name": "Gunfire_universal_fire", "parent": "Gunfire_handbag_all" },
+	{ "name": "Light", "parent": "Gunfire_handbag_all", "scaleX": 4, "scaleY": 4 },
+	{ "name": "Light_ring", "parent": "Gunfire_handbag_all" }
+],
+"slots": [
+	{ "name": "Gunfire", "bone": "Gunfire_universal_fire", "attachment": "Gunfire" },
+	{ "name": "Big_bang_at_sea", "bone": "Gunfire_big_bang_at_sea", "attachment": "Big_bang_at_sea0001" },
+	{ "name": "Small_bang_at_sea", "bone": "Gunfire_small_bang_at_sea", "attachment": "Small_bang_at_sea0001" },
+	{ "name": "Light", "bone": "Light", "attachment": "Light_picture", "blend": "additive" },
+	{ "name": "light_large_00", "bone": "Light_ring", "attachment": "light_large_00", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"Big_bang_at_sea": {
+			"Big_bang_at_sea0001": { "width": 230, "height": 230 },
+			"Big_bang_at_sea0003": { "width": 230, "height": 230 },
+			"Big_bang_at_sea0005": { "width": 230, "height": 230 },
+			"Big_bang_at_sea0007": { "width": 230, "height": 230 },
+			"Big_bang_at_sea0009": { "width": 230, "height": 230 },
+			"Big_bang_at_sea0011": { "width": 230, "height": 230 },
+			"Big_bang_at_sea0013": { "width": 230, "height": 230 },
+			"Big_bang_at_sea0015": { "width": 230, "height": 230 },
+			"Big_bang_at_sea0017": { "width": 230, "height": 230 },
+			"Big_bang_at_sea0019": { "width": 230, "height": 230 },
+			"Big_bang_at_sea0021": { "width": 230, "height": 230 },
+			"Big_bang_at_sea0023": { "width": 230, "height": 230 },
+			"Big_bang_at_sea0025": { "width": 230, "height": 230 },
+			"Big_bang_at_sea0027": { "width": 230, "height": 230 },
+			"Big_bang_at_sea0029": { "width": 230, "height": 230 },
+			"Big_bang_at_sea0031": { "width": 230, "height": 230 },
+			"Big_bang_at_sea0033": { "width": 230, "height": 230 },
+			"Big_bang_at_sea0035": { "width": 230, "height": 230 },
+			"Big_bang_at_sea0037": { "width": 230, "height": 230 }
+		},
+		"Gunfire": {
+			"Gunfire": { "x": -2.49, "y": -3.5, "rotation": 360, "width": 300, "height": 300 }
+		},
+		"Light": {
+			"Light_picture": { "width": 75, "height": 75 }
+		},
+		"Small_bang_at_sea": {
+			"Small_bang_at_sea0001": { "width": 180, "height": 180 },
+			"Small_bang_at_sea0003": { "width": 180, "height": 180 },
+			"Small_bang_at_sea0005": { "width": 180, "height": 180 },
+			"Small_bang_at_sea0007": { "width": 180, "height": 180 },
+			"Small_bang_at_sea0009": { "width": 180, "height": 180 },
+			"Small_bang_at_sea0011": { "width": 180, "height": 180 },
+			"Small_bang_at_sea0013": { "width": 180, "height": 180 },
+			"Small_bang_at_sea0015": { "width": 180, "height": 180 },
+			"Small_bang_at_sea0017": { "width": 180, "height": 180 },
+			"Small_bang_at_sea0019": { "width": 180, "height": 180 },
+			"Small_bang_at_sea0021": { "width": 180, "height": 180 },
+			"Small_bang_at_sea0023": { "width": 180, "height": 180 },
+			"Small_bang_at_sea0025": { "width": 180, "height": 180 },
+			"Small_bang_at_sea0027": { "width": 180, "height": 180 },
+			"Small_bang_at_sea0029": { "width": 180, "height": 180 },
+			"Small_bang_at_sea0031": { "width": 180, "height": 180 },
+			"Small_bang_at_sea0033": { "width": 180, "height": 180 },
+			"Small_bang_at_sea0035": { "width": 180, "height": 180 }
+		},
+		"light_large_00": {
+			"light_large_00": { "y": -19.65, "width": 309, "height": 145 }
+		}
+	}
+},
+"events": {
+	"End": {},
+	"Gunfire": {}
+},
+"animations": {
+	"Big_bang_at_sea": {
+		"slots": {
+			"Big_bang_at_sea": {
+				"color": [
+					{ "time": 0, "color": "ffffff9a" },
+					{ "time": 0.0666, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "Big_bang_at_sea0001" },
+					{ "time": 0.0666, "name": "Big_bang_at_sea0003" },
+					{ "time": 0.1333, "name": "Big_bang_at_sea0005" },
+					{ "time": 0.2, "name": "Big_bang_at_sea0007" },
+					{ "time": 0.2666, "name": "Big_bang_at_sea0009" },
+					{ "time": 0.3333, "name": "Big_bang_at_sea0011" },
+					{ "time": 0.4, "name": "Big_bang_at_sea0013" },
+					{ "time": 0.4666, "name": "Big_bang_at_sea0015" },
+					{ "time": 0.5333, "name": "Big_bang_at_sea0017" },
+					{ "time": 0.6, "name": "Big_bang_at_sea0019" },
+					{ "time": 0.6666, "name": "Big_bang_at_sea0021" },
+					{ "time": 0.7333, "name": "Big_bang_at_sea0023" },
+					{ "time": 0.8, "name": "Big_bang_at_sea0025" },
+					{ "time": 0.8666, "name": "Big_bang_at_sea0027" },
+					{ "time": 0.9333, "name": "Big_bang_at_sea0029" },
+					{ "time": 1, "name": "Big_bang_at_sea0031" },
+					{ "time": 1.0666, "name": "Big_bang_at_sea0033" },
+					{ "time": 1.1333, "name": "Big_bang_at_sea0035" },
+					{ "time": 1.2, "name": "Big_bang_at_sea0037" },
+					{ "time": 1.2666, "name": null }
+				]
+			},
+			"Gunfire": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Light": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0666, "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffffd1" },
+					{ "time": 0.6666, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "Light_picture" },
+					{ "time": 0.7, "name": null }
+				]
+			},
+			"Small_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_large_00": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0666, "color": "ffffffff" },
+					{ "time": 0.4, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "light_large_00" },
+					{ "time": 0.4333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Gunfire_big_bang_at_sea": {
+				"translate": [
+					{ "time": 0, "x": -4.75, "y": 8.15 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.5, "y": 0.5 },
+					{ "time": 0.0666, "x": 1.8, "y": 1.8 }
+				]
+			},
+			"Light": {
+				"scale": [
+					{ "time": 0, "x": 0.25, "y": 0.15 },
+					{ "time": 0.0666, "x": 1, "y": 0.75 },
+					{ "time": 0.3333, "x": 1.5, "y": 1.25 },
+					{ "time": 1.1666, "x": 1.75, "y": 1.5 }
+				]
+			},
+			"Light_ring": {
+				"translate": [
+					{ "time": 0, "x": 21.43, "y": -72.15 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.2, "y": 0.2 },
+					{ "time": 0.0666, "x": 1.6, "y": 1.6 },
+					{ "time": 0.3333, "x": 2.4, "y": 2.4 },
+					{ "time": 0.8333, "x": 3, "y": 3 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 1.2666, "name": "End" }
+		]
+	},
+	"Gunfire_big": {
+		"slots": {
+			"Big_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gunfire": {
+				"attachment": [
+					{ "time": 0, "name": "Gunfire" }
+				]
+			},
+			"Light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Small_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_large_00": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Gunfire_universal_fire": {
+				"scale": [
+					{ "time": 0, "x": 1.2, "y": 1.2 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Gunfire" }
+		]
+	},
+	"Gunfire_medium": {
+		"slots": {
+			"Big_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gunfire": {
+				"attachment": [
+					{ "time": 0, "name": "Gunfire" }
+				]
+			},
+			"Light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Small_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_large_00": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Gunfire_universal_fire": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Gunfire" }
+		]
+	},
+	"Gunfire_small": {
+		"slots": {
+			"Big_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gunfire": {
+				"attachment": [
+					{ "time": 0, "name": "Gunfire" }
+				]
+			},
+			"Light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Small_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_large_00": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Gunfire_universal_fire": {
+				"scale": [
+					{ "time": 0, "x": 0.8, "y": 0.8 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Gunfire" }
+		]
+	},
+	"Small_bang_at_sea": {
+		"slots": {
+			"Big_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gunfire": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Light": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0666, "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffffd1" },
+					{ "time": 0.6666, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "Light_picture" },
+					{ "time": 0.7, "name": null }
+				]
+			},
+			"Small_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": "Small_bang_at_sea0001" },
+					{ "time": 0.0666, "name": "Small_bang_at_sea0003" },
+					{ "time": 0.1333, "name": "Small_bang_at_sea0005" },
+					{ "time": 0.2, "name": "Small_bang_at_sea0007" },
+					{ "time": 0.2666, "name": "Small_bang_at_sea0009" },
+					{ "time": 0.3333, "name": "Small_bang_at_sea0011" },
+					{ "time": 0.4, "name": "Small_bang_at_sea0013" },
+					{ "time": 0.4666, "name": "Small_bang_at_sea0015" },
+					{ "time": 0.5333, "name": "Small_bang_at_sea0017" },
+					{ "time": 0.6, "name": "Small_bang_at_sea0019" },
+					{ "time": 0.6666, "name": "Small_bang_at_sea0021" },
+					{ "time": 0.7333, "name": "Small_bang_at_sea0023" },
+					{ "time": 0.8, "name": "Small_bang_at_sea0025" },
+					{ "time": 0.8666, "name": "Small_bang_at_sea0027" },
+					{ "time": 0.9333, "name": "Small_bang_at_sea0029" },
+					{ "time": 1, "name": "Small_bang_at_sea0031" },
+					{ "time": 1.0666, "name": "Small_bang_at_sea0033" },
+					{ "time": 1.1333, "name": "Small_bang_at_sea0035" },
+					{ "time": 1.2666, "name": null }
+				]
+			},
+			"light_large_00": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0666, "color": "ffffffff" },
+					{ "time": 0.4, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "light_large_00" },
+					{ "time": 0.4333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Gunfire_small_bang_at_sea": {
+				"translate": [
+					{ "time": 0, "x": 1.67, "y": 4.46 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.5, "y": 0.5 },
+					{ "time": 0.0666, "x": 1.5, "y": 1.5 }
+				]
+			},
+			"Light": {
+				"scale": [
+					{ "time": 0, "x": 0.125, "y": 0.1 },
+					{ "time": 0.0666, "x": 0.75, "y": 0.5 },
+					{ "time": 0.3333, "x": 1, "y": 0.75 },
+					{ "time": 1.1666, "x": 1.25, "y": 1 }
+				]
+			},
+			"Light_ring": {
+				"translate": [
+					{ "time": 0, "x": 21.43, "y": -72.15 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.2, "y": 0.2 },
+					{ "time": 0.0666, "x": 1.3, "y": 1.3 },
+					{ "time": 0.3333, "x": 2, "y": 2 },
+					{ "time": 0.8333, "x": 2.4, "y": 2.4 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 1.2666, "name": "End" }
+		]
+	}
+}
+}

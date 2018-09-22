@@ -1,0 +1,160 @@
+
+get_new_furniture_effect.png
+size: 946,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light_new_0001
+  rotate: false
+  xy: 809, 16
+  size: 100, 105
+  orig: 240, 280
+  offset: 26, 141
+  index: -1
+Light_new_0002
+  rotate: false
+  xy: 587, 2
+  size: 117, 97
+  orig: 240, 280
+  offset: 26, 149
+  index: -1
+Light_new_0003
+  rotate: false
+  xy: 61, 3
+  size: 132, 86
+  orig: 240, 280
+  offset: 28, 160
+  index: -1
+Light_new_0004
+  rotate: true
+  xy: 372, 96
+  size: 142, 61
+  orig: 240, 280
+  offset: 36, 185
+  index: -1
+Light_new_0005
+  rotate: true
+  xy: 435, 97
+  size: 141, 56
+  orig: 240, 280
+  offset: 55, 190
+  index: -1
+Light_new_0006
+  rotate: true
+  xy: 575, 101
+  size: 137, 79
+  orig: 240, 280
+  offset: 73, 167
+  index: -1
+Light_new_0007
+  rotate: true
+  xy: 656, 115
+  size: 123, 94
+  orig: 240, 280
+  offset: 91, 152
+  index: -1
+Light_new_0008
+  rotate: true
+  xy: 706, 7
+  size: 106, 101
+  orig: 240, 280
+  offset: 108, 145
+  index: -1
+Light_new_0009
+  rotate: false
+  xy: 848, 126
+  size: 96, 112
+  orig: 240, 280
+  offset: 119, 134
+  index: -1
+Light_new_0010
+  rotate: true
+  xy: 461, 3
+  size: 92, 124
+  orig: 240, 280
+  offset: 123, 121
+  index: -1
+Light_new_0011
+  rotate: true
+  xy: 324, 9
+  size: 83, 135
+  orig: 240, 280
+  offset: 132, 109
+  index: -1
+Light_new_0012
+  rotate: false
+  xy: 125, 93
+  size: 71, 145
+  orig: 240, 280
+  offset: 145, 96
+  index: -1
+Light_new_0013
+  rotate: false
+  xy: 67, 92
+  size: 56, 146
+  orig: 240, 280
+  offset: 160, 83
+  index: -1
+Light_new_0014
+  rotate: false
+  xy: 198, 93
+  size: 56, 145
+  orig: 240, 280
+  offset: 160, 70
+  index: -1
+Light_new_0015
+  rotate: false
+  xy: 256, 93
+  size: 56, 145
+  orig: 240, 280
+  offset: 160, 57
+  index: -1
+Light_new_0016
+  rotate: false
+  xy: 314, 94
+  size: 56, 144
+  orig: 240, 280
+  offset: 160, 45
+  index: -1
+Light_new_0017
+  rotate: false
+  xy: 2, 91
+  size: 63, 147
+  orig: 240, 280
+  offset: 153, 30
+  index: -1
+Light_new_0018
+  rotate: false
+  xy: 493, 99
+  size: 80, 139
+  orig: 240, 280
+  offset: 136, 25
+  index: -1
+Light_new_0019
+  rotate: true
+  xy: 195, 2
+  size: 89, 127
+  orig: 240, 280
+  offset: 126, 24
+  index: -1
+Light_new_0020
+  rotate: false
+  xy: 752, 123
+  size: 94, 115
+  orig: 240, 280
+  offset: 121, 23
+  index: -1
+UI_00
+  rotate: true
+  xy: 2, 2
+  size: 87, 57
+  orig: 87, 61
+  offset: 0, 0
+  index: -1
+UI_02
+  rotate: true
+  xy: 911, 53
+  size: 71, 21
+  orig: 87, 61
+  offset: 10, 18
+  index: -1

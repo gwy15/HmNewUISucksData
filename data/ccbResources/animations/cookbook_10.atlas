@@ -1,0 +1,76 @@
+
+cookbook_10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H1
+  rotate: true
+  xy: 838, 770
+  size: 158, 184
+  orig: 600, 600
+  offset: 162, 186
+  index: -1
+H3
+  rotate: true
+  xy: 345, 408
+  size: 106, 192
+  orig: 600, 600
+  offset: 313, 273
+  index: -1
+PZ
+  rotate: false
+  xy: 345, 639
+  size: 491, 289
+  orig: 600, 600
+  offset: 49, 135
+  index: -1
+T1
+  rotate: false
+  xy: 2, 389
+  size: 341, 539
+  orig: 600, 600
+  offset: 172, 46
+  index: -1
+T2
+  rotate: false
+  xy: 2, 234
+  size: 305, 153
+  orig: 600, 600
+  offset: 143, 227
+  index: -1
+T3
+  rotate: false
+  xy: 345, 516
+  size: 242, 121
+  orig: 600, 600
+  offset: 169, 241
+  index: -1
+T4
+  rotate: false
+  xy: 2, 120
+  size: 217, 112
+  orig: 600, 600
+  offset: 180, 235
+  index: -1
+TDH1
+  rotate: false
+  xy: 589, 540
+  size: 168, 97
+  orig: 600, 600
+  offset: 218, 142
+  index: -1
+TDH_A
+  rotate: false
+  xy: 838, 639
+  size: 157, 129
+  orig: 600, 600
+  offset: 415, 254
+  index: -1
+TDH_B
+  rotate: false
+  xy: 2, 2
+  size: 110, 116
+  orig: 600, 600
+  offset: 415, 267
+  index: -1

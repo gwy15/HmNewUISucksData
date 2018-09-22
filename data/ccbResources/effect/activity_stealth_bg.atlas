@@ -1,0 +1,97 @@
+
+activity_stealth_bg.png
+size: 1009,678
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Black_box_00
+  rotate: false
+  xy: 363, 183
+  size: 442, 215
+  orig: 444, 217
+  offset: 1, 1
+  index: -1
+Black_box_01
+  rotate: false
+  xy: 363, 17
+  size: 300, 164
+  orig: 300, 164
+  offset: 0, 0
+  index: -1
+Blue_00
+  rotate: true
+  xy: 2, 45
+  size: 519, 359
+  orig: 519, 359
+  offset: 0, 0
+  index: -1
+Box_00
+  rotate: false
+  xy: 810, 265
+  size: 197, 299
+  orig: 199, 301
+  offset: 1, 1
+  index: -1
+Line_00
+  rotate: false
+  xy: 363, 400
+  size: 445, 224
+  orig: 447, 226
+  offset: 1, 1
+  index: -1
+Line_02
+  rotate: false
+  xy: 665, 19
+  size: 342, 162
+  orig: 344, 164
+  offset: 1, 1
+  index: -1
+Line_03
+  rotate: false
+  xy: 34, 14
+  size: 20, 29
+  orig: 459, 164
+  offset: 438, 75
+  index: -1
+Line_04
+  rotate: false
+  xy: 56, 15
+  size: 189, 28
+  orig: 431, 167
+  offset: 241, 74
+  index: -1
+Line_05
+  rotate: false
+  xy: 2, 626
+  size: 891, 50
+  orig: 893, 52
+  offset: 1, 1
+  index: -1
+Line_06
+  rotate: true
+  xy: 2, 12
+  size: 31, 30
+  orig: 33, 32
+  offset: 1, 1
+  index: -1
+Line_07
+  rotate: true
+  xy: 2, 2
+  size: 8, 19
+  orig: 10, 21
+  offset: 1, 1
+  index: -1
+Line_08
+  rotate: false
+  xy: 895, 566
+  size: 110, 110
+  orig: 112, 112
+  offset: 1, 1
+  index: -1
+Radio_band
+  rotate: false
+  xy: 2, 578
+  size: 158, 46
+  orig: 160, 48
+  offset: 1, 1
+  index: -1

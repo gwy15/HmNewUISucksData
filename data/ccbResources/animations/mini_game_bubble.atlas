@@ -1,0 +1,41 @@
+
+mini_game_bubble.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_hit_38
+  rotate: false
+  xy: 2, 190
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+bubble_new_0001
+  rotate: false
+  xy: 260, 138
+  size: 168, 119
+  orig: 250, 200
+  offset: 37, 46
+  index: -1
+bubble_new_0002
+  rotate: false
+  xy: 2, 2
+  size: 218, 186
+  orig: 250, 200
+  offset: 24, 7
+  index: -1
+bubble_new_0003
+  rotate: false
+  xy: 260, 259
+  size: 194, 187
+  orig: 250, 200
+  offset: 28, 11
+  index: -1
+bubble_picture
+  rotate: false
+  xy: 222, 8
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

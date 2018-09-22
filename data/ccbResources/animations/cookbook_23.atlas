@@ -1,0 +1,82 @@
+
+cookbook_23.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H1
+  rotate: false
+  xy: 846, 157
+  size: 171, 225
+  orig: 600, 600
+  offset: 347, 171
+  index: -1
+PZ
+  rotate: false
+  xy: 2, 583
+  size: 569, 366
+  orig: 600, 600
+  offset: 9, 78
+  index: -1
+T1
+  rotate: true
+  xy: 491, 46
+  size: 92, 296
+  orig: 600, 600
+  offset: 234, 159
+  index: -1
+T2
+  rotate: false
+  xy: 573, 681
+  size: 410, 268
+  orig: 600, 600
+  offset: 89, 124
+  index: -1
+T3
+  rotate: false
+  xy: 2, 292
+  size: 487, 289
+  orig: 600, 600
+  offset: 71, 136
+  index: -1
+T4
+  rotate: false
+  xy: 2, 2
+  size: 487, 288
+  orig: 600, 600
+  offset: 71, 136
+  index: -1
+TDH1
+  rotate: false
+  xy: 573, 384
+  size: 379, 295
+  orig: 600, 600
+  offset: 81, 137
+  index: -1
+TDH2
+  rotate: false
+  xy: 491, 140
+  size: 353, 242
+  orig: 600, 600
+  offset: 79, 124
+  index: -1
+
+cookbook_232.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H3
+  rotate: false
+  xy: 271, 69
+  size: 221, 247
+  orig: 600, 600
+  offset: 158, 248
+  index: -1
+TDH3
+  rotate: false
+  xy: 2, 2
+  size: 267, 314
+  orig: 600, 600
+  offset: 175, 59
+  index: -1

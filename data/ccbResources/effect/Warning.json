@@ -1,0 +1,588 @@
+{
+"skeleton": { "hash": "99Rd3IPzOG7d1pv9nG+yLgDkJ0w", "spine": "2.1.27", "width": 2717, "height": 316, "images": "" },
+"bones": [
+	{ "name": "warning" },
+	{ "name": "warning_move_1", "parent": "warning", "x": 420, "y": -130 },
+	{ "name": "warning_move_1_light", "parent": "warning", "x": 420, "y": -130 },
+	{ "name": "warning_move_2", "parent": "warning", "x": -420, "y": 130 },
+	{ "name": "warning_move_2_light", "parent": "warning", "x": -420, "y": 130 },
+	{ "name": "warning_font", "parent": "warning_move_1", "x": -94 },
+	{ "name": "warning_font10", "parent": "warning_move_1", "x": -846 },
+	{ "name": "warning_font11", "parent": "warning_move_2", "x": -94 },
+	{ "name": "warning_font12", "parent": "warning_move_2", "x": -846 },
+	{ "name": "warning_font13", "parent": "warning_move_2", "x": 94 },
+	{ "name": "warning_font14", "parent": "warning_move_2", "x": 282 },
+	{ "name": "warning_font15", "parent": "warning_move_2", "x": 470 },
+	{ "name": "warning_font16", "parent": "warning_move_2", "x": 658 },
+	{ "name": "warning_font17", "parent": "warning_move_2", "x": 846 },
+	{ "name": "warning_font18", "parent": "warning_move_2", "x": -282 },
+	{ "name": "warning_font19", "parent": "warning_move_2", "x": -470 },
+	{ "name": "warning_font2", "parent": "warning_move_1", "x": 94 },
+	{ "name": "warning_font20", "parent": "warning_move_2", "x": -658 },
+	{ "name": "warning_font21", "parent": "warning_move_1_light", "x": -94 },
+	{ "name": "warning_font22", "parent": "warning_move_1_light", "x": -846 },
+	{ "name": "warning_font23", "parent": "warning_move_1_light", "x": 94 },
+	{ "name": "warning_font24", "parent": "warning_move_1_light", "x": 282 },
+	{ "name": "warning_font25", "parent": "warning_move_1_light", "x": 470 },
+	{ "name": "warning_font26", "parent": "warning_move_1_light", "x": 658 },
+	{ "name": "warning_font27", "parent": "warning_move_1_light", "x": 846 },
+	{ "name": "warning_font28", "parent": "warning_move_1_light", "x": -282 },
+	{ "name": "warning_font29", "parent": "warning_move_1_light", "x": -470 },
+	{ "name": "warning_font3", "parent": "warning_move_1", "x": 282 },
+	{ "name": "warning_font30", "parent": "warning_move_1_light", "x": -658 },
+	{ "name": "warning_font31", "parent": "warning_move_2_light", "x": -94 },
+	{ "name": "warning_font32", "parent": "warning_move_2_light", "x": -846 },
+	{ "name": "warning_font33", "parent": "warning_move_2_light", "x": 94 },
+	{ "name": "warning_font34", "parent": "warning_move_2_light", "x": 282 },
+	{ "name": "warning_font35", "parent": "warning_move_2_light", "x": 470 },
+	{ "name": "warning_font36", "parent": "warning_move_2_light", "x": 658 },
+	{ "name": "warning_font37", "parent": "warning_move_2_light", "x": 846 },
+	{ "name": "warning_font38", "parent": "warning_move_2_light", "x": -282 },
+	{ "name": "warning_font39", "parent": "warning_move_2_light", "x": -470 },
+	{ "name": "warning_font4", "parent": "warning_move_1", "x": 470 },
+	{ "name": "warning_font40", "parent": "warning_move_2_light", "x": -658 },
+	{ "name": "warning_font5", "parent": "warning_move_1", "x": 658 },
+	{ "name": "warning_font6", "parent": "warning_move_1", "x": 846 },
+	{ "name": "warning_font7", "parent": "warning_move_1", "x": -282 },
+	{ "name": "warning_font8", "parent": "warning_move_1", "x": -470 },
+	{ "name": "warning_font9", "parent": "warning_move_1", "x": -658 }
+],
+"slots": [
+	{ "name": "Font_05", "bone": "warning_font", "attachment": "Font_05" },
+	{ "name": "Font_24", "bone": "warning_font21", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_14", "bone": "warning_font11", "attachment": "Font_05" },
+	{ "name": "Font_34", "bone": "warning_font31", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_5", "bone": "warning_font2", "attachment": "Font_05" },
+	{ "name": "Font_26", "bone": "warning_font23", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_16", "bone": "warning_font13", "attachment": "Font_05" },
+	{ "name": "Font_36", "bone": "warning_font33", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_6", "bone": "warning_font3", "attachment": "Font_05" },
+	{ "name": "Font_27", "bone": "warning_font24", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_17", "bone": "warning_font14", "attachment": "Font_05" },
+	{ "name": "Font_37", "bone": "warning_font34", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_7", "bone": "warning_font4", "attachment": "Font_05" },
+	{ "name": "Font_28", "bone": "warning_font25", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_18", "bone": "warning_font15", "attachment": "Font_05" },
+	{ "name": "Font_38", "bone": "warning_font35", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_8", "bone": "warning_font5", "attachment": "Font_05" },
+	{ "name": "Font_29", "bone": "warning_font26", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_19", "bone": "warning_font16", "attachment": "Font_05" },
+	{ "name": "Font_39", "bone": "warning_font36", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_9", "bone": "warning_font6", "attachment": "Font_05" },
+	{ "name": "Font_30", "bone": "warning_font27", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_20", "bone": "warning_font17", "attachment": "Font_05" },
+	{ "name": "Font_40", "bone": "warning_font37", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_10", "bone": "warning_font7", "attachment": "Font_05" },
+	{ "name": "Font_31", "bone": "warning_font28", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_21", "bone": "warning_font18", "attachment": "Font_05" },
+	{ "name": "Font_41", "bone": "warning_font38", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_11", "bone": "warning_font8", "attachment": "Font_05" },
+	{ "name": "Font_32", "bone": "warning_font29", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_22", "bone": "warning_font19", "attachment": "Font_05" },
+	{ "name": "Font_42", "bone": "warning_font39", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_12", "bone": "warning_font9", "attachment": "Font_05" },
+	{ "name": "Font_33", "bone": "warning_font30", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_23", "bone": "warning_font20", "attachment": "Font_05" },
+	{ "name": "Font_43", "bone": "warning_font40", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_13", "bone": "warning_font10", "attachment": "Font_05" },
+	{ "name": "Font_25", "bone": "warning_font22", "attachment": "Font_05", "blend": "additive" },
+	{ "name": "Font_15", "bone": "warning_font12", "attachment": "Font_05" },
+	{ "name": "Font_35", "bone": "warning_font32", "attachment": "Font_05", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"Font_05": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_10": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_11": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_12": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_13": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_14": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_15": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_16": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_17": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_18": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_19": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_20": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_21": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_22": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_23": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_24": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_25": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_26": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_27": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_28": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_29": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_30": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_31": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_32": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_33": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_34": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_35": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_36": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_37": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_38": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_39": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_40": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_41": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_42": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_43": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_5": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_6": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_7": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_8": {
+			"Font_05": { "width": 185, "height": 56 }
+		},
+		"Font_9": {
+			"Font_05": { "width": 185, "height": 56 }
+		}
+	}
+},
+"animations": {
+	"Warning": {
+		"slots": {
+			"Font_24": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_25": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_26": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_27": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_28": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_29": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_30": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_31": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_32": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_33": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_34": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_35": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_36": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_37": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_38": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_39": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_40": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_41": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_42": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			},
+			"Font_43": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffff6d" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffff6d" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffff6d" },
+					{ "time": 3, "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffff6d" },
+					{ "time": 4, "color": "ffffff00" },
+					{ "time": 4.3333, "color": "ffffff6d" },
+					{ "time": 5, "color": "ffffff00" },
+					{ "time": 5.3333, "color": "ffffff6d" },
+					{ "time": 6, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"warning_move_2_light": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 6, "x": 750, "y": 0 }
+				]
+			},
+			"warning_move_1_light": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 6, "x": -750, "y": 0 }
+				]
+			},
+			"warning_move_2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 6, "x": 750, "y": 0 }
+				]
+			},
+			"warning_move_1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 6, "x": -750, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

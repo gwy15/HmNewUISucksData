@@ -1,0 +1,76 @@
+
+cookbook_11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H1
+  rotate: false
+  xy: 289, 29
+  size: 255, 260
+  orig: 600, 600
+  offset: 113, 315
+  index: -1
+H3
+  rotate: false
+  xy: 871, 842
+  size: 150, 180
+  orig: 600, 600
+  offset: 119, 406
+  index: -1
+PZ
+  rotate: false
+  xy: 2, 682
+  size: 447, 340
+  orig: 600, 600
+  offset: 65, 37
+  index: -1
+T1
+  rotate: false
+  xy: 2, 291
+  size: 324, 389
+  orig: 600, 600
+  offset: 134, 137
+  index: -1
+T2
+  rotate: false
+  xy: 451, 730
+  size: 418, 292
+  orig: 600, 600
+  offset: 78, 74
+  index: -1
+T3
+  rotate: true
+  xy: 328, 322
+  size: 358, 263
+  orig: 600, 600
+  offset: 105, 74
+  index: -1
+T4
+  rotate: false
+  xy: 593, 248
+  size: 276, 198
+  orig: 600, 600
+  offset: 140, 89
+  index: -1
+TDH1
+  rotate: false
+  xy: 593, 448
+  size: 273, 280
+  orig: 600, 600
+  offset: 222, 129
+  index: -1
+TDH2
+  rotate: false
+  xy: 2, 2
+  size: 285, 287
+  orig: 600, 600
+  offset: 206, 160
+  index: -1
+TDH3
+  rotate: true
+  xy: 871, 749
+  size: 91, 126
+  orig: 600, 600
+  offset: 345, 226
+  index: -1

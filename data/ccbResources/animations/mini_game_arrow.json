@@ -1,0 +1,162 @@
+{
+"skeleton": { "hash": "wV8dXmzS0C33em0f95C6th4zm5g", "spine": "3.2.01", "width": 128, "height": 128, "images": "" },
+"bones": [
+	{ "name": "mini_game_arrow_all" },
+	{ "name": "Box_line_1", "parent": "mini_game_arrow_all" },
+	{ "name": "arrow_light_1", "parent": "mini_game_arrow_all" },
+	{ "name": "arrow_line", "parent": "mini_game_arrow_all", "x": -1.48, "y": -1.92 },
+	{ "name": "arrow_off", "parent": "mini_game_arrow_all" },
+	{ "name": "arrow_on", "parent": "mini_game_arrow_all" },
+	{ "name": "arrow_on2", "parent": "mini_game_arrow_all" }
+],
+"slots": [
+	{ "name": "arrow_off", "bone": "arrow_off", "attachment": "arrow_off" },
+	{ "name": "arrow_on", "bone": "arrow_on", "attachment": "arrow_on" },
+	{ "name": "arrow_on2", "bone": "arrow_on2", "attachment": "arrow_on", "blend": "additive" },
+	{ "name": "arrow_line_1", "bone": "arrow_line", "attachment": "Arrow_line_0014" },
+	{ "name": "arrow_light_1", "bone": "arrow_light_1", "attachment": "arrow_light_1" },
+	{ "name": "Box_line_1", "bone": "Box_line_1", "attachment": "Box_line_2", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"Box_line_1": {
+			"Box_line_2": { "width": 100, "height": 100 }
+		},
+		"arrow_light_1": {
+			"arrow_light_1": { "width": 85, "height": 85 }
+		},
+		"arrow_line_1": {
+			"Arrow_line_0002": { "width": 128, "height": 128 },
+			"Arrow_line_0004": { "width": 128, "height": 128 },
+			"Arrow_line_0006": { "width": 128, "height": 128 },
+			"Arrow_line_0008": { "width": 128, "height": 128 },
+			"Arrow_line_0010": { "width": 128, "height": 128 },
+			"Arrow_line_0012": { "width": 128, "height": 128 },
+			"Arrow_line_0014": { "width": 128, "height": 128 }
+		},
+		"arrow_off": {
+			"arrow_off": { "width": 85, "height": 85 }
+		},
+		"arrow_on": {
+			"arrow_on": { "width": 85, "height": 85 }
+		},
+		"arrow_on2": {
+			"arrow_on": { "width": 85, "height": 85 }
+		}
+	}
+},
+"events": {
+	"once": {}
+},
+"animations": {
+	"mini_game_arrow_off": {
+		"slots": {
+			"Box_line_1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 1.1666, "color": "ffffff59" },
+					{ "time": 2.6666, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "Box_line_2" },
+					{ "time": 2.6666, "name": "Box_line_2" }
+				]
+			},
+			"arrow_light_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"arrow_line_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"arrow_off": {
+				"attachment": [
+					{ "time": 0, "name": "arrow_off" }
+				]
+			},
+			"arrow_on": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"arrow_on2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"mini_game_arrow_on": {
+		"slots": {
+			"Box_line_1": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1, "name": null }
+				]
+			},
+			"arrow_light_1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0666, "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "arrow_light_1" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"arrow_line_1": {
+				"color": [
+					{ "time": 0.2, "color": "ffffffff" },
+					{ "time": 0.4333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Arrow_line_0002" },
+					{ "time": 0.2333, "name": "Arrow_line_0004" },
+					{ "time": 0.2666, "name": "Arrow_line_0006" },
+					{ "time": 0.3, "name": "Arrow_line_0008" },
+					{ "time": 0.3333, "name": "Arrow_line_0010" },
+					{ "time": 0.3666, "name": "Arrow_line_0012" },
+					{ "time": 0.4, "name": "Arrow_line_0014" },
+					{ "time": 0.4333, "name": null }
+				]
+			},
+			"arrow_off": {
+				"attachment": [
+					{ "time": 0, "name": "arrow_off" },
+					{ "time": 0.0666, "name": null }
+				]
+			},
+			"arrow_on": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "arrow_on" }
+				]
+			},
+			"arrow_on2": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"mini_game_arrow_all": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.0666, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1.5, "y": 1.5 },
+					{ "time": 0.2666, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 1.3333, "name": "once" }
+		]
+	}
+}
+}

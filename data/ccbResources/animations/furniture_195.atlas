@@ -1,0 +1,139 @@
+
+furniture_195.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SH
+  rotate: true
+  xy: 128, 2
+  size: 43, 37
+  orig: 287, 147
+  offset: 19, 59
+  index: -1
+body
+  rotate: false
+  xy: 291, 25
+  size: 168, 101
+  orig: 287, 147
+  offset: 61, 15
+  index: -1
+eye1
+  rotate: false
+  xy: 732, 102
+  size: 21, 24
+  orig: 287, 147
+  offset: 156, 93
+  index: -1
+eye2
+  rotate: false
+  xy: 708, 100
+  size: 22, 26
+  orig: 287, 147
+  offset: 100, 88
+  index: -1
+hand_L2
+  rotate: true
+  xy: 254, 48
+  size: 46, 35
+  orig: 287, 147
+  offset: 53, 36
+  index: -1
+hand_L3
+  rotate: true
+  xy: 2, 10
+  size: 22, 59
+  orig: 287, 147
+  offset: 40, 62
+  index: -1
+hand_L3A
+  rotate: true
+  xy: 543, 99
+  size: 27, 61
+  orig: 287, 147
+  offset: 52, 57
+  index: -1
+hand_R2
+  rotate: false
+  xy: 167, 8
+  size: 31, 37
+  orig: 287, 147
+  offset: 214, 72
+  index: -1
+hand_R3
+  rotate: true
+  xy: 659, 94
+  size: 32, 47
+  orig: 287, 147
+  offset: 209, 93
+  index: -1
+hand_R3A
+  rotate: true
+  xy: 606, 95
+  size: 31, 51
+  orig: 287, 147
+  offset: 220, 96
+  index: -1
+leg_L1
+  rotate: false
+  xy: 461, 33
+  size: 58, 51
+  orig: 287, 147
+  offset: 37, 11
+  index: -1
+leg_L2
+  rotate: false
+  xy: 461, 86
+  size: 80, 40
+  orig: 287, 147
+  offset: 16, 12
+  index: -1
+leg_L3
+  rotate: false
+  xy: 66, 2
+  size: 60, 43
+  orig: 287, 147
+  offset: 49, 12
+  index: -1
+leg_L4
+  rotate: false
+  xy: 201, 62
+  size: 51, 32
+  orig: 287, 147
+  offset: 50, 12
+  index: -1
+leg_R1
+  rotate: false
+  xy: 2, 34
+  size: 62, 60
+  orig: 287, 147
+  offset: 195, 14
+  index: -1
+leg_R2
+  rotate: true
+  xy: 140, 47
+  size: 47, 59
+  orig: 287, 147
+  offset: 194, 15
+  index: -1
+leg_R3
+  rotate: false
+  xy: 66, 47
+  size: 72, 47
+  orig: 287, 147
+  offset: 195, 16
+  index: -1
+leg_R4
+  rotate: false
+  xy: 461, 2
+  size: 42, 29
+  orig: 287, 147
+  offset: 198, 17
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 96
+  size: 287, 30
+  orig: 287, 147
+  offset: 0, 1
+  index: -1

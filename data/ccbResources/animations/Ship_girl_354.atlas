@@ -1,0 +1,265 @@
+
+Ship_girl_354.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JZ1
+  rotate: true
+  xy: 642, 187
+  size: 67, 135
+  orig: 300, 300
+  offset: 58, 29
+  index: -1
+JZ1_damage
+  rotate: true
+  xy: 779, 184
+  size: 70, 129
+  orig: 300, 300
+  offset: 55, 35
+  index: -1
+JZ2
+  rotate: false
+  xy: 773, 2
+  size: 78, 98
+  orig: 300, 300
+  offset: 170, 45
+  index: -1
+JZ2_damage
+  rotate: true
+  xy: 773, 102
+  size: 80, 98
+  orig: 300, 300
+  offset: 170, 45
+  index: -1
+JZ2_damage_light
+  rotate: true
+  xy: 2, 13
+  size: 91, 118
+  orig: 315, 300
+  offset: 183, 36
+  index: -1
+JZ2_light
+  rotate: true
+  xy: 500, 96
+  size: 90, 118
+  orig: 315, 300
+  offset: 183, 36
+  index: -1
+JZ_back
+  rotate: true
+  xy: 499, 25
+  size: 69, 89
+  orig: 300, 300
+  offset: 114, 93
+  index: -1
+LH_1
+  rotate: false
+  xy: 452, 35
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+LH_2
+  rotate: true
+  xy: 873, 103
+  size: 60, 74
+  orig: 60, 74
+  offset: 0, 0
+  index: -1
+LH_3
+  rotate: true
+  xy: 142, 72
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: -1
+LH_3_light
+  rotate: false
+  xy: 2, 106
+  size: 138, 148
+  orig: 138, 148
+  offset: 0, 0
+  index: -1
+LH_4
+  rotate: true
+  xy: 359, 112
+  size: 61, 133
+  orig: 61, 133
+  offset: 0, 0
+  index: -1
+LH_5
+  rotate: true
+  xy: 949, 133
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+Rodney_body
+  rotate: false
+  xy: 721, 92
+  size: 50, 93
+  orig: 300, 300
+  offset: 130, 80
+  index: -1
+Rodney_body_damage
+  rotate: true
+  xy: 122, 20
+  size: 50, 93
+  orig: 300, 300
+  offset: 130, 80
+  index: -1
+Rodney_body_light
+  rotate: false
+  xy: 248, 144
+  size: 109, 110
+  orig: 300, 300
+  offset: 116, 59
+  index: -1
+Rodney_eyes_SP
+  rotate: true
+  xy: 624, 2
+  size: 52, 38
+  orig: 300, 300
+  offset: 132, 157
+  index: -1
+Rodney_eyes_damage
+  rotate: false
+  xy: 250, 23
+  size: 53, 38
+  orig: 300, 300
+  offset: 132, 155
+  index: -1
+Rodney_eyes_normal
+  rotate: false
+  xy: 624, 56
+  size: 52, 39
+  orig: 300, 300
+  offset: 132, 156
+  index: -1
+cloth
+  rotate: true
+  xy: 620, 97
+  size: 88, 99
+  orig: 88, 99
+  offset: 0, 0
+  index: -1
+cloth_damage
+  rotate: true
+  xy: 250, 63
+  size: 79, 99
+  orig: 79, 99
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 500, 188
+  size: 66, 140
+  orig: 66, 140
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 359, 175
+  size: 79, 139
+  orig: 79, 139
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 853, 36
+  size: 26, 28
+  orig: 300, 300
+  offset: 124, 120
+  index: -1
+hand_L2
+  rotate: false
+  xy: 881, 73
+  size: 28, 28
+  orig: 300, 300
+  offset: 107, 102
+  index: -1
+hand_L2_damage
+  rotate: false
+  xy: 911, 73
+  size: 28, 28
+  orig: 300, 300
+  offset: 107, 102
+  index: -1
+hand_R1
+  rotate: false
+  xy: 590, 2
+  size: 22, 36
+  orig: 300, 300
+  offset: 160, 111
+  index: -1
+hand_R2
+  rotate: false
+  xy: 853, 66
+  size: 26, 34
+  orig: 300, 300
+  offset: 170, 110
+  index: -1
+head
+  rotate: false
+  xy: 142, 131
+  size: 104, 123
+  orig: 300, 300
+  offset: 91, 150
+  index: -1
+head_add
+  rotate: false
+  xy: 250, 2
+  size: 54, 19
+  orig: 300, 300
+  offset: 129, 246
+  index: -1
+leg_L1
+  rotate: false
+  xy: 217, 16
+  size: 31, 54
+  orig: 300, 300
+  offset: 126, 43
+  index: -1
+leg_L2
+  rotate: true
+  xy: 678, 72
+  size: 23, 41
+  orig: 300, 300
+  offset: 139, 15
+  index: -1
+leg_R1
+  rotate: false
+  xy: 590, 40
+  size: 32, 54
+  orig: 300, 300
+  offset: 156, 45
+  index: -1
+leg_R1_light
+  rotate: false
+  xy: 910, 165
+  size: 106, 89
+  orig: 300, 300
+  offset: 122, 24
+  index: -1
+leg_R2
+  rotate: true
+  xy: 949, 109
+  size: 22, 41
+  orig: 300, 300
+  offset: 159, 17
+  index: -1
+leg_R2_damage
+  rotate: true
+  xy: 305, 39
+  size: 22, 41
+  orig: 300, 300
+  offset: 159, 17
+  index: -1
+leg_R2_light
+  rotate: false
+  xy: 351, 31
+  size: 99, 79
+  orig: 300, 326
+  offset: 126, 25
+  index: -1

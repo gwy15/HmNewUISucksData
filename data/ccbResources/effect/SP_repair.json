@@ -1,0 +1,42 @@
+{
+"skeleton": { "hash": "l8VUUOrRBK4o3nnsfERyJXYDpp0", "spine": "3.2.01", "width": 401, "height": 224, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "骨骼", "parent": "root" },
+	{ "name": "A", "parent": "骨骼" }
+],
+"slots": [
+	{ "name": "repair (1)", "bone": "A", "attachment": "repair (1)" }
+],
+"skins": {
+	"default": {
+		"repair (1)": {
+			"repair (1)": { "width": 401, "height": 224 },
+			"repair (2)": { "width": 401, "height": 224 },
+			"repair (3)": { "width": 401, "height": 224 },
+			"repair (4)": { "width": 401, "height": 224 },
+			"repair (5)": { "width": 401, "height": 224 },
+			"repair (6)": { "width": 401, "height": 224 },
+			"repair (7)": { "width": 401, "height": 224 }
+		}
+	}
+},
+"animations": {
+	"normal": {
+		"slots": {
+			"repair (1)": {
+				"attachment": [
+					{ "time": 0, "name": "repair (1)" },
+					{ "time": 0.1, "name": "repair (2)" },
+					{ "time": 0.2, "name": "repair (3)" },
+					{ "time": 0.3, "name": "repair (4)" },
+					{ "time": 0.4, "name": "repair (5)" },
+					{ "time": 0.5, "name": "repair (6)" },
+					{ "time": 0.6, "name": "repair (7)" },
+					{ "time": 0.7, "name": "repair (1)" }
+				]
+			}
+		}
+	}
+}
+}

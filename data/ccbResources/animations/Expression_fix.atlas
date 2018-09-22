@@ -1,0 +1,69 @@
+
+Expression_fix.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fix
+  rotate: false
+  xy: 77, 107
+  size: 36, 19
+  orig: 38, 30
+  offset: 0, 1
+  index: -1
+fix1
+  rotate: false
+  xy: 77, 62
+  size: 26, 24
+  orig: 38, 30
+  offset: 12, 6
+  index: -1
+fix2
+  rotate: false
+  xy: 115, 114
+  size: 10, 12
+  orig: 38, 30
+  offset: 12, 8
+  index: -1
+fix3
+  rotate: false
+  xy: 72, 2
+  size: 13, 16
+  orig: 38, 30
+  offset: 2, 7
+  index: -1
+fixB
+  rotate: false
+  xy: 77, 88
+  size: 35, 17
+  orig: 38, 30
+  offset: 0, 6
+  index: -1
+start1
+  rotate: false
+  xy: 77, 55
+  size: 11, 5
+  orig: 200, 200
+  offset: 86, 93
+  index: -1
+start2
+  rotate: true
+  xy: 72, 20
+  size: 33, 15
+  orig: 200, 200
+  offset: 77, 90
+  index: -1
+start3
+  rotate: false
+  xy: 2, 12
+  size: 68, 41
+  orig: 200, 200
+  offset: 58, 84
+  index: -1
+start4
+  rotate: false
+  xy: 2, 55
+  size: 73, 71
+  orig: 200, 200
+  offset: 55, 70
+  index: -1

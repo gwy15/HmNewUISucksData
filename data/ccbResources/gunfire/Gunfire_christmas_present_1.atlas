@@ -1,0 +1,244 @@
+
+Gunfire_christmas_present_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Big_bang_at_sea0001
+  rotate: false
+  xy: 2, 7
+  size: 61, 57
+  orig: 220, 200
+  offset: 81, 73
+  index: -1
+Big_bang_at_sea0003
+  rotate: false
+  xy: 517, 205
+  size: 107, 88
+  orig: 220, 200
+  offset: 57, 58
+  index: -1
+Big_bang_at_sea0005
+  rotate: true
+  xy: 474, 2
+  size: 143, 145
+  orig: 220, 200
+  offset: 35, 30
+  index: -1
+Big_bang_at_sea0007
+  rotate: true
+  xy: 767, 852
+  size: 169, 181
+  orig: 220, 200
+  offset: 16, 11
+  index: -1
+Big_bang_at_sea0009
+  rotate: true
+  xy: 579, 849
+  size: 172, 186
+  orig: 220, 200
+  offset: 16, 5
+  index: -1
+Big_bang_at_sea0011
+  rotate: false
+  xy: 2, 66
+  size: 173, 185
+  orig: 220, 200
+  offset: 15, 6
+  index: -1
+Big_bang_at_sea0013
+  rotate: false
+  xy: 2, 253
+  size: 176, 183
+  orig: 220, 200
+  offset: 15, 7
+  index: -1
+Big_bang_at_sea0015
+  rotate: false
+  xy: 202, 643
+  size: 181, 184
+  orig: 220, 200
+  offset: 14, 7
+  index: -1
+Big_bang_at_sea0017
+  rotate: false
+  xy: 2, 438
+  size: 185, 183
+  orig: 220, 200
+  offset: 13, 8
+  index: -1
+Big_bang_at_sea0019
+  rotate: false
+  xy: 2, 823
+  size: 198, 198
+  orig: 220, 200
+  offset: 11, 1
+  index: -1
+Big_bang_at_sea0021
+  rotate: false
+  xy: 2, 623
+  size: 198, 198
+  orig: 220, 200
+  offset: 11, 1
+  index: -1
+Big_bang_at_sea0023
+  rotate: false
+  xy: 202, 829
+  size: 195, 192
+  orig: 220, 200
+  offset: 11, 6
+  index: -1
+Big_bang_at_sea0025
+  rotate: false
+  xy: 399, 838
+  size: 178, 183
+  orig: 220, 200
+  offset: 11, 9
+  index: -1
+Big_bang_at_sea0027
+  rotate: true
+  xy: 202, 475
+  size: 166, 183
+  orig: 220, 200
+  offset: 23, 8
+  index: -1
+Big_bang_at_sea0029
+  rotate: true
+  xy: 189, 308
+  size: 165, 185
+  orig: 220, 200
+  offset: 23, 7
+  index: -1
+Big_bang_at_sea0031
+  rotate: true
+  xy: 180, 143
+  size: 163, 175
+  orig: 220, 200
+  offset: 26, 6
+  index: -1
+Gunfire
+  rotate: true
+  xy: 626, 211
+  size: 82, 73
+  orig: 300, 300
+  offset: 110, 113
+  index: -1
+Light_picture
+  rotate: false
+  xy: 674, 462
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+Small_bang_at_sea0001
+  rotate: false
+  xy: 950, 885
+  size: 45, 48
+  orig: 170, 160
+  offset: 65, 55
+  index: -1
+Small_bang_at_sea0003
+  rotate: false
+  xy: 950, 935
+  size: 70, 86
+  orig: 170, 160
+  offset: 52, 37
+  index: -1
+Small_bang_at_sea0005
+  rotate: false
+  xy: 537, 295
+  size: 116, 114
+  orig: 170, 160
+  offset: 28, 26
+  index: -1
+Small_bang_at_sea0007
+  rotate: false
+  xy: 327, 6
+  size: 145, 135
+  orig: 170, 160
+  offset: 15, 20
+  index: -1
+Small_bang_at_sea0009
+  rotate: false
+  xy: 177, 4
+  size: 148, 137
+  orig: 170, 160
+  offset: 16, 18
+  index: -1
+Small_bang_at_sea0011
+  rotate: false
+  xy: 387, 370
+  size: 148, 139
+  orig: 170, 160
+  offset: 16, 17
+  index: -1
+Small_bang_at_sea0013
+  rotate: true
+  xy: 827, 703
+  size: 147, 141
+  orig: 170, 160
+  offset: 16, 15
+  index: -1
+Small_bang_at_sea0015
+  rotate: true
+  xy: 545, 688
+  size: 148, 145
+  orig: 170, 160
+  offset: 15, 12
+  index: -1
+Small_bang_at_sea0017
+  rotate: false
+  xy: 545, 539
+  size: 147, 147
+  orig: 170, 160
+  offset: 15, 10
+  index: -1
+Small_bang_at_sea0019
+  rotate: true
+  xy: 357, 147
+  size: 159, 158
+  orig: 170, 160
+  offset: 9, 1
+  index: -1
+Small_bang_at_sea0021
+  rotate: false
+  xy: 385, 669
+  size: 158, 158
+  orig: 170, 160
+  offset: 10, 1
+  index: -1
+Small_bang_at_sea0023
+  rotate: false
+  xy: 387, 511
+  size: 153, 156
+  orig: 170, 160
+  offset: 10, 3
+  index: -1
+Small_bang_at_sea0025
+  rotate: true
+  xy: 829, 555
+  size: 146, 129
+  orig: 170, 160
+  offset: 15, 17
+  index: -1
+Small_bang_at_sea0027
+  rotate: true
+  xy: 694, 550
+  size: 147, 133
+  orig: 170, 160
+  offset: 15, 17
+  index: -1
+Small_bang_at_sea0029
+  rotate: true
+  xy: 692, 699
+  size: 148, 133
+  orig: 170, 160
+  offset: 15, 17
+  index: -1
+Small_bang_at_sea0031
+  rotate: false
+  xy: 542, 411
+  size: 130, 126
+  orig: 170, 160
+  offset: 24, 17
+  index: -1

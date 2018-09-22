@@ -1,0 +1,286 @@
+
+Gunfire_handbag.png
+size: 854,900
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Big_bang_at_sea0001
+  rotate: true
+  xy: 473, 130
+  size: 70, 58
+  orig: 230, 230
+  offset: 81, 86
+  index: -1
+Big_bang_at_sea0003
+  rotate: false
+  xy: 397, 6
+  size: 137, 115
+  orig: 230, 230
+  offset: 46, 57
+  index: -1
+Big_bang_at_sea0005
+  rotate: false
+  xy: 701, 362
+  size: 147, 142
+  orig: 230, 230
+  offset: 41, 46
+  index: -1
+Big_bang_at_sea0007
+  rotate: false
+  xy: 688, 202
+  size: 162, 158
+  orig: 230, 230
+  offset: 33, 37
+  index: -1
+Big_bang_at_sea0009
+  rotate: false
+  xy: 294, 123
+  size: 177, 173
+  orig: 230, 230
+  offset: 26, 29
+  index: -1
+Big_bang_at_sea0011
+  rotate: false
+  xy: 295, 298
+  size: 191, 167
+  orig: 230, 230
+  offset: 19, 35
+  index: -1
+Big_bang_at_sea0013
+  rotate: false
+  xy: 528, 723
+  size: 205, 175
+  orig: 230, 230
+  offset: 12, 29
+  index: -1
+Big_bang_at_sea0015
+  rotate: false
+  xy: 2, 579
+  size: 214, 180
+  orig: 230, 230
+  offset: 7, 25
+  index: -1
+Big_bang_at_sea0017
+  rotate: false
+  xy: 305, 712
+  size: 221, 186
+  orig: 230, 230
+  offset: 4, 22
+  index: -1
+Big_bang_at_sea0019
+  rotate: false
+  xy: 2, 404
+  size: 197, 173
+  orig: 230, 230
+  offset: 13, 35
+  index: -1
+Big_bang_at_sea0021
+  rotate: true
+  xy: 2, 11
+  size: 189, 137
+  orig: 230, 230
+  offset: 14, 70
+  index: -1
+Big_bang_at_sea0023
+  rotate: false
+  xy: 488, 243
+  size: 190, 115
+  orig: 230, 230
+  offset: 14, 70
+  index: -1
+Big_bang_at_sea0025
+  rotate: true
+  xy: 735, 707
+  size: 191, 116
+  orig: 230, 230
+  offset: 14, 70
+  index: -1
+Big_bang_at_sea0027
+  rotate: false
+  xy: 492, 360
+  size: 194, 118
+  orig: 230, 230
+  offset: 13, 69
+  index: -1
+Big_bang_at_sea0029
+  rotate: false
+  xy: 295, 467
+  size: 195, 119
+  orig: 230, 230
+  offset: 13, 69
+  index: -1
+Big_bang_at_sea0031
+  rotate: false
+  xy: 503, 480
+  size: 196, 120
+  orig: 230, 230
+  offset: 12, 69
+  index: -1
+Big_bang_at_sea0033
+  rotate: true
+  xy: 731, 506
+  size: 199, 121
+  orig: 230, 230
+  offset: 12, 69
+  index: -1
+Big_bang_at_sea0035
+  rotate: false
+  xy: 302, 588
+  size: 199, 122
+  orig: 230, 230
+  offset: 11, 69
+  index: -1
+Big_bang_at_sea0037
+  rotate: false
+  xy: 528, 602
+  size: 201, 119
+  orig: 230, 230
+  offset: 11, 69
+  index: -1
+Gunfire
+  rotate: false
+  xy: 473, 204
+  size: 47, 37
+  orig: 300, 300
+  offset: 130, 137
+  index: -1
+Light_picture
+  rotate: false
+  xy: 218, 516
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+Small_bang_at_sea0001
+  rotate: false
+  xy: 115, 202
+  size: 49, 40
+  orig: 180, 180
+  offset: 62, 68
+  index: -1
+Small_bang_at_sea0003
+  rotate: true
+  xy: 218, 661
+  size: 98, 82
+  orig: 180, 180
+  offset: 37, 48
+  index: -1
+Small_bang_at_sea0005
+  rotate: true
+  xy: 533, 135
+  size: 106, 104
+  orig: 180, 180
+  offset: 33, 38
+  index: -1
+Small_bang_at_sea0007
+  rotate: true
+  xy: 280, 5
+  size: 116, 115
+  orig: 180, 180
+  offset: 28, 32
+  index: -1
+Small_bang_at_sea0009
+  rotate: false
+  xy: 166, 276
+  size: 126, 126
+  orig: 180, 180
+  offset: 23, 26
+  index: -1
+Small_bang_at_sea0011
+  rotate: false
+  xy: 141, 2
+  size: 137, 119
+  orig: 180, 180
+  offset: 17, 32
+  index: -1
+Small_bang_at_sea0013
+  rotate: true
+  xy: 166, 128
+  size: 146, 124
+  orig: 180, 180
+  offset: 13, 28
+  index: -1
+Small_bang_at_sea0015
+  rotate: false
+  xy: 536, 5
+  size: 153, 128
+  orig: 180, 180
+  offset: 9, 25
+  index: -1
+Small_bang_at_sea0017
+  rotate: true
+  xy: 2, 244
+  size: 158, 132
+  orig: 180, 180
+  offset: 7, 23
+  index: -1
+Small_bang_at_sea0019
+  rotate: false
+  xy: 691, 11
+  size: 137, 123
+  orig: 180, 180
+  offset: 17, 32
+  index: -1
+Small_bang_at_sea0021
+  rotate: false
+  xy: 201, 416
+  size: 92, 98
+  orig: 180, 180
+  offset: 45, 56
+  index: -1
+Small_bang_at_sea0023
+  rotate: false
+  xy: 218, 593
+  size: 78, 66
+  orig: 180, 180
+  offset: 50, 65
+  index: -1
+Small_bang_at_sea0025
+  rotate: false
+  xy: 639, 136
+  size: 57, 64
+  orig: 180, 180
+  offset: 59, 68
+  index: -1
+Small_bang_at_sea0027
+  rotate: false
+  xy: 698, 141
+  size: 43, 59
+  orig: 180, 180
+  offset: 66, 70
+  index: -1
+Small_bang_at_sea0029
+  rotate: false
+  xy: 743, 142
+  size: 41, 58
+  orig: 180, 180
+  offset: 67, 71
+  index: -1
+Small_bang_at_sea0031
+  rotate: false
+  xy: 786, 142
+  size: 41, 58
+  orig: 180, 180
+  offset: 67, 73
+  index: -1
+Small_bang_at_sea0033
+  rotate: true
+  xy: 57, 202
+  size: 40, 56
+  orig: 180, 180
+  offset: 68, 75
+  index: -1
+Small_bang_at_sea0035
+  rotate: true
+  xy: 2, 203
+  size: 38, 53
+  orig: 180, 180
+  offset: 69, 78
+  index: -1
+light_large_00
+  rotate: false
+  xy: 2, 761
+  size: 301, 137
+  orig: 309, 145
+  offset: 2, 6
+  index: -1

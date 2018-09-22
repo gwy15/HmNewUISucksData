@@ -1,0 +1,132 @@
+
+Ship_girl_306.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D
+  rotate: true
+  xy: 967, 69
+  size: 48, 32
+  orig: 300, 300
+  offset: 102, 67
+  index: -1
+Rodney_body_damage
+  rotate: true
+  xy: 681, 3
+  size: 109, 141
+  orig: 300, 300
+  offset: 106, 18
+  index: -1
+Rodney_body_normal
+  rotate: true
+  xy: 824, 2
+  size: 109, 141
+  orig: 300, 300
+  offset: 106, 18
+  index: -1
+Rodney_eyes_damage
+  rotate: true
+  xy: 958, 139
+  size: 55, 35
+  orig: 300, 300
+  offset: 141, 149
+  index: -1
+Rodney_eyes_normal
+  rotate: true
+  xy: 958, 196
+  size: 52, 48
+  orig: 300, 300
+  offset: 144, 150
+  index: -1
+Rodney_ship_body_damage_light
+  rotate: false
+  xy: 378, 96
+  size: 153, 152
+  orig: 300, 300
+  offset: 96, 9
+  index: -1
+Rodney_ship_body_normal_light
+  rotate: false
+  xy: 221, 96
+  size: 155, 152
+  orig: 300, 300
+  offset: 96, 9
+  index: -1
+arm
+  rotate: false
+  xy: 958, 119
+  size: 38, 18
+  orig: 300, 300
+  offset: 202, 72
+  index: -1
+behand
+  rotate: true
+  xy: 153, 44
+  size: 48, 35
+  orig: 300, 300
+  offset: 102, 81
+  index: -1
+behand_damage
+  rotate: false
+  xy: 153, 7
+  size: 46, 35
+  orig: 300, 300
+  offset: 104, 81
+  index: -1
+hair_L
+  rotate: true
+  xy: 221, 5
+  size: 89, 154
+  orig: 89, 154
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 533, 102
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 825, 113
+  size: 131, 135
+  orig: 300, 300
+  offset: 92, 132
+  index: -1
+head_light
+  rotate: true
+  xy: 681, 114
+  size: 134, 142
+  orig: 300, 300
+  offset: 136, 126
+  index: -1
+ueber_B
+  rotate: false
+  xy: 2, 13
+  size: 149, 79
+  orig: 300, 300
+  offset: 41, 193
+  index: -1
+urber
+  rotate: true
+  xy: 2, 94
+  size: 154, 217
+  orig: 300, 300
+  offset: 41, 73
+  index: -1
+urber_B_damage
+  rotate: false
+  xy: 377, 10
+  size: 150, 84
+  orig: 300, 300
+  offset: 40, 188
+  index: -1
+urber_light
+  rotate: false
+  xy: 533, 33
+  size: 145, 67
+  orig: 300, 300
+  offset: 66, 233
+  index: -1

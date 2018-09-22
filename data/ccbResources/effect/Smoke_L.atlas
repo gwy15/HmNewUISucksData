@@ -1,0 +1,132 @@
+
+Smoke_L.png
+size: 1024,64
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+Smoke_L_0001
+  rotate: false
+  xy: 661, 4
+  size: 41, 58
+  orig: 60, 80
+  offset: 9, 8
+  index: -1
+Smoke_L_0003
+  rotate: true
+  xy: 510, 23
+  size: 39, 63
+  orig: 60, 80
+  offset: 10, 9
+  index: -1
+Smoke_L_0005
+  rotate: true
+  xy: 335, 23
+  size: 39, 65
+  orig: 60, 80
+  offset: 10, 10
+  index: -1
+Smoke_L_0007
+  rotate: true
+  xy: 745, 25
+  size: 37, 63
+  orig: 60, 80
+  offset: 11, 11
+  index: -1
+Smoke_L_0009
+  rotate: true
+  xy: 852, 25
+  size: 37, 61
+  orig: 60, 80
+  offset: 12, 12
+  index: -1
+Smoke_L_0011
+  rotate: true
+  xy: 71, 19
+  size: 43, 65
+  orig: 60, 80
+  offset: 8, 9
+  index: -1
+Smoke_L_0013
+  rotate: false
+  xy: 617, 5
+  size: 42, 57
+  orig: 60, 80
+  offset: 10, 10
+  index: -1
+Smoke_L_0015
+  rotate: false
+  xy: 810, 4
+  size: 40, 58
+  orig: 60, 80
+  offset: 10, 11
+  index: -1
+Smoke_L_0017
+  rotate: false
+  xy: 402, 3
+  size: 43, 59
+  orig: 60, 80
+  offset: 10, 12
+  index: -1
+Smoke_L_0019
+  rotate: false
+  xy: 952, 6
+  size: 34, 56
+  orig: 60, 80
+  offset: 9, 8
+  index: -1
+Smoke_L_0021
+  rotate: false
+  xy: 915, 4
+  size: 35, 58
+  orig: 60, 80
+  offset: 10, 9
+  index: -1
+Smoke_L_0023
+  rotate: false
+  xy: 704, 2
+  size: 39, 60
+  orig: 60, 80
+  offset: 9, 9
+  index: -1
+Smoke_L_0025
+  rotate: false
+  xy: 575, 2
+  size: 40, 60
+  orig: 60, 80
+  offset: 11, 11
+  index: -1
+Smoke_L_0027
+  rotate: true
+  xy: 447, 21
+  size: 41, 61
+  orig: 60, 80
+  offset: 12, 11
+  index: -1
+Smoke_L_0029
+  rotate: true
+  xy: 205, 19
+  size: 43, 64
+  orig: 60, 80
+  offset: 11, 11
+  index: -1
+Smoke_L_0031
+  rotate: true
+  xy: 138, 19
+  size: 43, 65
+  orig: 60, 80
+  offset: 9, 9
+  index: -1
+Smoke_L_0033
+  rotate: true
+  xy: 271, 20
+  size: 42, 62
+  orig: 60, 80
+  offset: 10, 11
+  index: -1
+Smoke_L_0035
+  rotate: true
+  xy: 2, 19
+  size: 43, 67
+  orig: 60, 80
+  offset: 8, 8
+  index: -1

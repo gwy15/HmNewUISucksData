@@ -1,0 +1,229 @@
+
+Connon_comic5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K
+  rotate: false
+  xy: 355, 108
+  size: 375, 547
+  orig: 375, 547
+  offset: 0, 0
+  index: -1
+k1_H
+  rotate: true
+  xy: 894, 118
+  size: 112, 79
+  orig: 112, 79
+  offset: 0, 0
+  index: -1
+k1_PZ
+  rotate: true
+  xy: 948, 35
+  size: 81, 62
+  orig: 81, 62
+  offset: 0, 0
+  index: -1
+k1_bs
+  rotate: false
+  xy: 987, 500
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+k1_galo
+  rotate: true
+  xy: 355, 2
+  size: 104, 83
+  orig: 104, 83
+  offset: 0, 0
+  index: -1
+k1_hh
+  rotate: true
+  xy: 534, 16
+  size: 90, 108
+  orig: 90, 108
+  offset: 0, 0
+  index: -1
+k1_jb
+  rotate: true
+  xy: 440, 4
+  size: 102, 92
+  orig: 102, 92
+  offset: 0, 0
+  index: -1
+k1_k1
+  rotate: true
+  xy: 2, 6
+  size: 649, 351
+  orig: 649, 351
+  offset: 0, 0
+  index: -1
+k1_ls
+  rotate: false
+  xy: 1004, 757
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+k1_mgw
+  rotate: false
+  xy: 744, 776
+  size: 272, 245
+  orig: 272, 245
+  offset: 0, 0
+  index: -1
+k1_x
+  rotate: false
+  xy: 2, 657
+  size: 740, 364
+  orig: 749, 1094
+  offset: 0, 730
+  index: -1
+k2_b1
+  rotate: false
+  xy: 744, 528
+  size: 258, 246
+  orig: 258, 246
+  offset: 0, 0
+  index: -1
+k3_ear
+  rotate: true
+  xy: 975, 161
+  size: 69, 44
+  orig: 69, 44
+  offset: 0, 0
+  index: -1
+k3_glass
+  rotate: true
+  xy: 987, 421
+  size: 77, 30
+  orig: 77, 30
+  offset: 0, 0
+  index: -1
+k3_hair
+  rotate: true
+  xy: 644, 21
+  size: 85, 65
+  orig: 85, 65
+  offset: 0, 0
+  index: -1
+k3_k3
+  rotate: true
+  xy: 783, 4
+  size: 107, 163
+  orig: 107, 163
+  offset: 0, 0
+  index: -1
+k3_light
+  rotate: false
+  xy: 783, 232
+  size: 202, 294
+  orig: 203, 294
+  offset: 0, 0
+  index: -1
+k4_kk
+  rotate: true
+  xy: 732, 113
+  size: 117, 160
+  orig: 117, 160
+  offset: 0, 0
+  index: -1
+k4_pen1.png
+  rotate: true
+  xy: 711, 2
+  size: 19, 70
+  orig: 19, 70
+  offset: 0, 0
+  index: -1
+k4_pen2
+  rotate: true
+  xy: 711, 23
+  size: 83, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: -1
+
+Connon_comic52.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k1_surprise
+  rotate: false
+  xy: 942, 604
+  size: 56, 78
+  orig: 56, 78
+  offset: 0, 0
+  index: -1
+k2_H
+  rotate: false
+  xy: 636, 531
+  size: 160, 151
+  orig: 160, 151
+  offset: 0, 0
+  index: -1
+k2_b2
+  rotate: false
+  xy: 453, 684
+  size: 356, 311
+  orig: 356, 311
+  offset: 0, 0
+  index: -1
+k2_k2
+  rotate: false
+  xy: 2, 266
+  size: 426, 327
+  orig: 426, 327
+  offset: 0, 0
+  index: -1
+k3_air
+  rotate: false
+  xy: 811, 684
+  size: 195, 311
+  orig: 195, 333
+  offset: 0, 22
+  index: -1
+k4_air
+  rotate: false
+  xy: 2, 595
+  size: 449, 400
+  orig: 449, 400
+  offset: 0, 0
+  index: -1
+k4_boom
+  rotate: true
+  xy: 326, 72
+  size: 192, 178
+  orig: 192, 178
+  offset: 0, 0
+  index: -1
+k4_boomlight
+  rotate: false
+  xy: 453, 541
+  size: 181, 141
+  orig: 181, 141
+  offset: 0, 0
+  index: -1
+k4_glass
+  rotate: false
+  xy: 2, 2
+  size: 157, 65
+  orig: 157, 65
+  offset: 0, 0
+  index: -1
+k4_k4
+  rotate: false
+  xy: 2, 69
+  size: 322, 195
+  orig: 322, 195
+  offset: 0, 0
+  index: -1
+k4_panty
+  rotate: false
+  xy: 798, 539
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1

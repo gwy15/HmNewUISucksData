@@ -1,0 +1,41 @@
+
+Encounter_boss.png
+size: 2048,256
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+Font_00
+  rotate: false
+  xy: 1133, 71
+  size: 103, 103
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+Font_01
+  rotate: false
+  xy: 1028, 70
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+Font_02
+  rotate: false
+  xy: 1238, 71
+  size: 103, 103
+  orig: 103, 104
+  offset: 0, 1
+  index: -1
+Font_04
+  rotate: false
+  xy: 1343, 71
+  size: 103, 103
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+UI_00
+  rotate: false
+  xy: 2, 2
+  size: 1024, 172
+  orig: 1024, 172
+  offset: 0, 0
+  index: -1

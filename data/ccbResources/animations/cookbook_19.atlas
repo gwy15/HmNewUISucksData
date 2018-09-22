@@ -1,0 +1,76 @@
+
+cookbook_19.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H1
+  rotate: false
+  xy: 319, 570
+  size: 319, 372
+  orig: 600, 600
+  offset: 178, 170
+  index: -1
+H3
+  rotate: false
+  xy: 2, 527
+  size: 315, 415
+  orig: 600, 600
+  offset: 175, 53
+  index: -1
+PZ
+  rotate: true
+  xy: 2, 2
+  size: 523, 132
+  orig: 600, 600
+  offset: 52, 160
+  index: -1
+T1
+  rotate: false
+  xy: 677, 370
+  size: 297, 277
+  orig: 600, 600
+  offset: 195, 130
+  index: -1
+T2
+  rotate: true
+  xy: 136, 121
+  size: 404, 128
+  orig: 600, 600
+  offset: 108, 192
+  index: -1
+T3
+  rotate: true
+  xy: 266, 121
+  size: 404, 115
+  orig: 600, 600
+  offset: 108, 205
+  index: -1
+T4
+  rotate: false
+  xy: 136, 39
+  size: 404, 80
+  orig: 600, 600
+  offset: 108, 214
+  index: -1
+TDH1
+  rotate: false
+  xy: 640, 649
+  size: 358, 293
+  orig: 600, 600
+  offset: 115, 121
+  index: -1
+TDH2
+  rotate: true
+  xy: 383, 217
+  size: 351, 292
+  orig: 600, 600
+  offset: 81, 145
+  index: -1
+TDH2A
+  rotate: false
+  xy: 677, 196
+  size: 266, 172
+  orig: 600, 600
+  offset: 83, 202
+  index: -1

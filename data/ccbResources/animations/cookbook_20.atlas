@@ -1,0 +1,173 @@
+
+cookbook_20.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N1_shadow
+  rotate: false
+  xy: 389, 4
+  size: 163, 72
+  orig: 600, 600
+  offset: 324, 69
+  index: -1
+N2
+  rotate: false
+  xy: 554, 16
+  size: 101, 60
+  orig: 600, 600
+  offset: 327, 75
+  index: -1
+PZ
+  rotate: false
+  xy: 432, 78
+  size: 560, 370
+  orig: 600, 600
+  offset: 32, 29
+  index: -1
+T2A
+  rotate: true
+  xy: 2, 2
+  size: 175, 385
+  orig: 600, 600
+  offset: 148, 140
+  index: -1
+T3
+  rotate: false
+  xy: 2, 179
+  size: 428, 300
+  orig: 600, 600
+  offset: 87, 128
+  index: -1
+TDH1
+  rotate: false
+  xy: 657, 23
+  size: 96, 53
+  orig: 600, 600
+  offset: 139, 186
+  index: -1
+Y1
+  rotate: false
+  xy: 2, 481
+  size: 521, 532
+  orig: 600, 600
+  offset: 43, 26
+  index: -1
+Y3
+  rotate: false
+  xy: 525, 450
+  size: 479, 563
+  orig: 600, 600
+  offset: 23, 0
+  index: -1
+
+cookbook_202.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H1
+  rotate: true
+  xy: 386, 374
+  size: 285, 208
+  orig: 600, 600
+  offset: 97, 120
+  index: -1
+H2
+  rotate: false
+  xy: 411, 8
+  size: 197, 156
+  orig: 600, 600
+  offset: 208, 282
+  index: -1
+H3
+  rotate: false
+  xy: 688, 223
+  size: 193, 215
+  orig: 600, 600
+  offset: 271, 60
+  index: -1
+H4
+  rotate: false
+  xy: 884, 448
+  size: 130, 184
+  orig: 600, 600
+  offset: 353, 279
+  index: -1
+N1
+  rotate: true
+  xy: 610, 58
+  size: 106, 84
+  orig: 600, 600
+  offset: 326, 75
+  index: -1
+PZ2
+  rotate: false
+  xy: 2, 154
+  size: 365, 235
+  orig: 600, 600
+  offset: 125, 106
+  index: -1
+T2
+  rotate: false
+  xy: 885, 634
+  size: 136, 384
+  orig: 600, 600
+  offset: 230, 104
+  index: -1
+T2B
+  rotate: true
+  xy: 2, 2
+  size: 150, 407
+  orig: 600, 600
+  offset: 284, 135
+  index: -1
+T2C
+  rotate: true
+  xy: 596, 440
+  size: 302, 286
+  orig: 600, 600
+  offset: 191, 190
+  index: -1
+T4
+  rotate: false
+  xy: 369, 166
+  size: 317, 206
+  orig: 600, 600
+  offset: 170, 96
+  index: -1
+TDH2
+  rotate: true
+  xy: 696, 45
+  size: 86, 97
+  orig: 600, 600
+  offset: 171, 80
+  index: -1
+Y2
+  rotate: false
+  xy: 2, 661
+  size: 540, 357
+  orig: 600, 600
+  offset: 19, 139
+  index: -1
+YZ1
+  rotate: false
+  xy: 696, 133
+  size: 104, 88
+  orig: 600, 600
+  offset: 394, 109
+  index: -1
+shadow2
+  rotate: false
+  xy: 544, 744
+  size: 339, 274
+  orig: 600, 600
+  offset: 152, 92
+  index: -1
+shadow3
+  rotate: false
+  xy: 2, 391
+  size: 382, 268
+  orig: 600, 600
+  offset: 118, 98
+  index: -1

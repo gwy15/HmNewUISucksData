@@ -1,0 +1,34 @@
+
+furniture_308_A.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 2, 15
+  size: 224, 80
+  orig: 334, 261
+  offset: 34, 12
+  index: -1
+B
+  rotate: false
+  xy: 435, 29
+  size: 72, 66
+  orig: 334, 261
+  offset: 155, 106
+  index: -1
+C
+  rotate: false
+  xy: 228, 2
+  size: 198, 45
+  orig: 334, 261
+  offset: 47, 75
+  index: -1
+D
+  rotate: false
+  xy: 228, 49
+  size: 205, 46
+  orig: 334, 261
+  offset: 44, 19
+  index: -1

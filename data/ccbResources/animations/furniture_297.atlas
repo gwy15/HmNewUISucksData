@@ -1,0 +1,41 @@
+
+furniture_297.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: true
+  xy: 2, 15
+  size: 111, 175
+  orig: 181, 207
+  offset: 34, 14
+  index: -1
+cap
+  rotate: false
+  xy: 179, 65
+  size: 140, 61
+  orig: 181, 207
+  offset: 13, 134
+  index: -1
+hand_L
+  rotate: true
+  xy: 179, 2
+  size: 38, 32
+  orig: 181, 207
+  offset: 18, 63
+  index: -1
+hand_R
+  rotate: false
+  xy: 321, 92
+  size: 41, 34
+  orig: 181, 207
+  offset: 117, 106
+  index: -1
+shadow
+  rotate: false
+  xy: 179, 42
+  size: 60, 21
+  orig: 181, 207
+  offset: 70, 5
+  index: -1

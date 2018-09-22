@@ -1,0 +1,82 @@
+
+cookbook_17.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H1
+  rotate: false
+  xy: 358, 51
+  size: 237, 173
+  orig: 600, 600
+  offset: 188, 309
+  index: -1
+H3
+  rotate: true
+  xy: 408, 226
+  size: 324, 474
+  orig: 600, 600
+  offset: 143, 59
+  index: -1
+PZ
+  rotate: false
+  xy: 2, 722
+  size: 587, 299
+  orig: 600, 600
+  offset: 9, 86
+  index: -1
+T1
+  rotate: true
+  xy: 597, 77
+  size: 147, 307
+  orig: 600, 600
+  offset: 354, 168
+  index: -1
+T2
+  rotate: true
+  xy: 591, 552
+  size: 469, 418
+  orig: 600, 600
+  offset: 72, 123
+  index: -1
+T3
+  rotate: false
+  xy: 2, 307
+  size: 404, 413
+  orig: 600, 600
+  offset: 72, 128
+  index: -1
+T4
+  rotate: false
+  xy: 2, 2
+  size: 354, 303
+  orig: 600, 600
+  offset: 75, 141
+  index: -1
+TDH1
+  rotate: true
+  xy: 408, 635
+  size: 85, 107
+  orig: 600, 600
+  offset: 270, 245
+  index: -1
+TDH3
+  rotate: true
+  xy: 884, 460
+  size: 90, 88
+  orig: 600, 600
+  offset: 260, 99
+  index: -1
+
+cookbook_172.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TDH2
+  rotate: false
+  xy: 2, 2
+  size: 240, 143
+  orig: 600, 600
+  offset: 62, 138
+  index: -1

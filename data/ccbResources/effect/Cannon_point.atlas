@@ -1,0 +1,83 @@
+
+Cannon_point.png
+size: 468,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_point
+  rotate: false
+  xy: 337, 21
+  size: 66, 66
+  orig: 82, 82
+  offset: 8, 8
+  index: -1
+Cannon_00
+  rotate: true
+  xy: 330, 89
+  size: 74, 67
+  orig: 82, 82
+  offset: 4, 11
+  index: -1
+Cannon_01
+  rotate: true
+  xy: 399, 89
+  size: 74, 67
+  orig: 82, 82
+  offset: 4, 11
+  index: -1
+Cannon_02
+  rotate: true
+  xy: 231, 2
+  size: 77, 51
+  orig: 82, 82
+  offset: 3, 17
+  index: -1
+Cannon_03
+  rotate: true
+  xy: 284, 2
+  size: 77, 51
+  orig: 82, 82
+  offset: 3, 17
+  index: -1
+Cannon_04
+  rotate: false
+  xy: 150, 5
+  size: 79, 42
+  orig: 82, 82
+  offset: 1, 24
+  index: -1
+Cannon_05
+  rotate: true
+  xy: 286, 84
+  size: 79, 42
+  orig: 82, 82
+  offset: 1, 24
+  index: -1
+Light_00
+  rotate: false
+  xy: 2, 16
+  size: 146, 147
+  orig: 154, 154
+  offset: 2, 5
+  index: -1
+Railway_00
+  rotate: true
+  xy: 230, 81
+  size: 82, 54
+  orig: 82, 82
+  offset: 0, 14
+  index: -1
+Railway_01
+  rotate: true
+  xy: 405, 25
+  size: 62, 59
+  orig: 82, 82
+  offset: 7, 16
+  index: -1
+Railway_02
+  rotate: true
+  xy: 150, 49
+  size: 114, 78
+  orig: 120, 82
+  offset: 3, 1
+  index: -1

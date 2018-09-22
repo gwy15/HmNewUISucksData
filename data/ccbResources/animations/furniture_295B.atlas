@@ -1,0 +1,76 @@
+
+furniture_295B.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 2, 88
+  size: 211, 165
+  orig: 1024, 768
+  offset: 309, 144
+  index: -1
+C
+  rotate: false
+  xy: 215, 155
+  size: 94, 98
+  orig: 1024, 768
+  offset: 255, 123
+  index: -1
+C2
+  rotate: false
+  xy: 2, 38
+  size: 81, 48
+  orig: 1024, 768
+  offset: 266, 124
+  index: -1
+L1
+  rotate: false
+  xy: 215, 90
+  size: 64, 63
+  orig: 1024, 768
+  offset: 359, 122
+  index: -1
+L2
+  rotate: false
+  xy: 85, 38
+  size: 47, 48
+  orig: 1024, 768
+  offset: 451, 121
+  index: -1
+LZ1
+  rotate: false
+  xy: 311, 190
+  size: 62, 63
+  orig: 1024, 768
+  offset: 250, 125
+  index: -1
+LZ2
+  rotate: false
+  xy: 375, 196
+  size: 57, 57
+  orig: 1024, 768
+  offset: 246, 151
+  index: -1
+LZ3
+  rotate: false
+  xy: 434, 199
+  size: 53, 54
+  orig: 1024, 768
+  offset: 242, 173
+  index: -1
+Z1
+  rotate: false
+  xy: 2, 2
+  size: 71, 34
+  orig: 1024, 768
+  offset: 278, 148
+  index: -1
+Z2
+  rotate: true
+  xy: 281, 93
+  size: 60, 27
+  orig: 1024, 768
+  offset: 264, 195
+  index: -1

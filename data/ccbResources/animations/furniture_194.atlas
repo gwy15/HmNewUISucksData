@@ -1,0 +1,118 @@
+
+furniture_194.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SH
+  rotate: true
+  xy: 70, 2
+  size: 39, 40
+  orig: 170, 144
+  offset: 99, 28
+  index: -1
+body
+  rotate: false
+  xy: 2, 6
+  size: 66, 120
+  orig: 170, 144
+  offset: 40, 9
+  index: -1
+eye1
+  rotate: false
+  xy: 420, 106
+  size: 17, 20
+  orig: 170, 144
+  offset: 117, 120
+  index: -1
+eye2
+  rotate: false
+  xy: 225, 3
+  size: 18, 25
+  orig: 170, 144
+  offset: 89, 119
+  index: -1
+hand_L
+  rotate: false
+  xy: 299, 104
+  size: 56, 22
+  orig: 170, 144
+  offset: 51, 59
+  index: -1
+hand_L2
+  rotate: false
+  xy: 112, 2
+  size: 53, 26
+  orig: 170, 144
+  offset: 66, 50
+  index: -1
+hand_L3
+  rotate: false
+  xy: 244, 49
+  size: 37, 19
+  orig: 170, 144
+  offset: 89, 58
+  index: -1
+hand_R
+  rotate: false
+  xy: 244, 30
+  size: 31, 17
+  orig: 170, 144
+  offset: 95, 64
+  index: -1
+hand_R2
+  rotate: false
+  xy: 244, 70
+  size: 51, 30
+  orig: 170, 144
+  offset: 119, 69
+  index: -1
+head
+  rotate: false
+  xy: 158, 30
+  size: 84, 70
+  orig: 170, 144
+  offset: 60, 74
+  index: -1
+leg_L1
+  rotate: true
+  xy: 357, 101
+  size: 25, 29
+  orig: 170, 144
+  offset: 32, 6
+  index: -1
+leg_L2
+  rotate: true
+  xy: 388, 106
+  size: 20, 30
+  orig: 170, 144
+  offset: 21, 7
+  index: -1
+leg_L3
+  rotate: false
+  xy: 198, 2
+  size: 25, 26
+  orig: 170, 144
+  offset: 11, 10
+  index: -1
+leg_R
+  rotate: false
+  xy: 167, 2
+  size: 29, 26
+  orig: 170, 144
+  offset: 88, 6
+  index: -1
+shadow
+  rotate: false
+  xy: 158, 102
+  size: 139, 24
+  orig: 170, 144
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 70, 43
+  size: 86, 83
+  orig: 170, 144
+  offset: 11, 9
+  index: -1

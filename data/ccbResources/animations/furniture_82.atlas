@@ -1,0 +1,62 @@
+
+furniture_82.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 188, 2
+  size: 47, 70
+  orig: 372, 305
+  offset: 174, 90
+  index: -1
+2
+  rotate: true
+  xy: 358, 47
+  size: 47, 70
+  orig: 372, 305
+  offset: 174, 90
+  index: -1
+3
+  rotate: true
+  xy: 430, 44
+  size: 50, 70
+  orig: 372, 305
+  offset: 171, 90
+  index: -1
+4
+  rotate: true
+  xy: 271, 4
+  size: 50, 70
+  orig: 372, 305
+  offset: 171, 90
+  index: -1
+D
+  rotate: false
+  xy: 2, 8
+  size: 184, 86
+  orig: 372, 305
+  offset: 94, 35
+  index: -1
+ex1
+  rotate: false
+  xy: 271, 56
+  size: 85, 38
+  orig: 372, 305
+  offset: 156, 78
+  index: -1
+ex2
+  rotate: false
+  xy: 188, 51
+  size: 81, 43
+  orig: 372, 305
+  offset: 156, 80
+  index: -1
+ex3
+  rotate: true
+  xy: 343, 3
+  size: 42, 54
+  orig: 372, 305
+  offset: 177, 79
+  index: -1

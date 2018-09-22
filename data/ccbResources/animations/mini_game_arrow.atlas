@@ -1,0 +1,83 @@
+
+mini_game_arrow.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow_line_0002
+  rotate: false
+  xy: 507, 9
+  size: 65, 68
+  orig: 96, 96
+  offset: 17, 16
+  index: -1
+Arrow_line_0004
+  rotate: false
+  xy: 438, 8
+  size: 67, 69
+  orig: 96, 96
+  offset: 16, 15
+  index: -1
+Arrow_line_0006
+  rotate: false
+  xy: 296, 5
+  size: 69, 72
+  orig: 96, 96
+  offset: 15, 14
+  index: -1
+Arrow_line_0008
+  rotate: false
+  xy: 225, 4
+  size: 69, 73
+  orig: 96, 96
+  offset: 15, 14
+  index: -1
+Arrow_line_0010
+  rotate: false
+  xy: 152, 3
+  size: 71, 74
+  orig: 96, 96
+  offset: 14, 13
+  index: -1
+Arrow_line_0012
+  rotate: false
+  xy: 2, 2
+  size: 73, 75
+  orig: 96, 96
+  offset: 13, 12
+  index: -1
+Arrow_line_0014
+  rotate: false
+  xy: 77, 2
+  size: 73, 75
+  orig: 96, 96
+  offset: 13, 12
+  index: -1
+Box_line_2
+  rotate: false
+  xy: 367, 6
+  size: 69, 71
+  orig: 75, 75
+  offset: 3, 2
+  index: -1
+arrow_light_1
+  rotate: false
+  xy: 574, 13
+  size: 62, 64
+  orig: 64, 64
+  offset: 1, 0
+  index: -1
+arrow_off
+  rotate: false
+  xy: 638, 13
+  size: 62, 64
+  orig: 64, 64
+  offset: 1, 0
+  index: -1
+arrow_on
+  rotate: false
+  xy: 702, 13
+  size: 62, 64
+  orig: 64, 64
+  offset: 1, 0
+  index: -1

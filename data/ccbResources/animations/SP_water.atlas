@@ -1,0 +1,55 @@
+
+SP_water.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+water (1)
+  rotate: false
+  xy: 2, 320
+  size: 657, 157
+  orig: 659, 158
+  offset: 2, 0
+  index: -1
+water (2)
+  rotate: false
+  xy: 2, 638
+  size: 659, 157
+  orig: 659, 158
+  offset: 0, 0
+  index: -1
+water (3)
+  rotate: false
+  xy: 2, 479
+  size: 658, 157
+  orig: 659, 158
+  offset: 0, 0
+  index: -1
+water (4)
+  rotate: false
+  xy: 2, 161
+  size: 657, 157
+  orig: 659, 158
+  offset: 0, 0
+  index: -1
+water (5)
+  rotate: false
+  xy: 2, 797
+  size: 659, 158
+  orig: 659, 158
+  offset: 0, 0
+  index: -1
+water (6)
+  rotate: false
+  xy: 2, 2
+  size: 657, 157
+  orig: 659, 158
+  offset: 2, 0
+  index: -1
+water (7)
+  rotate: true
+  xy: 663, 298
+  size: 657, 157
+  orig: 659, 158
+  offset: 2, 0
+  index: -1

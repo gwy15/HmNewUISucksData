@@ -1,0 +1,36 @@
+{
+"skeleton": { "hash": "wbKPhvL4CdZF3/+huVKkd0iuLqY", "spine": "3.2.01", "width": 401, "height": 224, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "骨骼", "parent": "root" },
+	{ "name": "A", "parent": "骨骼" }
+],
+"slots": [
+	{ "name": "1", "bone": "A", "attachment": "1" }
+],
+"skins": {
+	"default": {
+		"1": {
+			"1": { "width": 401, "height": 224 },
+			"2": { "width": 401, "height": 224 },
+			"3": { "width": 401, "height": 224 },
+			"4": { "width": 401, "height": 224 }
+		}
+	}
+},
+"animations": {
+	"normal": {
+		"slots": {
+			"1": {
+				"attachment": [
+					{ "time": 0, "name": "1" },
+					{ "time": 0.1, "name": "2" },
+					{ "time": 0.2, "name": "3" },
+					{ "time": 0.3, "name": "4" },
+					{ "time": 0.4, "name": "1" }
+				]
+			}
+		}
+	}
+}
+}

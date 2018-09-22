@@ -1,0 +1,90 @@
+
+furniture_1018_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 558
+  size: 170, 192
+  orig: 196, 198
+  offset: 8, 0
+  index: -1
+10
+  rotate: false
+  xy: 204, 772
+  size: 179, 181
+  orig: 196, 198
+  offset: 8, 6
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 172, 181
+  orig: 196, 198
+  offset: 9, 4
+  index: -1
+3
+  rotate: false
+  xy: 174, 569
+  size: 170, 181
+  orig: 196, 198
+  offset: 10, 5
+  index: -1
+4
+  rotate: false
+  xy: 2, 185
+  size: 168, 182
+  orig: 196, 198
+  offset: 11, 3
+  index: -1
+5
+  rotate: true
+  xy: 565, 778
+  size: 175, 183
+  orig: 196, 198
+  offset: 10, 3
+  index: -1
+6
+  rotate: false
+  xy: 2, 369
+  size: 168, 187
+  orig: 196, 198
+  offset: 11, 5
+  index: -1
+7
+  rotate: false
+  xy: 346, 591
+  size: 177, 179
+  orig: 196, 198
+  offset: 6, 7
+  index: -1
+8
+  rotate: false
+  xy: 525, 594
+  size: 173, 176
+  orig: 196, 198
+  offset: 11, 9
+  index: -1
+9
+  rotate: false
+  xy: 385, 772
+  size: 178, 181
+  orig: 196, 198
+  offset: 4, 4
+  index: -1
+A
+  rotate: false
+  xy: 750, 779
+  size: 184, 174
+  orig: 196, 198
+  offset: 0, 1
+  index: -1
+black
+  rotate: false
+  xy: 2, 752
+  size: 200, 201
+  orig: 200, 201
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,341 @@
+{
+"skeleton": { "hash": "52l6uOtr9vyQGiEEoDDSJplBMJQ", "spine": "3.2.01", "width": 2011.32, "height": 1538.71, "images": "" },
+"bones": [
+	{ "name": "Skill" },
+	{ "name": "Actor_picture", "parent": "Skill", "x": -210, "y": -165, "scaleX": 1.5, "scaleY": 1.5 },
+	{ "name": "Actor_picture_2nd", "parent": "Skill", "x": 210, "y": -3.8, "scaleX": 1.5, "scaleY": 1.5 },
+	{ "name": "Actor_picture_2nd_black", "parent": "Skill", "x": 210, "y": -3.8, "scaleX": 1.5, "scaleY": 1.5 },
+	{ "name": "Actor_picture_black", "parent": "Skill", "x": -210, "y": -165, "scaleX": 1.5, "scaleY": 1.5 },
+	{ "name": "Line_black", "parent": "Skill", "y": -172.99 },
+	{ "name": "Line_move", "parent": "Skill", "x": 132.61, "y": 420.17 },
+	{ "name": "Line_yellow_new", "parent": "Skill" },
+	{ "name": "Skill_name", "parent": "Skill", "x": 8.8, "y": -165.42 }
+],
+"slots": [
+	{ "name": "Mask_new", "bone": "Skill", "attachment": "Mask_new" },
+	{ "name": "Actor_picture_black", "bone": "Actor_picture_black", "attachment": "Actor_picture" },
+	{ "name": "Actor_picture", "bone": "Actor_picture", "attachment": "Actor_picture" },
+	{ "name": "Actor_picture_2nd_black", "bone": "Actor_picture_2nd_black", "attachment": "Actor_picture_2nd" },
+	{ "name": "Actor_picture_2nd", "bone": "Actor_picture_2nd", "attachment": "Actor_picture_2nd" },
+	{ "name": "Black_line_new", "bone": "Line_move", "attachment": "Black_line" },
+	{ "name": "Line_black", "bone": "Line_black", "attachment": "new_skill_line_black" },
+	{ "name": "Line_yellow", "bone": "Line_yellow_new", "attachment": "new_skill_line_yellow" },
+	{ "name": "Skill_name", "bone": "Skill_name", "attachment": "Skill_name" }
+],
+"skins": {
+	"default": {
+		"Actor_picture": {
+			"Actor_picture": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 512, -512, -512, -512, -512, 512, 512, 512 ],
+				"hull": 4,
+				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+				"width": 1024,
+				"height": 1024
+			}
+		},
+		"Actor_picture_2nd": {
+			"Actor_picture_2nd": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 548.88, -621.27, -475.11, -621.27, -475.11, 402.72, 548.88, 402.72 ],
+				"hull": 4,
+				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+				"width": 1024,
+				"height": 1024
+			}
+		},
+		"Actor_picture_2nd_black": {
+			"Actor_picture_2nd": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 548.88, -621.27, -475.11, -621.27, -475.11, 402.72, 548.88, 402.72 ],
+				"hull": 4,
+				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+				"width": 1024,
+				"height": 1024
+			}
+		},
+		"Actor_picture_black": {
+			"Actor_picture": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 512, -512, -512, -512, -512, 512, 512, 512 ],
+				"hull": 4,
+				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+				"width": 1024,
+				"height": 1024
+			}
+		},
+		"Black_line_new": {
+			"Black_line": { "width": 50, "height": 50 }
+		},
+		"Line_black": {
+			"new_skill_line_black": { "y": 172.99, "scaleX": 75, "width": 16, "height": 768 }
+		},
+		"Line_yellow": {
+			"new_skill_line_yellow": { "scaleX": 2, "scaleY": 2, "width": 512, "height": 384 }
+		},
+		"Mask_new": {
+			"Mask_new": { "scaleX": 12, "scaleY": 10, "width": 100, "height": 100 }
+		},
+		"Skill_name": {
+			"Skill_name": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 267.33, -52.36, -270.66, -52.36, -270.66, 50.63, 267.33, 50.63 ],
+				"hull": 4,
+				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+				"width": 538,
+				"height": 103
+			}
+		}
+	}
+},
+"animations": {
+	"Skill_Start": {
+		"slots": {
+			"Actor_picture": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.8333, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "Actor_picture" }
+				]
+			},
+			"Actor_picture_2nd": {
+				"color": [
+					{ "time": 0.1, "color": "ffffff00" },
+					{ "time": 0.4333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.8333, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Actor_picture_2nd" }
+				]
+			},
+			"Actor_picture_2nd_black": {
+				"color": [
+					{
+						"time": 0.4,
+						"color": "00000000",
+						"curve": [ 0.552, 0.23, 0.837, 0.45 ]
+					},
+					{ "time": 0.4666, "color": "0000009b", "curve": "stepped" },
+					{
+						"time": 1.3333,
+						"color": "0000009b",
+						"curve": [ 0.537, 0.2, 0.826, 0.54 ]
+					},
+					{ "time": 2, "color": "00000000" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4, "name": "Actor_picture_2nd" },
+					{ "time": 2, "name": null },
+					{ "time": 2.3333, "name": null }
+				]
+			},
+			"Actor_picture_black": {
+				"color": [
+					{
+						"time": 0.5,
+						"color": "00000000",
+						"curve": [ 0.354, 0, 0.954, 0.65 ]
+					},
+					{ "time": 0.5666, "color": "00000094", "curve": "stepped" },
+					{
+						"time": 1.3333,
+						"color": "00000094",
+						"curve": [ 0.373, 0, 0.969, 0.66 ]
+					},
+					{ "time": 2, "color": "00000000" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "Actor_picture" },
+					{ "time": 2, "name": null },
+					{ "time": 2.3333, "name": null }
+				]
+			},
+			"Black_line_new": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0666, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				]
+			},
+			"Line_black": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.307, 0.01, 0.911, 0.69 ]
+					},
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				]
+			},
+			"Line_yellow": {
+				"color": [
+					{
+						"time": 0.1666,
+						"color": "ffffff00",
+						"curve": [ 0.44, 0.01, 0.926, 0.61 ]
+					},
+					{ "time": 0.5, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "new_skill_line_yellow" }
+				]
+			},
+			"Mask_new": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1333, "color": "ffffffb2", "curve": "stepped" },
+					{
+						"time": 1.8333,
+						"color": "ffffffb2",
+						"curve": [ 0.691, 0.12, 0.883, 0.5 ]
+					},
+					{ "time": 2.3333, "color": "ffffff00" }
+				]
+			},
+			"Skill_name": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffff00" },
+					{ "time": 0.4333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.8333, "color": "ffffffff" },
+					{ "time": 2.1666, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "Skill_name" }
+				]
+			}
+		},
+		"bones": {
+			"Skill": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1.5, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.5, "x": 0, "y": 0 }
+				]
+			},
+			"Actor_picture_2nd": {
+				"translate": [
+					{
+						"time": 0.1,
+						"x": -150,
+						"y": -352.2,
+						"curve": [ 0.153, 0.51, 0.607, 0.92 ]
+					},
+					{ "time": 0.4333, "x": 0, "y": -0.2 },
+					{ "time": 2.3333, "x": 12, "y": 8.41 }
+				]
+			},
+			"Skill_name": {
+				"rotate": [
+					{ "time": 0.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 2.1666, "angle": 0 }
+				],
+				"translate": [
+					{
+						"time": 0.3333,
+						"x": -973.8,
+						"y": 0.42,
+						"curve": [ 0.142, 0.51, 0.478, 0.85 ]
+					},
+					{ "time": 0.6, "x": -8.9, "y": 0.42 },
+					{ "time": 2.1666, "x": 16.19, "y": 0.42 }
+				]
+			},
+			"Actor_picture_2nd_black": {
+				"translate": [
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 2, "x": -15, "y": -21.2 }
+				],
+				"scale": [
+					{ "time": 0.4, "x": 1, "y": 1 },
+					{ "time": 2, "x": 1.1, "y": 1.1 }
+				]
+			},
+			"Actor_picture": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 260,
+						"y": 633,
+						"curve": [ 0.111, 0.37, 0.726, 0.96 ]
+					},
+					{ "time": 0.3333, "x": 10, "y": 13 },
+					{ "time": 2.3333, "x": -6, "y": -1 }
+				]
+			},
+			"Actor_picture_black": {
+				"translate": [
+					{ "time": 0.5, "x": 9.17, "y": 12.03 },
+					{ "time": 2, "x": -22.98, "y": -40.66 }
+				],
+				"scale": [
+					{ "time": 0.5, "x": 1, "y": 1 },
+					{ "time": 2, "x": 1.1, "y": 1.1 }
+				]
+			},
+			"Line_move": {
+				"rotate": [
+					{ "time": 0, "angle": 343 }
+				],
+				"translate": [
+					{ "time": 0, "x": 47.78, "y": 132.11 },
+					{ "time": 0.0666, "x": -134.48, "y": -432.67 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 3.34,
+						"y": 5.86,
+						"curve": [ 0.059, 0.29, 0.75, 1 ]
+					},
+					{
+						"time": 0.0666,
+						"x": 0.5,
+						"y": 20,
+						"curve": [ 0.059, 0.29, 0.75, 1 ]
+					},
+					{ "time": 0.1333, "x": 0.4, "y": 20 }
+				]
+			},
+			"Line_yellow_new": {
+				"scale": [
+					{
+						"time": 0.1666,
+						"x": 4,
+						"y": 1,
+						"curve": [ 0.44, 0.01, 0.926, 0.61 ]
+					},
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

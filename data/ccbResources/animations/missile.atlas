@@ -1,0 +1,76 @@
+
+missile.png
+size: 565,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Booster_00
+  rotate: false
+  xy: 2, 89
+  size: 55, 24
+  orig: 300, 300
+  offset: 101, 122
+  index: -1
+Fire_line_0001
+  rotate: false
+  xy: 176, 64
+  size: 111, 49
+  orig: 130, 60
+  offset: 14, 6
+  index: -1
+Fire_line_0002
+  rotate: false
+  xy: 289, 62
+  size: 108, 51
+  orig: 130, 60
+  offset: 17, 4
+  index: -1
+Fire_line_0003
+  rotate: false
+  xy: 2, 14
+  size: 117, 52
+  orig: 130, 60
+  offset: 6, 5
+  index: -1
+Fire_line_0004
+  rotate: false
+  xy: 399, 62
+  size: 109, 51
+  orig: 130, 60
+  offset: 12, 6
+  index: -1
+Fire_line_0005
+  rotate: false
+  xy: 121, 10
+  size: 119, 52
+  orig: 130, 60
+  offset: 4, 5
+  index: -1
+Fire_line_0006
+  rotate: true
+  xy: 510, 9
+  size: 104, 53
+  orig: 130, 60
+  offset: 17, 4
+  index: -1
+Fire_line_0007
+  rotate: false
+  xy: 59, 68
+  size: 115, 45
+  orig: 130, 60
+  offset: 6, 10
+  index: -1
+Missile_00
+  rotate: false
+  xy: 242, 3
+  size: 132, 57
+  orig: 300, 300
+  offset: 92, 131
+  index: -1
+Missile_01
+  rotate: false
+  xy: 376, 2
+  size: 130, 58
+  orig: 300, 300
+  offset: 95, 128
+  index: -1

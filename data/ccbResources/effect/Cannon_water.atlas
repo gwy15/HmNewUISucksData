@@ -1,0 +1,613 @@
+
+Cannon_water.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+act1_P1
+  rotate: true
+  xy: 382, 348
+  size: 131, 391
+  orig: 131, 391
+  offset: 0, 0
+  index: -1
+act1_P4
+  rotate: false
+  xy: 2, 440
+  size: 378, 477
+  orig: 378, 477
+  offset: 0, 0
+  index: -1
+act1_P5
+  rotate: false
+  xy: 382, 481
+  size: 394, 436
+  orig: 394, 436
+  offset: 0, 0
+  index: -1
+act1_fish_D1
+  rotate: true
+  xy: 737, 19
+  size: 327, 86
+  orig: 327, 86
+  offset: 0, 0
+  index: -1
+act1_water0
+  rotate: false
+  xy: 360, 96
+  size: 375, 250
+  orig: 375, 250
+  offset: 0, 0
+  index: -1
+act2_Girl2_J2
+  rotate: true
+  xy: 960, 932
+  size: 22, 53
+  orig: 22, 53
+  offset: 0, 0
+  index: -1
+act2_Girl2_hair_L
+  rotate: true
+  xy: 825, 22
+  size: 389, 182
+  orig: 389, 182
+  offset: 0, 0
+  index: -1
+act2_Girl3_hand_L2
+  rotate: false
+  xy: 775, 377
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+act2_waterD
+  rotate: false
+  xy: 2, 919
+  size: 956, 100
+  orig: 956, 100
+  offset: 0, 0
+  index: -1
+act3_J3
+  rotate: true
+  xy: 389, 2
+  size: 92, 341
+  orig: 92, 341
+  offset: 0, 0
+  index: -1
+act3_J4
+  rotate: false
+  xy: 945, 575
+  size: 67, 342
+  orig: 67, 342
+  offset: 0, 0
+  index: -1
+act3_cloud1
+  rotate: false
+  xy: 2, 8
+  size: 385, 72
+  orig: 385, 72
+  offset: 0, 0
+  index: -1
+act3_cloud5
+  rotate: true
+  xy: 778, 413
+  size: 504, 165
+  orig: 506, 166
+  offset: 2, 1
+  index: -1
+act4_QQQ
+  rotate: false
+  xy: 2, 82
+  size: 356, 356
+  orig: 356, 356
+  offset: 0, 0
+  index: -1
+act5_girl2_hand_L
+  rotate: false
+  xy: 960, 956
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+act5_girl2_hand_R2
+  rotate: false
+  xy: 945, 428
+  size: 70, 145
+  orig: 70, 145
+  offset: 0, 0
+  index: -1
+
+Cannon_water2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+act1_Girl_leg_L_foot
+  rotate: false
+  xy: 367, 546
+  size: 73, 51
+  orig: 73, 51
+  offset: 0, 0
+  index: -1
+act1_Girl_leg_R2
+  rotate: true
+  xy: 548, 4
+  size: 126, 122
+  orig: 126, 122
+  offset: 0, 0
+  index: -1
+act1_fish
+  rotate: false
+  xy: 144, 840
+  size: 377, 182
+  orig: 377, 182
+  offset: 0, 0
+  index: -1
+act1_water1
+  rotate: false
+  xy: 367, 248
+  size: 300, 99
+  orig: 300, 99
+  offset: 0, 0
+  index: -1
+act1_water2
+  rotate: true
+  xy: 669, 193
+  size: 300, 116
+  orig: 300, 116
+  offset: 0, 0
+  index: -1
+act2_Girl1_body
+  rotate: true
+  xy: 144, 599
+  size: 239, 296
+  orig: 239, 296
+  offset: 0, 0
+  index: -1
+act2_Girl1_hair
+  rotate: false
+  xy: 2, 7
+  size: 214, 241
+  orig: 214, 241
+  offset: 0, 0
+  index: -1
+act2_Girl1_hand_R
+  rotate: true
+  xy: 787, 398
+  size: 251, 232
+  orig: 251, 232
+  offset: 0, 0
+  index: -1
+act2_Girl1_head
+  rotate: false
+  xy: 825, 815
+  size: 193, 207
+  orig: 193, 207
+  offset: 0, 0
+  index: -1
+act2_Girl1_leg_L
+  rotate: false
+  xy: 2, 597
+  size: 140, 425
+  orig: 140, 425
+  offset: 0, 0
+  index: -1
+act2_Girl2_J
+  rotate: false
+  xy: 2, 250
+  size: 137, 345
+  orig: 137, 345
+  offset: 0, 0
+  index: -1
+act2_Girl2_JZ
+  rotate: false
+  xy: 820, 651
+  size: 202, 162
+  orig: 202, 162
+  offset: 0, 0
+  index: -1
+act2_Girl2_body
+  rotate: true
+  xy: 787, 207
+  size: 189, 214
+  orig: 189, 214
+  offset: 0, 0
+  index: -1
+act2_Girl2_hair_R
+  rotate: false
+  xy: 218, 99
+  size: 295, 147
+  orig: 295, 147
+  offset: 0, 0
+  index: -1
+act2_Girl3_JZ
+  rotate: false
+  xy: 672, 5
+  size: 111, 186
+  orig: 111, 186
+  offset: 0, 0
+  index: -1
+act2_Girl3_body
+  rotate: true
+  xy: 787, 2
+  size: 203, 182
+  orig: 203, 182
+  offset: 0, 0
+  index: -1
+act2_Girl3_hand_R2
+  rotate: false
+  xy: 367, 499
+  size: 69, 45
+  orig: 69, 45
+  offset: 0, 0
+  index: -1
+act2_Girl3_head
+  rotate: true
+  xy: 515, 132
+  size: 114, 149
+  orig: 114, 149
+  offset: 0, 0
+  index: -1
+act2_fish1
+  rotate: false
+  xy: 218, 3
+  size: 328, 94
+  orig: 328, 94
+  offset: 0, 0
+  index: -1
+act3_J1
+  rotate: true
+  xy: 442, 603
+  size: 116, 343
+  orig: 116, 343
+  offset: 0, 0
+  index: -1
+act3_J2
+  rotate: true
+  xy: 442, 495
+  size: 106, 343
+  orig: 106, 343
+  offset: 0, 0
+  index: -1
+act3_J6
+  rotate: false
+  xy: 141, 252
+  size: 106, 343
+  orig: 106, 343
+  offset: 0, 0
+  index: -1
+act3_J7
+  rotate: false
+  xy: 249, 254
+  size: 116, 343
+  orig: 116, 343
+  offset: 0, 0
+  index: -1
+act3_cloud2
+  rotate: true
+  xy: 971, 25
+  size: 180, 40
+  orig: 180, 41
+  offset: 0, 1
+  index: -1
+act3_sky
+  rotate: false
+  xy: 367, 349
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: -1
+act4_MM
+  rotate: false
+  xy: 523, 822
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+act4_cloud2
+  rotate: false
+  xy: 442, 721
+  size: 376, 99
+  orig: 381, 99
+  offset: 0, 0
+  index: -1
+
+Cannon_water3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+act1_Girl_leg_L1
+  rotate: false
+  xy: 221, 464
+  size: 116, 193
+  orig: 116, 193
+  offset: 0, 0
+  index: -1
+act1_Girl_leg_L2
+  rotate: true
+  xy: 339, 578
+  size: 164, 70
+  orig: 164, 70
+  offset: 0, 0
+  index: -1
+act1_Girl_leg_R1
+  rotate: true
+  xy: 96, 659
+  size: 83, 227
+  orig: 83, 227
+  offset: 0, 0
+  index: -1
+act1_Girl_leg_R_foot
+  rotate: true
+  xy: 897, 901
+  size: 51, 75
+  orig: 51, 75
+  offset: 0, 0
+  index: -1
+act1_P2
+  rotate: false
+  xy: 191, 12
+  size: 45, 132
+  orig: 45, 132
+  offset: 0, 0
+  index: -1
+act1_P3
+  rotate: false
+  xy: 819, 730
+  size: 144, 159
+  orig: 144, 159
+  offset: 0, 0
+  index: -1
+act1_T
+  rotate: true
+  xy: 353, 213
+  size: 60, 107
+  orig: 60, 107
+  offset: 0, 0
+  index: -1
+act1_fish_D2
+  rotate: true
+  xy: 981, 922
+  size: 99, 37
+  orig: 99, 37
+  offset: 0, 0
+  index: -1
+act1_fish_D3
+  rotate: false
+  xy: 104, 146
+  size: 118, 49
+  orig: 118, 49
+  offset: 0, 0
+  index: -1
+act1_water3
+  rotate: true
+  xy: 2, 140
+  size: 236, 100
+  orig: 236, 100
+  offset: 0, 0
+  index: -1
+act1_water4
+  rotate: true
+  xy: 312, 224
+  size: 151, 39
+  orig: 151, 39
+  offset: 0, 0
+  index: -1
+act2_Girl1_hand_L
+  rotate: true
+  xy: 411, 769
+  size: 140, 168
+  orig: 140, 168
+  offset: 0, 0
+  index: -1
+act2_Girl1_leg_R
+  rotate: true
+  xy: 374, 911
+  size: 110, 303
+  orig: 110, 303
+  offset: 0, 0
+  index: -1
+act2_Girl2_hand_L1
+  rotate: false
+  xy: 251, 236
+  size: 59, 139
+  orig: 59, 139
+  offset: 0, 0
+  index: -1
+act2_Girl2_hand_L2
+  rotate: false
+  xy: 530, 587
+  size: 78, 104
+  orig: 78, 104
+  offset: 0, 0
+  index: -1
+act2_Girl2_hand_R1
+  rotate: false
+  xy: 581, 769
+  size: 74, 140
+  orig: 74, 140
+  offset: 0, 0
+  index: -1
+act2_Girl2_hand_R2
+  rotate: false
+  xy: 353, 275
+  size: 95, 101
+  orig: 95, 101
+  offset: 0, 0
+  index: -1
+act2_Girl2_head
+  rotate: false
+  xy: 72, 467
+  size: 147, 190
+  orig: 147, 190
+  offset: 0, 0
+  index: -1
+act2_Girl2_leg_L1
+  rotate: true
+  xy: 2, 2
+  size: 136, 123
+  orig: 136, 123
+  offset: 0, 0
+  index: -1
+act2_Girl2_leg_L2
+  rotate: false
+  xy: 411, 693
+  size: 181, 74
+  orig: 181, 74
+  offset: 0, 0
+  index: -1
+act2_Girl2_leg_R1
+  rotate: true
+  xy: 96, 744
+  size: 135, 207
+  orig: 135, 207
+  offset: 0, 0
+  index: -1
+act2_Girl2_leg_R2
+  rotate: true
+  xy: 104, 197
+  size: 188, 104
+  orig: 188, 104
+  offset: 0, 0
+  index: -1
+act2_Girl3_hair
+  rotate: false
+  xy: 409, 462
+  size: 91, 96
+  orig: 91, 96
+  offset: 0, 0
+  index: -1
+act2_Girl3_hand_L1
+  rotate: false
+  xy: 462, 207
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: -1
+act2_Girl3_hand_R1
+  rotate: true
+  xy: 442, 386
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+act2_Girl3_leg_L1
+  rotate: false
+  xy: 450, 287
+  size: 69, 97
+  orig: 69, 97
+  offset: 0, 0
+  index: -1
+act2_Girl3_leg_L2
+  rotate: true
+  xy: 214, 377
+  size: 85, 116
+  orig: 85, 116
+  offset: 0, 0
+  index: -1
+act2_Girl3_leg_R1
+  rotate: true
+  xy: 411, 560
+  size: 43, 109
+  orig: 43, 109
+  offset: 0, 0
+  index: -1
+act2_Girl3_leg_R2
+  rotate: true
+  xy: 332, 378
+  size: 82, 108
+  orig: 82, 108
+  offset: 0, 0
+  index: -1
+act2_fish2
+  rotate: false
+  xy: 522, 548
+  size: 99, 37
+  orig: 99, 37
+  offset: 0, 0
+  index: -1
+act2_water1
+  rotate: false
+  xy: 96, 881
+  size: 276, 140
+  orig: 276, 140
+  offset: 0, 0
+  index: -1
+act3_J5
+  rotate: false
+  xy: 2, 680
+  size: 92, 341
+  orig: 92, 341
+  offset: 0, 0
+  index: -1
+act3_cloud3
+  rotate: true
+  xy: 127, 8
+  size: 136, 62
+  orig: 139, 62
+  offset: 3, 0
+  index: -1
+act3_cloud4
+  rotate: true
+  xy: 210, 214
+  size: 161, 39
+  orig: 161, 39
+  offset: 0, 0
+  index: -1
+act3_water
+  rotate: false
+  xy: 679, 954
+  size: 300, 67
+  orig: 300, 67
+  offset: 0, 0
+  index: -1
+act4_cloud1
+  rotate: false
+  xy: 679, 891
+  size: 216, 61
+  orig: 216, 61
+  offset: 0, 0
+  index: -1
+act4_enemy1
+  rotate: false
+  xy: 339, 462
+  size: 68, 114
+  orig: 68, 114
+  offset: 0, 0
+  index: -1
+act4_enemy2
+  rotate: false
+  xy: 305, 744
+  size: 104, 135
+  orig: 104, 135
+  offset: 0, 0
+  index: -1
+act4_enemy3
+  rotate: true
+  xy: 411, 605
+  size: 86, 117
+  orig: 86, 117
+  offset: 0, 0
+  index: -1
+act4_water
+  rotate: true
+  xy: 2, 378
+  size: 300, 68
+  orig: 300, 68
+  offset: 0, 0
+  index: -1
+act5_girl2_hand_R1
+  rotate: true
+  xy: 72, 387
+  size: 78, 140
+  orig: 78, 140
+  offset: 0, 0
+  index: -1
+act5_torpedo1
+  rotate: false
+  xy: 657, 745
+  size: 160, 144
+  orig: 160, 144
+  offset: 0, 0
+  index: -1

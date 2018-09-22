@@ -1,0 +1,83 @@
+
+Connon_comic3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K
+  rotate: false
+  xy: 2, 468
+  size: 375, 547
+  orig: 375, 547
+  offset: 0, 0
+  index: -1
+K1
+  rotate: false
+  xy: 379, 497
+  size: 625, 257
+  orig: 625, 258
+  offset: 0, 1
+  index: -1
+K2
+  rotate: false
+  xy: 2, 71
+  size: 622, 166
+  orig: 622, 166
+  offset: 0, 0
+  index: -1
+K3
+  rotate: false
+  xy: 379, 239
+  size: 625, 256
+  orig: 625, 256
+  offset: 0, 0
+  index: -1
+K4
+  rotate: false
+  xy: 379, 756
+  size: 630, 259
+  orig: 630, 259
+  offset: 0, 0
+  index: -1
+q1a
+  rotate: false
+  xy: 240, 37
+  size: 89, 32
+  orig: 90, 32
+  offset: 0, 0
+  index: -1
+q1b
+  rotate: false
+  xy: 2, 2
+  size: 236, 67
+  orig: 236, 67
+  offset: 0, 0
+  index: -1
+q2
+  rotate: false
+  xy: 626, 156
+  size: 223, 81
+  orig: 223, 82
+  offset: 0, 0
+  index: -1
+q3a
+  rotate: false
+  xy: 626, 95
+  size: 219, 59
+  orig: 219, 59
+  offset: 0, 0
+  index: -1
+q3b
+  rotate: false
+  xy: 2, 396
+  size: 217, 70
+  orig: 217, 70
+  offset: 0, 0
+  index: -1
+q4
+  rotate: false
+  xy: 851, 177
+  size: 102, 60
+  orig: 103, 60
+  offset: 0, 0
+  index: -1

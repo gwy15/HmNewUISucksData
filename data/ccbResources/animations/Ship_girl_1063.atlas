@@ -1,0 +1,167 @@
+
+Ship_girl_1063.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J
+  rotate: true
+  xy: 308, 238
+  size: 41, 35
+  orig: 300, 300
+  offset: 210, 157
+  index: -1
+JT
+  rotate: false
+  xy: 740, 369
+  size: 14, 16
+  orig: 300, 300
+  offset: 244, 187
+  index: -1
+JZ_L
+  rotate: true
+  xy: 152, 2
+  size: 113, 57
+  orig: 300, 300
+  offset: 29, 102
+  index: -1
+JZ_L_damage
+  rotate: false
+  xy: 740, 292
+  size: 113, 57
+  orig: 300, 300
+  offset: 29, 102
+  index: -1
+JZ_R
+  rotate: false
+  xy: 200, 179
+  size: 83, 57
+  orig: 300, 300
+  offset: 165, 102
+  index: -1
+JZ_R_damge
+  rotate: true
+  xy: 211, 32
+  size: 83, 57
+  orig: 300, 300
+  offset: 165, 102
+  index: -1
+JZ_R_light
+  rotate: false
+  xy: 635, 288
+  size: 103, 97
+  orig: 300, 300
+  offset: 188, 83
+  index: -1
+JZ_light
+  rotate: false
+  xy: 203, 238
+  size: 103, 97
+  orig: 300, 300
+  offset: 161, 5
+  index: -1
+J_damage
+  rotate: false
+  xy: 285, 201
+  size: 41, 35
+  orig: 300, 300
+  offset: 210, 157
+  index: -1
+J_light
+  rotate: false
+  xy: 200, 117
+  size: 79, 60
+  orig: 300, 300
+  offset: 203, 146
+  index: -1
+P
+  rotate: false
+  xy: 2, 117
+  size: 196, 195
+  orig: 300, 300
+  offset: 12, 55
+  index: -1
+P_damage
+  rotate: false
+  xy: 2, 314
+  size: 199, 195
+  orig: 300, 300
+  offset: 9, 55
+  index: -1
+P_damage_light
+  rotate: false
+  xy: 340, 346
+  size: 135, 163
+  orig: 300, 300
+  offset: 0, 69
+  index: -1
+P_light
+  rotate: false
+  xy: 203, 337
+  size: 135, 172
+  orig: 300, 300
+  offset: 0, 69
+  index: -1
+Rodney_body_damage
+  rotate: true
+  xy: 766, 431
+  size: 78, 167
+  orig: 300, 300
+  offset: 108, 14
+  index: -1
+Rodney_body_normal
+  rotate: true
+  xy: 766, 351
+  size: 78, 167
+  orig: 300, 300
+  offset: 108, 14
+  index: -1
+Rodney_eyes_damage
+  rotate: true
+  xy: 308, 281
+  size: 54, 33
+  orig: 300, 300
+  offset: 128, 149
+  index: -1
+Rodney_eyes_normal
+  rotate: false
+  xy: 855, 306
+  size: 54, 43
+  orig: 300, 300
+  offset: 130, 149
+  index: -1
+Rodney_ship_body_normal_light
+  rotate: true
+  xy: 2, 6
+  size: 109, 148
+  orig: 300, 300
+  offset: 116, 0
+  index: -1
+hair
+  rotate: false
+  xy: 935, 343
+  size: 78, 166
+  orig: 78, 166
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 477, 370
+  size: 141, 139
+  orig: 300, 300
+  offset: 72, 140
+  index: -1
+head_light
+  rotate: true
+  xy: 620, 387
+  size: 122, 144
+  orig: 300, 300
+  offset: 136, 140
+  index: -1
+jz
+  rotate: false
+  xy: 477, 296
+  size: 156, 72
+  orig: 300, 300
+  offset: 66, 14
+  index: -1

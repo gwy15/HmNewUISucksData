@@ -1,0 +1,138 @@
+{
+"skeleton": { "hash": "yA8hlhuFXBf7SqUBsNfSdAhr0k0", "spine": "2.1.27", "width": 404, "height": 131.3, "images": "" },
+"bones": [
+	{ "name": "level_up", "scaleX": 1.01, "scaleY": 1.01 },
+	{ "name": "Level_up_F", "parent": "level_up" },
+	{ "name": "Level_up_F_W", "parent": "level_up" },
+	{ "name": "Level_up_G", "parent": "level_up" },
+	{ "name": "Level_up_L", "parent": "level_up" }
+],
+"slots": [
+	{ "name": "Level_up_font", "bone": "Level_up_F", "attachment": "Level_up_font" },
+	{ "name": "Level_up_font_W", "bone": "Level_up_F_W", "color": "ffffff7b", "attachment": "Level_up_font_W", "blend": "additive" },
+	{ "name": "Level_uo_light_new", "bone": "Level_up_L", "attachment": "Level_uo_light_new", "blend": "additive" },
+	{ "name": "Level_up_font_G", "bone": "Level_up_G", "attachment": "Level_up_font_G" }
+],
+"skins": {
+	"default": {
+		"Level_uo_light_new": {
+			"Level_uo_light_new": { "width": 400, "height": 130 }
+		},
+		"Level_up_font": {
+			"Level_up_font": { "width": 200, "height": 60 }
+		},
+		"Level_up_font_G": {
+			"Level_up_font_G": { "width": 400, "height": 70 }
+		},
+		"Level_up_font_W": {
+			"Level_up_font_W": { "width": 200, "height": 60 }
+		}
+	}
+},
+"events": {
+	"End": {}
+},
+"animations": {
+	"Level_up": {
+		"slots": {
+			"Level_uo_light_new": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "Level_uo_light_new" }
+				],
+				"color": [
+					{ "time": 0.2666, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"Level_up_font": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Level_up_font" }
+				],
+				"color": [
+					{
+						"time": 1.1,
+						"color": "ffffffff",
+						"curve": [ 0.125, 0.33, 0.723, 0.99 ]
+					},
+					{ "time": 1.4, "color": "ffffff00" }
+				]
+			},
+			"Level_up_font_G": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1, "color": "ffffffff" },
+					{ "time": 0.2, "color": "ffffff00" }
+				]
+			},
+			"Level_up_font_W": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3666, "name": "Level_up_font_W" }
+				],
+				"color": [
+					{ "time": 0.3666, "color": "ffffff00" },
+					{ "time": 0.4333, "color": "ffffffff" },
+					{ "time": 0.9333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"Level_up_F": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1666, "x": -2, "y": 0 },
+					{ "time": 0.2666, "x": 2, "y": 0 },
+					{ "time": 0.3666, "x": 0, "y": 0, "curve": "stepped" },
+					{
+						"time": 1,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.359, 0.11, 0.911, 0.62 ]
+					},
+					{ "time": 1.4, "x": 0, "y": 9.12 }
+				]
+			},
+			"Level_up_F_W": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.3666, "x": 1, "y": 1 },
+					{ "time": 0.9333, "x": 1.1, "y": 1.3 }
+				]
+			},
+			"Level_up_L": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0.2666,
+						"x": 1.4,
+						"y": 0.6,
+						"curve": [ 0.135, 0.67, 0.619, 0.98 ]
+					},
+					{ "time": 0.8333, "x": 2.4, "y": 0.1 }
+				]
+			},
+			"Level_up_G": {
+				"translate": [
+					{ "time": 0, "x": -70, "y": 0 },
+					{ "time": 0.1, "x": 6, "y": 0 },
+					{ "time": 0.2, "x": -6, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1.4, "y": 1 },
+					{ "time": 0.1, "x": 1, "y": 1 },
+					{ "time": 0.2, "x": 0.8, "y": 1 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 1.4, "name": "End" }
+		]
+	}
+}
+}

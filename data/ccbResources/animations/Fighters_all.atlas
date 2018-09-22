@@ -1,0 +1,286 @@
+
+Fighters_all.png
+size: 880,662
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_97_ship_attack
+  rotate: true
+  xy: 636, 388
+  size: 135, 68
+  orig: 300, 300
+  offset: 85, 117
+  index: -1
+01_light
+  rotate: false
+  xy: 668, 277
+  size: 120, 109
+  orig: 300, 300
+  offset: 132, 98
+  index: -1
+02_99_ship_burst
+  rotate: false
+  xy: 752, 575
+  size: 126, 85
+  orig: 300, 300
+  offset: 85, 107
+  index: -1
+02_light
+  rotate: true
+  xy: 137, 81
+  size: 178, 132
+  orig: 300, 300
+  offset: 91, 91
+  index: -1
+04_BF109
+  rotate: true
+  xy: 381, 368
+  size: 145, 79
+  orig: 300, 300
+  offset: 72, 111
+  index: -1
+04_light
+  rotate: true
+  xy: 176, 510
+  size: 150, 117
+  orig: 300, 300
+  offset: 111, 92
+  index: -1
+05_F2a_buffalo
+  rotate: true
+  xy: 790, 267
+  size: 124, 77
+  orig: 300, 300
+  offset: 92, 111
+  index: -1
+05_light
+  rotate: true
+  xy: 652, 19
+  size: 124, 116
+  orig: 300, 300
+  offset: 119, 97
+  index: -1
+06_F4F_wildcat
+  rotate: true
+  xy: 462, 377
+  size: 139, 61
+  orig: 300, 300
+  offset: 77, 129
+  index: -1
+06_light
+  rotate: false
+  xy: 287, 3
+  size: 123, 101
+  orig: 300, 300
+  offset: 124, 109
+  index: -1
+07_F6F_hell_cat
+  rotate: false
+  xy: 145, 2
+  size: 140, 77
+  orig: 300, 300
+  offset: 77, 114
+  index: -1
+07_light
+  rotate: true
+  xy: 412, 4
+  size: 121, 113
+  orig: 300, 300
+  offset: 128, 97
+  index: -1
+08_ju87
+  rotate: false
+  xy: 2, 2
+  size: 141, 69
+  orig: 300, 300
+  offset: 77, 117
+  index: -1
+08_light
+  rotate: false
+  xy: 770, 62
+  size: 105, 98
+  orig: 300, 300
+  offset: 130, 100
+  index: -1
+09_SBD_fearless
+  rotate: true
+  xy: 592, 11
+  size: 131, 58
+  orig: 300, 300
+  offset: 85, 125
+  index: -1
+09_light
+  rotate: true
+  xy: 525, 384
+  size: 136, 109
+  orig: 300, 300
+  offset: 111, 100
+  index: -1
+10_TBD_torn
+  rotate: false
+  xy: 752, 505
+  size: 125, 68
+  orig: 300, 300
+  offset: 91, 114
+  index: -1
+10_light
+  rotate: false
+  xy: 706, 393
+  size: 121, 110
+  orig: 300, 300
+  offset: 126, 93
+  index: -1
+11_TBF_revenge
+  rotate: true
+  xy: 673, 529
+  size: 131, 77
+  orig: 300, 300
+  offset: 85, 120
+  index: -1
+11_light
+  rotate: false
+  xy: 549, 277
+  size: 117, 105
+  orig: 300, 300
+  offset: 131, 106
+  index: -1
+12_Sea_fire
+  rotate: true
+  xy: 584, 525
+  size: 135, 87
+  orig: 300, 300
+  offset: 82, 101
+  index: -1
+12_light
+  rotate: true
+  xy: 295, 515
+  size: 145, 108
+  orig: 300, 300
+  offset: 116, 100
+  index: -1
+13_Comet
+  rotate: true
+  xy: 580, 144
+  size: 131, 65
+  orig: 300, 300
+  offset: 88, 119
+  index: -1
+13_light
+  rotate: true
+  xy: 270, 359
+  size: 149, 109
+  orig: 300, 300
+  offset: 112, 102
+  index: -1
+14_Swordfish
+  rotate: false
+  xy: 410, 276
+  size: 137, 90
+  orig: 300, 300
+  offset: 81, 110
+  index: -1
+14_light
+  rotate: true
+  xy: 770, 162
+  size: 103, 105
+  orig: 300, 300
+  offset: 131, 97
+  index: -1
+15_Zero
+  rotate: true
+  xy: 647, 145
+  size: 130, 61
+  orig: 300, 300
+  offset: 87, 127
+  index: -1
+15_light
+  rotate: true
+  xy: 150, 288
+  size: 168, 118
+  orig: 300, 300
+  offset: 104, 104
+  index: -1
+16_Barracuda
+  rotate: true
+  xy: 515, 522
+  size: 138, 67
+  orig: 300, 300
+  offset: 78, 121
+  index: -1
+16_light
+  rotate: true
+  xy: 405, 518
+  size: 142, 108
+  orig: 300, 300
+  offset: 119, 104
+  index: -1
+23_Sunny
+  rotate: true
+  xy: 527, 4
+  size: 127, 63
+  orig: 300, 300
+  offset: 88, 121
+  index: -1
+23_light
+  rotate: true
+  xy: 2, 73
+  size: 186, 133
+  orig: 300, 300
+  offset: 85, 86
+  index: -1
+Item_02
+  rotate: true
+  xy: 150, 269
+  size: 17, 59
+  orig: 17, 59
+  offset: 0, 0
+  index: -1
+Item_03
+  rotate: true
+  xy: 211, 271
+  size: 15, 59
+  orig: 15, 59
+  offset: 0, 0
+  index: -1
+airPlane_24
+  rotate: true
+  xy: 497, 133
+  size: 141, 81
+  orig: 300, 300
+  offset: 85, 111
+  index: -1
+airPlane_24_light
+  rotate: true
+  xy: 2, 261
+  size: 195, 146
+  orig: 300, 300
+  offset: 97, 71
+  index: -1
+airPlane_25
+  rotate: true
+  xy: 405, 127
+  size: 142, 90
+  orig: 300, 300
+  offset: 78, 106
+  index: -1
+airPlane_25_light
+  rotate: true
+  xy: 271, 106
+  size: 163, 132
+  orig: 300, 300
+  offset: 105, 86
+  index: -1
+airPlane_26
+  rotate: false
+  xy: 272, 271
+  size: 136, 86
+  orig: 300, 300
+  offset: 79, 105
+  index: -1
+airPlane_26_light
+  rotate: true
+  xy: 2, 458
+  size: 202, 172
+  orig: 300, 300
+  offset: 87, 60
+  index: -1

@@ -1,0 +1,55 @@
+
+SP_repair.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+repair (1)
+  rotate: false
+  xy: 2, 680
+  size: 401, 224
+  orig: 401, 224
+  offset: 0, 0
+  index: -1
+repair (3)
+  rotate: false
+  xy: 2, 680
+  size: 401, 224
+  orig: 401, 224
+  offset: 0, 0
+  index: -1
+repair (2)
+  rotate: false
+  xy: 2, 454
+  size: 401, 224
+  orig: 401, 224
+  offset: 0, 0
+  index: -1
+repair (4)
+  rotate: false
+  xy: 405, 680
+  size: 401, 224
+  orig: 401, 224
+  offset: 0, 0
+  index: -1
+repair (5)
+  rotate: false
+  xy: 2, 228
+  size: 401, 224
+  orig: 401, 224
+  offset: 0, 0
+  index: -1
+repair (6)
+  rotate: false
+  xy: 405, 454
+  size: 401, 224
+  orig: 401, 224
+  offset: 0, 0
+  index: -1
+repair (7)
+  rotate: false
+  xy: 2, 2
+  size: 401, 224
+  orig: 401, 224
+  offset: 0, 0
+  index: -1

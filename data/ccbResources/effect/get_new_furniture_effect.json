@@ -1,0 +1,230 @@
+{
+"skeleton": { "hash": "QCQOzoPv9xgSFZ1DCt02fT25fFo", "spine": "3.2.01", "width": 228, "height": 266, "images": "" },
+"bones": [
+	{ "name": "get_new_furniture_effect_all" },
+	{ "name": "UI_back", "parent": "get_new_furniture_effect_all" },
+	{ "name": "UI_font", "parent": "get_new_furniture_effect_all" },
+	{ "name": "UI_light", "parent": "get_new_furniture_effect_all", "scaleX": 0.95, "scaleY": 0.95 },
+	{ "name": "UI_light2", "parent": "get_new_furniture_effect_all", "scaleX": 0.95, "scaleY": 0.95 }
+],
+"slots": [
+	{ "name": "UI_00", "bone": "UI_back", "attachment": "UI_00" },
+	{ "name": "UI_02", "bone": "UI_font", "attachment": "UI_02" },
+	{ "name": "Light_new_0001", "bone": "UI_light", "attachment": "Light_new_0001", "blend": "additive" },
+	{ "name": "Light_new_1", "bone": "UI_light2", "attachment": "Light_new_0001", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"Light_new_0001": {
+			"Light_new_0001": { "width": 240, "height": 280 },
+			"Light_new_0002": { "width": 240, "height": 280 },
+			"Light_new_0003": { "width": 240, "height": 280 },
+			"Light_new_0004": { "width": 240, "height": 280 },
+			"Light_new_0005": { "width": 240, "height": 280 },
+			"Light_new_0006": { "width": 240, "height": 280 },
+			"Light_new_0007": { "width": 240, "height": 280 },
+			"Light_new_0008": { "width": 240, "height": 280 },
+			"Light_new_0009": { "width": 240, "height": 280 },
+			"Light_new_0010": { "width": 240, "height": 280 },
+			"Light_new_0011": { "width": 240, "height": 280 },
+			"Light_new_0012": { "width": 240, "height": 280 },
+			"Light_new_0013": { "width": 240, "height": 280 },
+			"Light_new_0014": { "width": 240, "height": 280 },
+			"Light_new_0015": { "width": 240, "height": 280 },
+			"Light_new_0016": { "width": 240, "height": 280 },
+			"Light_new_0017": { "width": 240, "height": 280 },
+			"Light_new_0018": { "width": 240, "height": 280 },
+			"Light_new_0019": { "width": 240, "height": 280 },
+			"Light_new_0020": { "width": 240, "height": 280 }
+		},
+		"Light_new_1": {
+			"Light_new_0001": { "width": 240, "height": 280 },
+			"Light_new_0002": { "width": 240, "height": 280 },
+			"Light_new_0003": { "width": 240, "height": 280 },
+			"Light_new_0004": { "width": 240, "height": 280 },
+			"Light_new_0005": { "width": 240, "height": 280 },
+			"Light_new_0006": { "width": 240, "height": 280 },
+			"Light_new_0007": { "width": 240, "height": 280 },
+			"Light_new_0008": { "width": 240, "height": 280 },
+			"Light_new_0009": { "width": 240, "height": 280 },
+			"Light_new_0010": { "width": 240, "height": 280 },
+			"Light_new_0011": { "width": 240, "height": 280 },
+			"Light_new_0012": { "width": 240, "height": 280 },
+			"Light_new_0013": { "width": 240, "height": 280 },
+			"Light_new_0014": { "width": 240, "height": 280 },
+			"Light_new_0015": { "width": 240, "height": 280 },
+			"Light_new_0016": { "width": 240, "height": 280 },
+			"Light_new_0017": { "width": 240, "height": 280 },
+			"Light_new_0018": { "width": 240, "height": 280 },
+			"Light_new_0019": { "width": 240, "height": 280 },
+			"Light_new_0020": { "width": 240, "height": 280 }
+		},
+		"UI_00": {
+			"UI_00": { "width": 87, "height": 61 }
+		},
+		"UI_02": {
+			"UI_02": { "width": 87, "height": 61 }
+		}
+	}
+},
+"animations": {
+	"get_new_furniture_effect": {
+		"slots": {
+			"Light_new_0001": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Light_new_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"UI_back": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"UI_font": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.5,
+						"y": 0.5,
+						"curve": [ 0.042, 0.43, 0.69, 0.94 ]
+					},
+					{ "time": 0.2333, "x": 2, "y": 2 },
+					{
+						"time": 0.3333,
+						"x": 2.1,
+						"y": 2.1,
+						"curve": [ 0.33, 0, 0.954, 0.77 ]
+					},
+					{
+						"time": 0.4,
+						"x": 0.95,
+						"y": 0.95,
+						"curve": [ 0.097, 0.28, 0.754, 0.99 ]
+					},
+					{ "time": 0.4666, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"get_new_furniture_special": {
+		"slots": {
+			"Light_new_0001": {
+				"attachment": [
+					{ "time": 0, "name": "Light_new_0001" },
+					{ "time": 0.0666, "name": "Light_new_0002" },
+					{ "time": 0.1333, "name": "Light_new_0003" },
+					{ "time": 0.2, "name": "Light_new_0004" },
+					{ "time": 0.2666, "name": "Light_new_0005" },
+					{ "time": 0.3333, "name": "Light_new_0006" },
+					{ "time": 0.4, "name": "Light_new_0007" },
+					{ "time": 0.4666, "name": "Light_new_0008" },
+					{ "time": 0.5333, "name": "Light_new_0009" },
+					{ "time": 0.6, "name": "Light_new_0010" },
+					{ "time": 0.6666, "name": "Light_new_0011" },
+					{ "time": 0.7333, "name": "Light_new_0012" },
+					{ "time": 0.8, "name": "Light_new_0013" },
+					{ "time": 0.8666, "name": "Light_new_0014" },
+					{ "time": 0.9333, "name": "Light_new_0015" },
+					{ "time": 1, "name": "Light_new_0016" },
+					{ "time": 1.0666, "name": "Light_new_0017" },
+					{ "time": 1.1333, "name": "Light_new_0018" },
+					{ "time": 1.2, "name": "Light_new_0019" },
+					{ "time": 1.2666, "name": "Light_new_0020" },
+					{ "time": 1.3333, "name": "Light_new_0001" },
+					{ "time": 1.4, "name": "Light_new_0002" },
+					{ "time": 1.4666, "name": "Light_new_0003" },
+					{ "time": 1.5333, "name": "Light_new_0004" },
+					{ "time": 1.6, "name": "Light_new_0005" },
+					{ "time": 1.6666, "name": "Light_new_0006" },
+					{ "time": 1.7333, "name": "Light_new_0007" },
+					{ "time": 1.8, "name": "Light_new_0008" },
+					{ "time": 1.8666, "name": "Light_new_0009" },
+					{ "time": 1.9333, "name": "Light_new_0010" },
+					{ "time": 2, "name": "Light_new_0011" },
+					{ "time": 2.0666, "name": "Light_new_0012" },
+					{ "time": 2.1333, "name": "Light_new_0013" },
+					{ "time": 2.2, "name": "Light_new_0014" },
+					{ "time": 2.2666, "name": "Light_new_0015" },
+					{ "time": 2.3333, "name": "Light_new_0016" },
+					{ "time": 2.4, "name": "Light_new_0017" },
+					{ "time": 2.4666, "name": "Light_new_0018" },
+					{ "time": 2.5333, "name": "Light_new_0019" },
+					{ "time": 2.6, "name": "Light_new_0020" }
+				]
+			},
+			"Light_new_1": {
+				"attachment": [
+					{ "time": 0, "name": "Light_new_0001" },
+					{ "time": 0.0666, "name": "Light_new_0002" },
+					{ "time": 0.1333, "name": "Light_new_0003" },
+					{ "time": 0.2, "name": "Light_new_0004" },
+					{ "time": 0.2666, "name": "Light_new_0005" },
+					{ "time": 0.3333, "name": "Light_new_0006" },
+					{ "time": 0.4, "name": "Light_new_0007" },
+					{ "time": 0.4666, "name": "Light_new_0008" },
+					{ "time": 0.5333, "name": "Light_new_0009" },
+					{ "time": 0.6, "name": "Light_new_0010" },
+					{ "time": 0.6666, "name": "Light_new_0011" },
+					{ "time": 0.7333, "name": "Light_new_0012" },
+					{ "time": 0.8, "name": "Light_new_0013" },
+					{ "time": 0.8666, "name": "Light_new_0014" },
+					{ "time": 0.9333, "name": "Light_new_0015" },
+					{ "time": 1, "name": "Light_new_0016" },
+					{ "time": 1.0666, "name": "Light_new_0017" },
+					{ "time": 1.1333, "name": "Light_new_0018" },
+					{ "time": 1.2, "name": "Light_new_0019" },
+					{ "time": 1.2666, "name": "Light_new_0020" },
+					{ "time": 1.3333, "name": "Light_new_0001" },
+					{ "time": 1.4, "name": "Light_new_0002" },
+					{ "time": 1.4666, "name": "Light_new_0003" },
+					{ "time": 1.5333, "name": "Light_new_0004" },
+					{ "time": 1.6, "name": "Light_new_0005" },
+					{ "time": 1.6666, "name": "Light_new_0006" },
+					{ "time": 1.7333, "name": "Light_new_0007" },
+					{ "time": 1.8, "name": "Light_new_0008" },
+					{ "time": 1.8666, "name": "Light_new_0009" },
+					{ "time": 1.9333, "name": "Light_new_0010" },
+					{ "time": 2, "name": "Light_new_0011" },
+					{ "time": 2.0666, "name": "Light_new_0012" },
+					{ "time": 2.1333, "name": "Light_new_0013" },
+					{ "time": 2.2, "name": "Light_new_0014" },
+					{ "time": 2.2666, "name": "Light_new_0015" },
+					{ "time": 2.3333, "name": "Light_new_0016" },
+					{ "time": 2.4, "name": "Light_new_0017" },
+					{ "time": 2.4666, "name": "Light_new_0018" },
+					{ "time": 2.5333, "name": "Light_new_0019" },
+					{ "time": 2.6, "name": "Light_new_0020" }
+				]
+			},
+			"UI_00": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"UI_02": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"UI_light2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -11 }
+				],
+				"scale": [
+					{ "time": 0, "x": -1, "y": -1 }
+				]
+			}
+		}
+	}
+}
+}

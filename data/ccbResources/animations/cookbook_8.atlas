@@ -1,0 +1,104 @@
+
+cookbook_8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D1
+  rotate: true
+  xy: 2, 2
+  size: 113, 178
+  orig: 600, 600
+  offset: 269, 72
+  index: -1
+D1A
+  rotate: false
+  xy: 456, 677
+  size: 269, 124
+  orig: 600, 600
+  offset: 169, 101
+  index: -1
+D1B
+  rotate: true
+  xy: 182, 45
+  size: 209, 84
+  orig: 600, 600
+  offset: 234, 121
+  index: -1
+D2
+  rotate: false
+  xy: 275, 494
+  size: 159, 170
+  orig: 600, 600
+  offset: 103, 196
+  index: -1
+F1
+  rotate: false
+  xy: 2, 117
+  size: 178, 137
+  orig: 600, 600
+  offset: 306, 271
+  index: -1
+F1A
+  rotate: false
+  xy: 322, 357
+  size: 129, 135
+  orig: 600, 600
+  offset: 291, 180
+  index: -1
+P1
+  rotate: false
+  xy: 226, 267
+  size: 94, 182
+  orig: 600, 600
+  offset: 214, 203
+  index: -1
+P1A
+  rotate: false
+  xy: 322, 276
+  size: 118, 79
+  orig: 600, 600
+  offset: 142, 192
+  index: -1
+P1B
+  rotate: true
+  xy: 268, 176
+  size: 89, 71
+  orig: 600, 600
+  offset: 146, 174
+  index: -1
+PZ
+  rotate: false
+  xy: 2, 666
+  size: 452, 311
+  orig: 600, 600
+  offset: 76, 61
+  index: -1
+SS
+  rotate: false
+  xy: 733, 828
+  size: 261, 149
+  orig: 600, 600
+  offset: 152, 127
+  index: -1
+Z1
+  rotate: false
+  xy: 2, 256
+  size: 222, 193
+  orig: 600, 600
+  offset: 156, 364
+  index: -1
+Z1A
+  rotate: false
+  xy: 2, 451
+  size: 271, 213
+  orig: 600, 600
+  offset: 220, 176
+  index: -1
+Z1B
+  rotate: false
+  xy: 456, 803
+  size: 275, 174
+  orig: 600, 600
+  offset: 198, 189
+  index: -1

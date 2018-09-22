@@ -1,0 +1,48 @@
+
+BG_Arabian_Sea_storm_night.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue_light_00
+  rotate: false
+  xy: 470, 2
+  size: 144, 52
+  orig: 166, 64
+  offset: 15, 7
+  index: -1
+Cloud_Day_U_1
+  rotate: false
+  xy: 2, 14
+  size: 466, 40
+  orig: 470, 46
+  offset: 1, 6
+  index: -1
+Light_00_1
+  rotate: true
+  xy: 616, 58
+  size: 156, 191
+  orig: 156, 191
+  offset: 0, 0
+  index: -1
+Light_01_1
+  rotate: false
+  xy: 809, 85
+  size: 156, 129
+  orig: 156, 173
+  offset: 0, 44
+  index: -1
+Mountain
+  rotate: false
+  xy: 2, 56
+  size: 612, 72
+  orig: 612, 84
+  offset: 0, 0
+  index: -1
+Sky
+  rotate: false
+  xy: 2, 130
+  size: 612, 84
+  orig: 612, 84
+  offset: 0, 0
+  index: -1

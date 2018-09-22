@@ -1,0 +1,83 @@
+
+bathhouse_effect.png
+size: 275,519
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bathhouse_down_wave_00
+  rotate: false
+  xy: 2, 2
+  size: 113, 13
+  orig: 206, 258
+  offset: 47, 103
+  index: -1
+Bathhouse_down_wave_01
+  rotate: false
+  xy: 117, 5
+  size: 109, 10
+  orig: 206, 258
+  offset: 45, 106
+  index: -1
+Bathhouse_down_wave_02
+  rotate: true
+  xy: 252, 388
+  size: 129, 21
+  orig: 206, 258
+  offset: 36, 95
+  index: -1
+Bathhouse_down_wave_03
+  rotate: true
+  xy: 252, 258
+  size: 128, 20
+  orig: 206, 258
+  offset: 32, 97
+  index: -1
+Bathhouse_walk_wave_00
+  rotate: true
+  xy: 228, 140
+  size: 119, 21
+  orig: 198, 158
+  offset: 40, 60
+  index: -1
+Bathhouse_walk_wave_01
+  rotate: true
+  xy: 228, 261
+  size: 120, 21
+  orig: 198, 158
+  offset: 39, 60
+  index: -1
+Bathhouse_walk_wave_02
+  rotate: true
+  xy: 251, 146
+  size: 110, 19
+  orig: 198, 158
+  offset: 42, 62
+  index: -1
+Bathhouse_walk_wave_03
+  rotate: true
+  xy: 228, 383
+  size: 134, 22
+  orig: 198, 158
+  offset: 26, 59
+  index: -1
+Bathhouse_walk_wave_04
+  rotate: true
+  xy: 248, 24
+  size: 114, 19
+  orig: 198, 158
+  offset: 42, 62
+  index: -1
+Bathhouse_walk_wave_05
+  rotate: true
+  xy: 226, 23
+  size: 115, 20
+  orig: 198, 158
+  offset: 40, 61
+  index: -1
+Smoke_00
+  rotate: true
+  xy: 2, 17
+  size: 500, 222
+  orig: 500, 222
+  offset: 0, 0
+  index: -1

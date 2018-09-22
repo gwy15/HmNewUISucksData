@@ -1,0 +1,712 @@
+
+Bombers_attack.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Damage_0003
+  rotate: true
+  xy: 514, 246
+  size: 59, 60
+  orig: 200, 150
+  offset: 41, 46
+  index: -1
+Damage_0005
+  rotate: true
+  xy: 683, 6
+  size: 65, 70
+  orig: 200, 150
+  offset: 38, 43
+  index: -1
+Damage_0017
+  rotate: false
+  xy: 335, 3
+  size: 121, 91
+  orig: 200, 150
+  offset: 25, 30
+  index: -1
+Damage_0021
+  rotate: true
+  xy: 760, 229
+  size: 76, 71
+  orig: 200, 150
+  offset: 51, 47
+  index: -1
+Fire_0007
+  rotate: false
+  xy: 340, 504
+  size: 172, 173
+  orig: 270, 270
+  offset: 54, 57
+  index: -1
+Fire_0011
+  rotate: false
+  xy: 2, 20
+  size: 200, 200
+  orig: 270, 270
+  offset: 40, 43
+  index: -1
+Fire_0012
+  rotate: false
+  xy: 862, 675
+  size: 155, 156
+  orig: 270, 270
+  offset: 64, 54
+  index: -1
+Light_fire_0002
+  rotate: false
+  xy: 1012, 533
+  size: 10, 10
+  orig: 220, 70
+  offset: 185, 12
+  index: -1
+Light_fire_0004
+  rotate: false
+  xy: 132, 7
+  size: 12, 11
+  orig: 220, 70
+  offset: 183, 11
+  index: -1
+Light_fire_0006
+  rotate: false
+  xy: 78, 5
+  size: 52, 13
+  orig: 220, 70
+  offset: 145, 11
+  index: -1
+Light_fire_0018
+  rotate: true
+  xy: 1012, 545
+  size: 11, 10
+  orig: 220, 70
+  offset: 48, 40
+  index: -1
+Line_0001
+  rotate: false
+  xy: 458, 73
+  size: 300, 170
+  orig: 300, 170
+  offset: 0, 0
+  index: -1
+Propeller_A_0001
+  rotate: false
+  xy: 204, 91
+  size: 129, 129
+  orig: 140, 140
+  offset: 5, 5
+  index: -1
+Propeller_C_0001
+  rotate: false
+  xy: 807, 147
+  size: 27, 80
+  orig: 280, 280
+  offset: 133, 97
+  index: -1
+Propeller_C_0002
+  rotate: false
+  xy: 306, 257
+  size: 32, 102
+  orig: 280, 280
+  offset: 130, 89
+  index: -1
+Propeller_D_0001
+  rotate: true
+  xy: 514, 307
+  size: 200, 320
+  orig: 280, 320
+  offset: 41, 0
+  index: -1
+Propeller_D_0002
+  rotate: false
+  xy: 137, 361
+  size: 201, 316
+  orig: 280, 320
+  offset: 35, 4
+  index: -1
+Propeller_E_0001
+  rotate: true
+  xy: 953, 510
+  size: 46, 57
+  orig: 280, 320
+  offset: 123, 127
+  index: -1
+Propeller_F_0002
+  rotate: false
+  xy: 862, 833
+  size: 160, 189
+  orig: 280, 280
+  offset: 45, 44
+  index: -1
+Storyboard_01_cloud_4
+  rotate: true
+  xy: 862, 512
+  size: 161, 89
+  orig: 161, 89
+  offset: 0, 0
+  index: -1
+Storyboard_01_cloud_6
+  rotate: true
+  xy: 760, 110
+  size: 117, 45
+  orig: 117, 45
+  offset: 0, 0
+  index: -1
+Storyboard_01_enemy
+  rotate: true
+  xy: 953, 558
+  size: 115, 65
+  orig: 117, 67
+  offset: 1, 1
+  index: -1
+Storyboard_01_fighter_1
+  rotate: false
+  xy: 458, 4
+  size: 223, 67
+  orig: 223, 67
+  offset: 0, 0
+  index: -1
+Storyboard_01_fighter_2
+  rotate: false
+  xy: 576, 255
+  size: 174, 50
+  orig: 176, 52
+  offset: 1, 1
+  index: -1
+Storyboard_01_sky_1
+  rotate: false
+  xy: 204, 3
+  size: 129, 86
+  orig: 129, 86
+  offset: 0, 0
+  index: -1
+Storyboard_02_box_1
+  rotate: true
+  xy: 836, 313
+  size: 194, 186
+  orig: 194, 186
+  offset: 0, 0
+  index: -1
+Storyboard_02_box_2
+  rotate: true
+  xy: 836, 109
+  size: 202, 184
+  orig: 202, 184
+  offset: 0, 0
+  index: -1
+Storyboard_02_cloud_1
+  rotate: true
+  xy: 458, 245
+  size: 257, 54
+  orig: 257, 54
+  offset: 0, 0
+  index: -1
+Storyboard_02_cloud_2
+  rotate: false
+  xy: 760, 4
+  size: 257, 103
+  orig: 257, 103
+  offset: 0, 0
+  index: -1
+Storyboard_02_fighter_1
+  rotate: true
+  xy: 340, 96
+  size: 406, 116
+  orig: 406, 116
+  offset: 0, 0
+  index: -1
+Storyboard_02_hand_2
+  rotate: true
+  xy: 807, 111
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+Storyboard_02_hatch_1
+  rotate: false
+  xy: 137, 222
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+Storyboard_02_star_2
+  rotate: true
+  xy: 50, 2
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+Storyboard_03_bomber_3
+  rotate: true
+  xy: 306, 222
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+Storyboard_03_hatch_3
+  rotate: true
+  xy: 2, 222
+  size: 455, 133
+  orig: 455, 134
+  offset: 0, 1
+  index: -1
+Storyboard_04_bg_1
+  rotate: false
+  xy: 2, 679
+  size: 513, 343
+  orig: 513, 343
+  offset: 0, 0
+  index: -1
+Storyboard_04_bomb_1_small
+  rotate: false
+  xy: 2, 2
+  size: 46, 16
+  orig: 50, 18
+  offset: 2, 1
+  index: -1
+Storyboard_04_hatch_1
+  rotate: true
+  xy: 517, 509
+  size: 513, 343
+  orig: 513, 343
+  offset: 0, 0
+  index: -1
+
+Bombers_attack2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Damage_0007
+  rotate: false
+  xy: 428, 70
+  size: 76, 78
+  orig: 200, 150
+  offset: 35, 40
+  index: -1
+Damage_0009
+  rotate: false
+  xy: 914, 195
+  size: 89, 85
+  orig: 200, 150
+  offset: 32, 37
+  index: -1
+Damage_0011
+  rotate: false
+  xy: 693, 238
+  size: 103, 92
+  orig: 200, 150
+  offset: 29, 34
+  index: -1
+Damage_0013
+  rotate: false
+  xy: 182, 48
+  size: 115, 98
+  orig: 200, 150
+  offset: 27, 32
+  index: -1
+Damage_0015
+  rotate: false
+  xy: 299, 48
+  size: 127, 103
+  orig: 200, 150
+  offset: 25, 30
+  index: -1
+Damage_0019
+  rotate: true
+  xy: 712, 332
+  size: 122, 88
+  orig: 200, 150
+  offset: 34, 27
+  index: -1
+E_Small_E
+  rotate: true
+  xy: 345, 332
+  size: 135, 114
+  orig: 135, 114
+  offset: 0, 0
+  index: -1
+F_Small
+  rotate: false
+  xy: 606, 873
+  size: 203, 149
+  orig: 203, 149
+  offset: 0, 0
+  index: -1
+Fire_0001
+  rotate: false
+  xy: 784, 126
+  size: 84, 80
+  orig: 270, 270
+  offset: 95, 102
+  index: -1
+Fire_0002
+  rotate: false
+  xy: 774, 491
+  size: 124, 123
+  orig: 270, 270
+  offset: 78, 82
+  index: -1
+Fire_0003
+  rotate: false
+  xy: 642, 570
+  size: 126, 127
+  orig: 270, 270
+  offset: 77, 80
+  index: -1
+Fire_0004
+  rotate: false
+  xy: 563, 702
+  size: 140, 140
+  orig: 270, 270
+  offset: 70, 73
+  index: -1
+Fire_0005
+  rotate: false
+  xy: 197, 321
+  size: 146, 146
+  orig: 270, 270
+  offset: 67, 70
+  index: -1
+Fire_0006
+  rotate: false
+  xy: 202, 506
+  size: 166, 166
+  orig: 270, 270
+  offset: 57, 60
+  index: -1
+Fire_0008
+  rotate: false
+  xy: 2, 105
+  size: 178, 178
+  orig: 270, 270
+  offset: 51, 54
+  index: -1
+Fire_0009
+  rotate: false
+  xy: 2, 285
+  size: 193, 193
+  orig: 270, 270
+  offset: 44, 47
+  index: -1
+Fire_0010
+  rotate: false
+  xy: 2, 480
+  size: 198, 198
+  orig: 270, 270
+  offset: 41, 44
+  index: -1
+Fire_0013
+  rotate: false
+  xy: 370, 528
+  size: 153, 144
+  orig: 270, 270
+  offset: 64, 57
+  index: -1
+Fire_0014
+  rotate: false
+  xy: 705, 699
+  size: 110, 143
+  orig: 270, 270
+  offset: 64, 58
+  index: -1
+Fire_0015
+  rotate: true
+  xy: 642, 456
+  size: 112, 130
+  orig: 270, 270
+  offset: 61, 72
+  index: -1
+Fire_0016
+  rotate: false
+  xy: 802, 357
+  size: 113, 132
+  orig: 270, 270
+  offset: 60, 71
+  index: -1
+Fire_0017
+  rotate: true
+  xy: 461, 222
+  size: 114, 132
+  orig: 270, 270
+  offset: 59, 71
+  index: -1
+Fire_0018
+  rotate: false
+  xy: 461, 338
+  size: 115, 135
+  orig: 270, 270
+  offset: 57, 69
+  index: -1
+Fire_0019
+  rotate: true
+  xy: 817, 616
+  size: 115, 137
+  orig: 270, 270
+  offset: 56, 68
+  index: -1
+Fire_0020
+  rotate: false
+  xy: 182, 148
+  size: 115, 135
+  orig: 270, 270
+  offset: 56, 68
+  index: -1
+Fire_0021
+  rotate: true
+  xy: 578, 338
+  size: 116, 132
+  orig: 270, 270
+  offset: 53, 67
+  index: -1
+Fire_0022
+  rotate: false
+  xy: 299, 153
+  size: 115, 134
+  orig: 270, 270
+  offset: 53, 66
+  index: -1
+Fire_0023
+  rotate: false
+  xy: 525, 538
+  size: 115, 134
+  orig: 270, 270
+  offset: 52, 66
+  index: -1
+Light_Small
+  rotate: false
+  xy: 798, 208
+  size: 108, 65
+  orig: 119, 85
+  offset: 6, 8
+  index: -1
+Light_fire_0008
+  rotate: false
+  xy: 240, 26
+  size: 122, 20
+  orig: 220, 70
+  offset: 75, 11
+  index: -1
+Light_fire_0010
+  rotate: false
+  xy: 606, 844
+  size: 164, 27
+  orig: 220, 70
+  offset: 32, 11
+  index: -1
+Light_fire_0012
+  rotate: false
+  xy: 197, 289
+  size: 156, 30
+  orig: 220, 70
+  offset: 42, 11
+  index: -1
+Light_fire_0014
+  rotate: false
+  xy: 202, 469
+  size: 168, 35
+  orig: 220, 70
+  offset: 27, 11
+  index: -1
+Light_fire_0016
+  rotate: true
+  xy: 997, 933
+  size: 89, 25
+  orig: 220, 70
+  offset: 37, 24
+  index: -1
+Light_picture
+  rotate: false
+  xy: 506, 145
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+Line_0002
+  rotate: false
+  xy: 2, 852
+  size: 300, 170
+  orig: 300, 170
+  offset: 0, 0
+  index: -1
+Line_0003
+  rotate: false
+  xy: 2, 680
+  size: 300, 170
+  orig: 300, 170
+  offset: 0, 0
+  index: -1
+Line_0004
+  rotate: false
+  xy: 304, 852
+  size: 300, 170
+  orig: 300, 170
+  offset: 0, 0
+  index: -1
+Propeller_A_0002
+  rotate: false
+  xy: 817, 733
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+Propeller_B_0001
+  rotate: false
+  xy: 595, 236
+  size: 96, 100
+  orig: 140, 140
+  offset: 17, 16
+  index: -1
+Propeller_B_0002
+  rotate: true
+  xy: 917, 370
+  size: 119, 97
+  orig: 140, 140
+  offset: 9, 14
+  index: -1
+Propeller_E_0002
+  rotate: false
+  xy: 955, 142
+  size: 51, 51
+  orig: 280, 320
+  offset: 119, 133
+  index: -1
+Propeller_F_0001
+  rotate: true
+  xy: 811, 875
+  size: 147, 184
+  orig: 280, 280
+  offset: 51, 49
+  index: -1
+Storyboard_01_cloud_1
+  rotate: true
+  xy: 959, 764
+  size: 109, 50
+  orig: 109, 50
+  offset: 0, 0
+  index: -1
+Storyboard_01_cloud_2
+  rotate: false
+  xy: 802, 275
+  size: 110, 80
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+Storyboard_01_cloud_5
+  rotate: false
+  xy: 2, 13
+  size: 174, 90
+  orig: 174, 90
+  offset: 0, 0
+  index: -1
+Storyboard_02_arm_1
+  rotate: true
+  xy: 772, 848
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+Storyboard_02_bg_1
+  rotate: false
+  xy: 304, 729
+  size: 257, 121
+  orig: 257, 121
+  offset: 0, 0
+  index: -1
+Storyboard_02_body_1
+  rotate: false
+  xy: 533, 486
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+Storyboard_02_body_2
+  rotate: true
+  xy: 178, 2
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+Storyboard_02_bomber_1
+  rotate: false
+  xy: 304, 674
+  size: 225, 53
+  orig: 225, 53
+  offset: 0, 0
+  index: -1
+Storyboard_02_cloud_3
+  rotate: true
+  xy: 900, 491
+  size: 123, 80
+  orig: 123, 80
+  offset: 0, 0
+  index: -1
+Storyboard_02_cockpit_1
+  rotate: false
+  xy: 917, 282
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+Storyboard_02_cockpit_2
+  rotate: false
+  xy: 595, 150
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+Storyboard_02_hand_1
+  rotate: false
+  xy: 770, 660
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Storyboard_02_head_1
+  rotate: false
+  xy: 693, 151
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+Storyboard_02_head_2
+  rotate: true
+  xy: 870, 116
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+Storyboard_02_star_1
+  rotate: false
+  xy: 997, 900
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+Storyboard_03_hatch_1
+  rotate: true
+  xy: 531, 696
+  size: 31, 30
+  orig: 32, 31
+  offset: 1, 0
+  index: -1
+Storyboard_03_hatch_2
+  rotate: true
+  xy: 364, 2
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+Storyboard_03_hatch_4
+  rotate: false
+  xy: 240, 5
+  size: 76, 19
+  orig: 76, 19
+  offset: 0, 0
+  index: -1
+Storyboard_04_bomb_1
+  rotate: false
+  xy: 372, 475
+  size: 159, 51
+  orig: 177, 62
+  offset: 9, 7
+  index: -1

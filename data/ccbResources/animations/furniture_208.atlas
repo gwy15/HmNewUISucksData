@@ -1,0 +1,181 @@
+
+furniture_208.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: true
+  xy: 357, 89
+  size: 17, 25
+  orig: 172, 119
+  offset: 124, 66
+  index: -1
+B
+  rotate: false
+  xy: 284, 70
+  size: 26, 27
+  orig: 172, 119
+  offset: 29, 66
+  index: -1
+B1
+  rotate: false
+  xy: 312, 79
+  size: 22, 27
+  orig: 172, 119
+  offset: 88, 66
+  index: -1
+B2
+  rotate: false
+  xy: 336, 82
+  size: 19, 24
+  orig: 172, 119
+  offset: 68, 66
+  index: -1
+B3
+  rotate: true
+  xy: 980, 89
+  size: 7, 11
+  orig: 172, 119
+  offset: 59, 66
+  index: -1
+BOOM_A
+  rotate: false
+  xy: 656, 89
+  size: 106, 37
+  orig: 172, 119
+  offset: 39, 78
+  index: -1
+BOOM_B
+  rotate: false
+  xy: 764, 89
+  size: 106, 37
+  orig: 172, 119
+  offset: 39, 78
+  index: -1
+BOOM_c
+  rotate: false
+  xy: 872, 89
+  size: 106, 37
+  orig: 172, 119
+  offset: 39, 78
+  index: -1
+DZ
+  rotate: false
+  xy: 2, 46
+  size: 134, 80
+  orig: 172, 119
+  offset: 19, 0
+  index: -1
+DZ2
+  rotate: false
+  xy: 2, 10
+  size: 134, 34
+  orig: 172, 119
+  offset: 19, 27
+  index: -1
+FLY_L
+  rotate: false
+  xy: 2, 2
+  size: 14, 6
+  orig: 172, 119
+  offset: 50, 93
+  index: -1
+FLY_R
+  rotate: false
+  xy: 18, 2
+  size: 14, 6
+  orig: 172, 119
+  offset: 106, 95
+  index: -1
+HL
+  rotate: false
+  xy: 259, 58
+  size: 23, 39
+  orig: 172, 119
+  offset: 43, 64
+  index: -1
+HR
+  rotate: true
+  xy: 980, 98
+  size: 28, 42
+  orig: 172, 119
+  offset: 112, 60
+  index: -1
+LIGHT
+  rotate: false
+  xy: 138, 40
+  size: 119, 57
+  orig: 172, 119
+  offset: 26, 61
+  index: -1
+PL
+  rotate: true
+  xy: 252, 21
+  size: 17, 5
+  orig: 172, 119
+  offset: 50, 79
+  index: -1
+PR
+  rotate: true
+  xy: 252, 2
+  size: 17, 5
+  orig: 172, 119
+  offset: 110, 80
+  index: -1
+WIN
+  rotate: false
+  xy: 259, 45
+  size: 19, 11
+  orig: 172, 119
+  offset: 77, 91
+  index: -1
+X1
+  rotate: false
+  xy: 138, 99
+  size: 172, 27
+  orig: 172, 119
+  offset: 0, 80
+  index: -1
+X2
+  rotate: false
+  xy: 312, 108
+  size: 121, 18
+  orig: 172, 119
+  offset: 25, 101
+  index: -1
+YL
+  rotate: false
+  xy: 284, 65
+  size: 8, 3
+  orig: 172, 119
+  offset: 49, 65
+  index: -1
+YR
+  rotate: false
+  xy: 312, 75
+  size: 8, 2
+  orig: 172, 119
+  offset: 120, 66
+  index: -1
+fire_A
+  rotate: false
+  xy: 138, 6
+  size: 112, 32
+  orig: 172, 119
+  offset: 29, 81
+  index: -1
+fire_b
+  rotate: false
+  xy: 546, 96
+  size: 108, 30
+  orig: 172, 119
+  offset: 31, 82
+  index: -1
+fire_c
+  rotate: false
+  xy: 435, 95
+  size: 109, 31
+  orig: 172, 119
+  offset: 33, 83
+  index: -1

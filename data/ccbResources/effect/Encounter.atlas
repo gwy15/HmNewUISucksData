@@ -1,0 +1,20 @@
+
+Encounter.png
+size: 512,256
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+Exclamation_mark
+  rotate: false
+  xy: 244, 166
+  size: 32, 76
+  orig: 120, 120
+  offset: 43, 5
+  index: -1
+Round_ring
+  rotate: false
+  xy: 2, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1

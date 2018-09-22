@@ -1,0 +1,118 @@
+
+activity_stealth_dialog.png
+size: 761,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Box_01
+  rotate: false
+  xy: 2, 2
+  size: 17, 11
+  orig: 19, 13
+  offset: 1, 1
+  index: -1
+Face_00
+  rotate: false
+  xy: 155, 4
+  size: 72, 13
+  orig: 74, 15
+  offset: 1, 1
+  index: -1
+Face_02
+  rotate: false
+  xy: 2, 15
+  size: 76, 30
+  orig: 78, 32
+  offset: 1, 1
+  index: -1
+Face_03
+  rotate: false
+  xy: 21, 7
+  size: 15, 6
+  orig: 17, 8
+  offset: 1, 1
+  index: -1
+Face_04
+  rotate: false
+  xy: 55, 7
+  size: 6, 6
+  orig: 10, 9
+  offset: 3, 2
+  index: -1
+Face_05
+  rotate: false
+  xy: 21, 2
+  size: 10, 3
+  orig: 12, 5
+  offset: 1, 1
+  index: -1
+Face_06
+  rotate: false
+  xy: 38, 8
+  size: 15, 5
+  orig: 17, 7
+  offset: 1, 1
+  index: -1
+Face_07
+  rotate: false
+  xy: 311, 5
+  size: 154, 259
+  orig: 156, 261
+  offset: 1, 1
+  index: -1
+Face_08
+  rotate: false
+  xy: 80, 3
+  size: 73, 14
+  orig: 75, 16
+  offset: 1, 1
+  index: -1
+Face_09
+  rotate: false
+  xy: 155, 19
+  size: 70, 26
+  orig: 72, 28
+  offset: 1, 1
+  index: -1
+Face_10
+  rotate: true
+  xy: 467, 2
+  size: 76, 118
+  orig: 78, 120
+  offset: 1, 1
+  index: -1
+Face_11
+  rotate: true
+  xy: 80, 19
+  size: 26, 73
+  orig: 28, 75
+  offset: 1, 1
+  index: -1
+Face_12
+  rotate: true
+  xy: 604, 8
+  size: 99, 112
+  orig: 101, 114
+  offset: 1, 1
+  index: -1
+Face_13
+  rotate: true
+  xy: 467, 80
+  size: 184, 135
+  orig: 186, 137
+  offset: 1, 1
+  index: -1
+Line_01
+  rotate: true
+  xy: 2, 47
+  size: 217, 307
+  orig: 219, 309
+  offset: 1, 1
+  index: -1
+Role_R
+  rotate: false
+  xy: 604, 109
+  size: 155, 155
+  orig: 157, 157
+  offset: 1, 1
+  index: -1

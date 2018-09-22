@@ -1,0 +1,111 @@
+
+bathroom.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K1
+  rotate: false
+  xy: 380, 784
+  size: 177, 216
+  orig: 190, 243
+  offset: 1, 27
+  index: -1
+K2
+  rotate: false
+  xy: 380, 612
+  size: 174, 170
+  orig: 190, 243
+  offset: 9, 69
+  index: -1
+K3
+  rotate: false
+  xy: 2, 301
+  size: 174, 225
+  orig: 190, 243
+  offset: 9, 14
+  index: -1
+KL1
+  rotate: false
+  xy: 201, 774
+  size: 177, 226
+  orig: 190, 243
+  offset: 9, 12
+  index: -1
+KL2
+  rotate: false
+  xy: 2, 528
+  size: 192, 234
+  orig: 201, 242
+  offset: 3, 4
+  index: -1
+KL3
+  rotate: false
+  xy: 2, 764
+  size: 197, 236
+  orig: 201, 242
+  offset: 2, 4
+  index: -1
+L1
+  rotate: false
+  xy: 869, 790
+  size: 152, 210
+  orig: 190, 243
+  offset: 24, 21
+  index: -1
+L2
+  rotate: false
+  xy: 158, 89
+  size: 152, 210
+  orig: 190, 243
+  offset: 24, 21
+  index: -1
+L3
+  rotate: false
+  xy: 178, 316
+  size: 152, 210
+  orig: 190, 243
+  offset: 24, 21
+  index: -1
+L4
+  rotate: false
+  xy: 559, 790
+  size: 153, 210
+  orig: 190, 243
+  offset: 23, 21
+  index: -1
+L5
+  rotate: false
+  xy: 714, 790
+  size: 153, 210
+  orig: 190, 243
+  offset: 23, 21
+  index: -1
+L6
+  rotate: false
+  xy: 2, 89
+  size: 154, 210
+  orig: 190, 243
+  offset: 22, 21
+  index: -1
+TXL
+  rotate: true
+  xy: 194, 2
+  size: 85, 137
+  orig: 102, 142
+  offset: 7, 0
+  index: -1
+TXR
+  rotate: true
+  xy: 201, 687
+  size: 85, 128
+  orig: 105, 141
+  offset: 11, 6
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 25
+  size: 190, 62
+  orig: 190, 65
+  offset: 0, 0
+  index: -1

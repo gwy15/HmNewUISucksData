@@ -1,0 +1,428 @@
+{
+"skeleton": { "hash": "mtAsAXb3/cUU8/btjDt3JExmrvU", "spine": "3.2.01", "width": 695, "height": 159, "images": "" },
+"bones": [
+	{ "name": "UI_animation_of_new_activity_all_root" },
+	{ "name": "flash_effect", "parent": "UI_animation_of_new_activity_all_root" },
+	{ "name": "Light_line_1", "parent": "flash_effect" },
+	{ "name": "scale_effect", "parent": "UI_animation_of_new_activity_all_root" },
+	{ "name": "Scale_1", "parent": "scale_effect" },
+	{ "name": "Scale_3", "parent": "scale_effect" },
+	{ "name": "pointer_effect", "parent": "UI_animation_of_new_activity_all_root" },
+	{ "name": "arrow_1", "parent": "pointer_effect" }
+],
+"slots": [
+	{ "name": "Scale_2", "bone": "Scale_1", "attachment": "Scale_1" },
+	{ "name": "Scale_11", "bone": "Scale_1", "attachment": "Scale_1" },
+	{ "name": "Scale_12", "bone": "Scale_1", "attachment": "Scale_1" },
+	{ "name": "Scale_13", "bone": "Scale_1", "attachment": "Scale_1" },
+	{ "name": "Scale_14", "bone": "Scale_1", "attachment": "Scale_1" },
+	{ "name": "Scale_17", "bone": "Scale_1", "attachment": "Scale_1" },
+	{ "name": "Scale_15", "bone": "Scale_1", "attachment": "Scale_1" },
+	{ "name": "Scale_16", "bone": "Scale_1", "attachment": "Scale_1" },
+	{ "name": "Scale_5", "bone": "Scale_1", "attachment": "Scale_1" },
+	{ "name": "Scale_7", "bone": "Scale_1", "attachment": "Scale_1" },
+	{ "name": "Scale_8", "bone": "Scale_1", "attachment": "Scale_1" },
+	{ "name": "Scale_9", "bone": "Scale_1", "attachment": "Scale_1" },
+	{ "name": "Scale_10", "bone": "Scale_1", "attachment": "Scale_1" },
+	{ "name": "Scale_6", "bone": "Scale_1", "attachment": "Scale_1" },
+	{ "name": "Aim_1", "bone": "Scale_3", "attachment": "Aim_1" },
+	{ "name": "Scale_1", "bone": "Scale_3", "attachment": "Line_1" },
+	{ "name": "Scale_3", "bone": "Scale_1", "attachment": "Line_2" },
+	{ "name": "Scale_4", "bone": "Scale_1", "attachment": "Line_3" },
+	{ "name": "Arrow_1", "bone": "arrow_1", "attachment": "Arrow_1" },
+	{ "name": "light_line_1", "bone": "Light_line_1", "attachment": "light_line_1", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"Aim_1": {
+			"Aim_1": { "width": 136, "height": 106 }
+		},
+		"Arrow_1": {
+			"Arrow_1": { "width": 59, "height": 71 }
+		},
+		"Scale_1": {
+			"Line_1": { "y": 82.92, "width": 2, "height": 10 }
+		},
+		"Scale_10": {
+			"Scale_1": { "x": -174.99, "y": 94, "width": 50, "height": 24 }
+		},
+		"Scale_11": {
+			"Scale_1": { "x": 125, "y": 94, "width": 50, "height": 24 }
+		},
+		"Scale_12": {
+			"Scale_1": { "x": 75, "y": 94, "width": 50, "height": 24 }
+		},
+		"Scale_13": {
+			"Scale_1": { "x": -275, "y": 94, "width": 50, "height": 24 }
+		},
+		"Scale_14": {
+			"Scale_1": { "x": 275, "y": 94, "width": 50, "height": 24 }
+		},
+		"Scale_15": {
+			"Scale_1": { "x": 225, "y": 94, "width": 50, "height": 24 }
+		},
+		"Scale_16": {
+			"Scale_1": { "x": -325, "y": 94, "width": 50, "height": 24 }
+		},
+		"Scale_17": {
+			"Scale_1": { "x": 320, "y": 94, "width": 50, "height": 24 }
+		},
+		"Scale_2": {
+			"Scale_1": { "x": 175, "y": 94, "width": 50, "height": 24 }
+		},
+		"Scale_3": {
+			"Line_2": { "x": 1.36, "y": 85.36, "width": 7, "height": 7 }
+		},
+		"Scale_4": {
+			"Line_3": { "x": 50.63, "y": 85.36, "width": 6, "height": 6 }
+		},
+		"Scale_5": {
+			"Scale_1": { "x": -74.99, "y": 94, "width": 50, "height": 24 }
+		},
+		"Scale_6": {
+			"Scale_1": { "x": 25, "y": 94, "width": 50, "height": 24 }
+		},
+		"Scale_7": {
+			"Scale_1": { "x": -24.99, "y": 94, "width": 50, "height": 24 }
+		},
+		"Scale_8": {
+			"Scale_1": { "x": -224.99, "y": 94, "width": 50, "height": 24 }
+		},
+		"Scale_9": {
+			"Scale_1": { "x": -124.99, "y": 94, "width": 50, "height": 24 }
+		},
+		"light_line_1": {
+			"light_line_1": { "scaleY": 6, "width": 216, "height": 8 }
+		}
+	}
+},
+"events": {
+	"end": {},
+	"loop": {},
+	"once": {}
+},
+"animations": {
+	"flash_effect": {
+		"slots": {
+			"Aim_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Arrow_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_6": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_7": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_8": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_9": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_10": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_11": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_12": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_13": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_14": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_15": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_16": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_17": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_line_1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 2.1666, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "light_line_1" },
+					{ "time": 2.1666, "name": null },
+					{ "time": 4, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"flash_effect": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -310,
+						"y": 0,
+						"curve": [ 0, 0.21, 1, 0.8 ]
+					},
+					{ "time": 2, "x": 360, "y": 0 }
+				]
+			},
+			"Light_line_1": {
+				"translate": [
+					{ "time": 0, "x": -20, "y": 0 },
+					{ "time": 2.1666, "x": 180, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.3, "y": 1 },
+					{ "time": 2.1666, "x": 2, "y": 1 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "loop" }
+		]
+	},
+	"pointer_effect": {
+		"slots": {
+			"Aim_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_6": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_7": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_8": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_9": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_10": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_11": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_12": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_13": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_14": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_15": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_16": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Scale_17": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_line_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"arrow_1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1666, "x": 12, "y": 0 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "loop" }
+		]
+	},
+	"scale_effect_l": {
+		"slots": {
+			"Arrow_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_line_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Scale_1": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 120,
+						"y": 0,
+						"curve": [ 0, 0.26, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"x": -12,
+						"y": 0,
+						"curve": [ 0.25, 0, 1, 0.75 ]
+					},
+					{ "time": 1.3333, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "once" },
+			{ "time": 1.3333, "name": "end" }
+		]
+	},
+	"scale_effect_r": {
+		"slots": {
+			"Arrow_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"light_line_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Scale_1": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -120,
+						"y": 0,
+						"curve": [ 0, 0.26, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"x": 12,
+						"y": 0,
+						"curve": [ 0.25, 0, 1, 0.75 ]
+					},
+					{ "time": 1.3333, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "once" },
+			{ "time": 1.3333, "name": "end" }
+		]
+	}
+}
+}

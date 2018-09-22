@@ -1,0 +1,83 @@
+
+cookbook_27.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H1
+  rotate: false
+  xy: 323, 2
+  size: 212, 210
+  orig: 600, 600
+  offset: 320, 355
+  index: -1
+H2
+  rotate: true
+  xy: 323, 214
+  size: 227, 110
+  orig: 600, 600
+  offset: 266, 251
+  index: -1
+H3
+  rotate: false
+  xy: 566, 770
+  size: 264, 226
+  orig: 600, 600
+  offset: 175, 54
+  index: -1
+PZ
+  rotate: false
+  xy: 2, 766
+  size: 562, 230
+  orig: 600, 600
+  offset: 22, 13
+  index: -1
+T1
+  rotate: true
+  xy: 832, 752
+  size: 244, 186
+  orig: 600, 600
+  offset: 91, 146
+  index: -1
+T2
+  rotate: false
+  xy: 2, 443
+  size: 416, 321
+  orig: 600, 600
+  offset: 95, 81
+  index: -1
+T3
+  rotate: true
+  xy: 2, 23
+  size: 418, 319
+  orig: 600, 600
+  offset: 92, 80
+  index: -1
+T4
+  rotate: true
+  xy: 420, 454
+  size: 310, 142
+  orig: 600, 600
+  offset: 176, 86
+  index: -1
+TDH1
+  rotate: true
+  xy: 435, 239
+  size: 213, 176
+  orig: 600, 600
+  offset: 110, 275
+  index: -1
+TDH2
+  rotate: true
+  xy: 537, 23
+  size: 214, 102
+  orig: 600, 600
+  offset: 190, 358
+  index: -1
+TDH3
+  rotate: false
+  xy: 566, 640
+  size: 159, 128
+  orig: 600, 600
+  offset: 124, 425
+  index: -1

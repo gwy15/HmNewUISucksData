@@ -1,0 +1,13 @@
+
+Warning.png
+size: 256,64
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+Font_05
+  rotate: false
+  xy: 2, 2
+  size: 185, 56
+  orig: 185, 56
+  offset: 0, 0
+  index: -1

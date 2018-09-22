@@ -1,0 +1,69 @@
+
+airfight_bg.png
+size: 424,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue_00
+  rotate: true
+  xy: 2, 8
+  size: 50, 225
+  orig: 50, 225
+  offset: 0, 0
+  index: -1
+Fighters
+  rotate: false
+  xy: 2, 3
+  size: 3, 3
+  orig: 245, 188
+  offset: 0, 185
+  index: -1
+Line_00
+  rotate: false
+  xy: 2, 69
+  size: 360, 7
+  orig: 360, 7
+  offset: 0, 0
+  index: -1
+Line_01
+  rotate: false
+  xy: 2, 60
+  size: 360, 7
+  orig: 360, 7
+  offset: 0, 0
+  index: -1
+Line_02
+  rotate: false
+  xy: 287, 19
+  size: 10, 5
+  orig: 10, 7
+  offset: 0, 2
+  index: -1
+Line_03
+  rotate: false
+  xy: 321, 53
+  size: 10, 5
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+Template_00
+  rotate: false
+  xy: 229, 2
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+Template_01
+  rotate: false
+  xy: 364, 18
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 287, 26
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+Level_up.png
+size: 512,256
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+Level_uo_light_new
+  rotate: false
+  xy: 2, 55
+  size: 190, 130
+  orig: 400, 130
+  offset: 106, 0
+  index: -1
+Level_up_font
+  rotate: false
+  xy: 194, 81
+  size: 191, 51
+  orig: 200, 60
+  offset: 5, 4
+  index: -1
+Level_up_font_G
+  rotate: false
+  xy: 194, 134
+  size: 269, 51
+  orig: 400, 70
+  offset: 66, 9
+  index: -1
+Level_up_font_W
+  rotate: false
+  xy: 2, 2
+  size: 191, 51
+  orig: 200, 60
+  offset: 5, 4
+  index: -1

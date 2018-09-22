@@ -1,0 +1,194 @@
+
+Connon_comic4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K
+  rotate: false
+  xy: 189, 114
+  size: 375, 506
+  orig: 375, 506
+  offset: 0, 0
+  index: -1
+K1
+  rotate: true
+  xy: 784, 88
+  size: 335, 235
+  orig: 335, 235
+  offset: 0, 0
+  index: -1
+K2
+  rotate: true
+  xy: 784, 425
+  size: 223, 237
+  orig: 223, 237
+  offset: 0, 0
+  index: -1
+K3_light
+  rotate: true
+  xy: 566, 410
+  size: 210, 214
+  orig: 210, 214
+  offset: 0, 0
+  index: -1
+K8
+  rotate: false
+  xy: 2, 767
+  size: 707, 255
+  orig: 707, 255
+  offset: 0, 0
+  index: -1
+k6
+  rotate: false
+  xy: 525, 4
+  size: 257, 108
+  orig: 257, 108
+  offset: 0, 0
+  index: -1
+k6_1
+  rotate: false
+  xy: 2, 2
+  size: 521, 107
+  orig: 521, 107
+  offset: 0, 0
+  index: -1
+k6_3
+  rotate: true
+  xy: 2, 111
+  size: 537, 185
+  orig: 537, 185
+  offset: 0, 0
+  index: -1
+k6_4
+  rotate: true
+  xy: 1004, 650
+  size: 139, 10
+  orig: 143, 17
+  offset: 0, 0
+  index: -1
+k6_k
+  rotate: true
+  xy: 566, 122
+  size: 286, 130
+  orig: 286, 130
+  offset: 0, 0
+  index: -1
+k6_live
+  rotate: true
+  xy: 1004, 791
+  size: 84, 18
+  orig: 328, 202
+  offset: 25, 184
+  index: -1
+q1
+  rotate: false
+  xy: 256, 622
+  size: 452, 143
+  orig: 452, 143
+  offset: 0, 0
+  index: -1
+q2a
+  rotate: true
+  xy: 698, 147
+  size: 261, 83
+  orig: 261, 84
+  offset: 0, 0
+  index: -1
+q2b
+  rotate: true
+  xy: 710, 624
+  size: 122, 67
+  orig: 122, 68
+  offset: 0, 1
+  index: -1
+q3
+  rotate: false
+  xy: 711, 748
+  size: 291, 127
+  orig: 291, 127
+  offset: 0, 0
+  index: -1
+q4
+  rotate: false
+  xy: 2, 655
+  size: 252, 91
+  orig: 252, 92
+  offset: 0, 0
+  index: -1
+q5
+  rotate: false
+  xy: 779, 656
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+q7
+  rotate: false
+  xy: 711, 877
+  size: 307, 145
+  orig: 307, 145
+  offset: 0, 0
+  index: -1
+
+Connon_comic42.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K3
+  rotate: false
+  xy: 419, 589
+  size: 387, 169
+  orig: 387, 169
+  offset: 0, 0
+  index: -1
+K4
+  rotate: true
+  xy: 296, 170
+  size: 322, 174
+  orig: 322, 174
+  offset: 0, 0
+  index: -1
+K5
+  rotate: false
+  xy: 472, 321
+  size: 229, 266
+  orig: 229, 266
+  offset: 0, 0
+  index: -1
+K7
+  rotate: false
+  xy: 2, 494
+  size: 415, 264
+  orig: 415, 264
+  offset: 0, 0
+  index: -1
+K8_light
+  rotate: true
+  xy: 703, 253
+  size: 334, 102
+  orig: 334, 102
+  offset: 0, 0
+  index: -1
+k6_2
+  rotate: true
+  xy: 807, 301
+  size: 286, 34
+  orig: 286, 34
+  offset: 0, 0
+  index: -1
+k6_girl
+  rotate: true
+  xy: 107, 164
+  size: 328, 187
+  orig: 328, 202
+  offset: 0, 0
+  index: -1
+q8
+  rotate: true
+  xy: 2, 2
+  size: 490, 103
+  orig: 490, 103
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,78 @@
+{
+"skeleton": { "hash": "AHxdF+Za8zkKE8Ru6D+SrOFUhDA", "spine": "3.2.01", "width": 61, "height": 61, "images": "" },
+"bones": [
+	{ "name": "select_icon_root" },
+	{ "name": "select_icon_00", "parent": "select_icon_root" },
+	{ "name": "select_icon_01", "parent": "select_icon_00", "x": -22.99, "y": 23 },
+	{ "name": "select_icon_02", "parent": "select_icon_00", "x": 23, "y": 23, "scaleX": -1 },
+	{ "name": "select_icon_03", "parent": "select_icon_00", "x": -22.99, "y": -23, "scaleY": -1 },
+	{ "name": "select_icon_04", "parent": "select_icon_00", "x": 22.99, "y": -23, "scaleX": -1, "scaleY": -1 }
+],
+"slots": [
+	{ "name": "Icon_01", "bone": "select_icon_00", "attachment": "Icon_01" },
+	{ "name": "Icon_00", "bone": "select_icon_01", "attachment": "Icon_00" },
+	{ "name": "Icon_1", "bone": "select_icon_03", "attachment": "Icon_00" },
+	{ "name": "Icon_2", "bone": "select_icon_04", "attachment": "Icon_00" },
+	{ "name": "Icon_0", "bone": "select_icon_02", "attachment": "Icon_00" }
+],
+"skins": {
+	"default": {
+		"Icon_0": {
+			"Icon_00": { "width": 15, "height": 15 }
+		},
+		"Icon_00": {
+			"Icon_00": { "width": 15, "height": 15 }
+		},
+		"Icon_01": {
+			"Icon_01": { "width": 53, "height": 54 }
+		},
+		"Icon_1": {
+			"Icon_00": { "width": 15, "height": 15 }
+		},
+		"Icon_2": {
+			"Icon_00": { "width": 15, "height": 15 }
+		}
+	}
+},
+"animations": {
+	"select_icon": {
+		"slots": {
+			"Icon_01": {
+				"attachment": [
+					{ "time": 0, "name": "Icon_01" }
+				]
+			}
+		},
+		"bones": {
+			"select_icon_01": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1666, "x": 3, "y": -3 },
+					{ "time": 0.6666, "x": 0, "y": 0 }
+				]
+			},
+			"select_icon_02": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1666, "x": -3, "y": -3 },
+					{ "time": 0.6666, "x": 0, "y": 0 }
+				]
+			},
+			"select_icon_03": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1666, "x": 2.99, "y": 3 },
+					{ "time": 0.6666, "x": 0, "y": 0 }
+				]
+			},
+			"select_icon_04": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1666, "x": -3, "y": 3 },
+					{ "time": 0.6666, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,55 @@
+
+furniture_231.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 148, 64
+  size: 72, 62
+  orig: 170, 170
+  offset: 53, 40
+  index: -1
+2
+  rotate: false
+  xy: 74, 62
+  size: 72, 64
+  orig: 170, 170
+  offset: 53, 40
+  index: -1
+3
+  rotate: false
+  xy: 2, 59
+  size: 70, 67
+  orig: 170, 170
+  offset: 54, 40
+  index: -1
+A
+  rotate: false
+  xy: 2, 2
+  size: 26, 38
+  orig: 170, 170
+  offset: 48, 98
+  index: -1
+B
+  rotate: true
+  xy: 222, 112
+  size: 14, 32
+  orig: 170, 170
+  offset: 82, 105
+  index: -1
+C
+  rotate: false
+  xy: 30, 3
+  size: 25, 37
+  orig: 170, 170
+  offset: 105, 95
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 42
+  size: 70, 15
+  orig: 170, 170
+  offset: 55, 35
+  index: -1

@@ -1,0 +1,13 @@
+
+BG_only_fog_front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke_00
+  rotate: false
+  xy: 2, 2
+  size: 500, 219
+  orig: 500, 235
+  offset: 0, 0
+  index: -1

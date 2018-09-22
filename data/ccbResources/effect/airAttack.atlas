@@ -1,0 +1,76 @@
+
+airAttack.png
+size: 1218,1028
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+Actor_picture
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+Blue_00
+  rotate: false
+  xy: 1037, 554
+  size: 50, 225
+  orig: 50, 225
+  offset: 0, 0
+  index: -1
+Fighters
+  rotate: true
+  xy: 1028, 781
+  size: 245, 188
+  orig: 245, 188
+  offset: 0, 0
+  index: -1
+Line_00
+  rotate: true
+  xy: 1028, 419
+  size: 360, 7
+  orig: 360, 7
+  offset: 0, 0
+  index: -1
+Line_01
+  rotate: true
+  xy: 1028, 57
+  size: 360, 7
+  orig: 360, 7
+  offset: 0, 0
+  index: -1
+Line_02
+  rotate: true
+  xy: 1028, 45
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+Line_03
+  rotate: false
+  xy: 1147, 772
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+Template_00
+  rotate: false
+  xy: 1089, 723
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+Template_01
+  rotate: false
+  xy: 1089, 665
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 1037, 520
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

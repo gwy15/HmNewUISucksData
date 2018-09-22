@@ -1,0 +1,48 @@
+
+Expression_study.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fix
+  rotate: true
+  xy: 77, 73
+  size: 50, 38
+  orig: 200, 200
+  offset: 59, 94
+  index: -1
+light
+  rotate: false
+  xy: 77, 36
+  size: 39, 35
+  orig: 200, 200
+  offset: 74, 101
+  index: -1
+start1
+  rotate: false
+  xy: 2, 2
+  size: 11, 5
+  orig: 200, 200
+  offset: 86, 93
+  index: -1
+start2
+  rotate: false
+  xy: 72, 19
+  size: 33, 15
+  orig: 200, 200
+  offset: 77, 90
+  index: -1
+start3
+  rotate: false
+  xy: 2, 9
+  size: 68, 41
+  orig: 200, 200
+  offset: 58, 84
+  index: -1
+start4
+  rotate: false
+  xy: 2, 52
+  size: 73, 71
+  orig: 200, 200
+  offset: 55, 70
+  index: -1

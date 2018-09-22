@@ -1,0 +1,125 @@
+
+furniture_180.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FF1
+  rotate: false
+  xy: 465, 285
+  size: 222, 111
+  orig: 222, 111
+  offset: 0, 0
+  index: -1
+FF2
+  rotate: false
+  xy: 689, 285
+  size: 222, 111
+  orig: 222, 111
+  offset: 0, 0
+  index: -1
+FF3
+  rotate: true
+  xy: 226, 30
+  size: 222, 111
+  orig: 222, 111
+  offset: 0, 0
+  index: -1
+FF4
+  rotate: false
+  xy: 234, 272
+  size: 222, 111
+  orig: 222, 111
+  offset: 0, 0
+  index: -1
+HDMI1
+  rotate: false
+  xy: 339, 2
+  size: 68, 44
+  orig: 230, 130
+  offset: 82, 48
+  index: -1
+HDMI2
+  rotate: false
+  xy: 913, 506
+  size: 18, 4
+  orig: 230, 130
+  offset: 12, 115
+  index: -1
+TVK
+  rotate: false
+  xy: 2, 382
+  size: 230, 128
+  orig: 230, 130
+  offset: 0, 2
+  index: -1
+TVP
+  rotate: false
+  xy: 2, 140
+  size: 222, 112
+  orig: 230, 130
+  offset: 4, 14
+  index: -1
+TVS
+  rotate: false
+  xy: 2, 254
+  size: 229, 126
+  orig: 230, 130
+  offset: 1, 3
+  index: -1
+TVX_light
+  rotate: false
+  xy: 458, 379
+  size: 2, 4
+  orig: 230, 130
+  offset: 221, 7
+  index: -1
+TV_light
+  rotate: false
+  xy: 465, 398
+  size: 222, 112
+  orig: 230, 130
+  offset: 4, 14
+  index: -1
+XBOX
+  rotate: false
+  xy: 2, 26
+  size: 222, 112
+  orig: 230, 130
+  offset: 5, 13
+  index: -1
+nin1
+  rotate: false
+  xy: 689, 398
+  size: 222, 112
+  orig: 230, 130
+  offset: 5, 13
+  index: -1
+nin2
+  rotate: true
+  xy: 339, 48
+  size: 222, 112
+  orig: 230, 130
+  offset: 5, 13
+  index: -1
+nin3
+  rotate: false
+  xy: 458, 171
+  size: 222, 112
+  orig: 230, 130
+  offset: 5, 13
+  index: -1
+nin4
+  rotate: false
+  xy: 682, 171
+  size: 222, 112
+  orig: 230, 130
+  offset: 5, 13
+  index: -1
+shadow
+  rotate: false
+  xy: 234, 385
+  size: 229, 125
+  orig: 230, 130
+  offset: 1, 0
+  index: -1

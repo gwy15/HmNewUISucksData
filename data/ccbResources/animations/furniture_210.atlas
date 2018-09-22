@@ -1,0 +1,48 @@
+
+furniture_210.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 119, 29
+  size: 118, 89
+  orig: 170, 170
+  offset: 31, 39
+  index: -1
+2
+  rotate: false
+  xy: 2, 24
+  size: 115, 94
+  orig: 170, 170
+  offset: 32, 37
+  index: -1
+3
+  rotate: false
+  xy: 304, 70
+  size: 59, 48
+  orig: 170, 170
+  offset: 71, 61
+  index: -1
+4
+  rotate: false
+  xy: 2, 2
+  size: 24, 20
+  orig: 170, 170
+  offset: 92, 82
+  index: -1
+5
+  rotate: false
+  xy: 239, 62
+  size: 63, 56
+  orig: 170, 170
+  offset: 70, 65
+  index: -1
+6
+  rotate: false
+  xy: 365, 79
+  size: 54, 39
+  orig: 170, 170
+  offset: 45, 50
+  index: -1

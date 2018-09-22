@@ -1,0 +1,285 @@
+
+BG_sea.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue_day
+  rotate: true
+  xy: 926, 19
+  size: 245, 57
+  orig: 245, 62
+  offset: 0, 2
+  index: -1
+Blue_night
+  rotate: true
+  xy: 926, 266
+  size: 245, 58
+  orig: 245, 62
+  offset: 0, 0
+  index: -1
+Sea_0001
+  rotate: false
+  xy: 2, 841
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0002
+  rotate: false
+  xy: 2, 675
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0003
+  rotate: false
+  xy: 310, 841
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0004
+  rotate: false
+  xy: 2, 509
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0005
+  rotate: false
+  xy: 310, 675
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0006
+  rotate: false
+  xy: 618, 841
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0007
+  rotate: false
+  xy: 2, 343
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0008
+  rotate: false
+  xy: 310, 509
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0009
+  rotate: false
+  xy: 618, 675
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0010
+  rotate: false
+  xy: 2, 177
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0011
+  rotate: false
+  xy: 310, 343
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0012
+  rotate: false
+  xy: 618, 509
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0013
+  rotate: false
+  xy: 2, 11
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0014
+  rotate: false
+  xy: 310, 177
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0015
+  rotate: false
+  xy: 618, 343
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0016
+  rotate: false
+  xy: 310, 11
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0017
+  rotate: false
+  xy: 618, 177
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0018
+  rotate: false
+  xy: 618, 11
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_Ice_day
+  rotate: false
+  xy: 2, 2
+  size: 151, 7
+  orig: 244, 74
+  offset: 50, 58
+  index: -1
+Sea_Ice_night
+  rotate: true
+  xy: 996, 608
+  size: 151, 7
+  orig: 244, 74
+  offset: 50, 58
+  index: -1
+Sea_Red
+  rotate: true
+  xy: 996, 761
+  size: 244, 26
+  orig: 244, 74
+  offset: 0, 45
+  index: -1
+Sea_rain_day
+  rotate: true
+  xy: 926, 760
+  size: 245, 68
+  orig: 245, 79
+  offset: 0, 0
+  index: -1
+Sea_rain_night
+  rotate: true
+  xy: 926, 513
+  size: 245, 68
+  orig: 245, 79
+  offset: 0, 0
+  index: -1
+
+BG_sea2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sea_0019
+  rotate: false
+  xy: 2, 832
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0020
+  rotate: false
+  xy: 2, 666
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0021
+  rotate: false
+  xy: 310, 832
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0022
+  rotate: false
+  xy: 2, 500
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0023
+  rotate: false
+  xy: 310, 666
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0024
+  rotate: false
+  xy: 618, 832
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0025
+  rotate: false
+  xy: 2, 334
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0026
+  rotate: false
+  xy: 310, 500
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0027
+  rotate: false
+  xy: 618, 666
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0028
+  rotate: false
+  xy: 2, 168
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0029
+  rotate: false
+  xy: 310, 334
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0030
+  rotate: false
+  xy: 618, 500
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0031
+  rotate: false
+  xy: 2, 2
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1
+Sea_0032
+  rotate: false
+  xy: 310, 168
+  size: 306, 164
+  orig: 306, 170
+  offset: 0, 0
+  index: -1

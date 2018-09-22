@@ -1,0 +1,299 @@
+{
+"skeleton": { "hash": "+sk99GGYFsxfiZ2RFMUwTu+/6z4", "spine": "3.2.01", "width": 154, "height": 154, "images": "" },
+"bones": [
+	{ "name": "Cannon_point_picture" },
+	{ "name": "BG_point", "parent": "Cannon_point_picture" },
+	{ "name": "Cannon_00", "parent": "Cannon_point_picture" },
+	{ "name": "Cannon_01", "parent": "Cannon_point_picture" },
+	{ "name": "Light_00", "parent": "Cannon_point_picture" },
+	{ "name": "Railway_01", "parent": "Cannon_point_picture" }
+],
+"slots": [
+	{ "name": "BG_point", "bone": "BG_point", "attachment": "BG_point" },
+	{ "name": "Railway_01", "bone": "Railway_01", "attachment": "Railway_00" },
+	{ "name": "Cannon_00", "bone": "Cannon_00", "attachment": "Cannon_02" },
+	{ "name": "Cannon_01", "bone": "Cannon_01", "attachment": "Cannon_03" },
+	{ "name": "Light_00", "bone": "Light_00", "attachment": "Light_00" }
+],
+"skins": {
+	"default": {
+		"BG_point": {
+			"BG_point": { "width": 82, "height": 82 }
+		},
+		"Cannon_00": {
+			"Cannon_00": { "width": 82, "height": 82 },
+			"Cannon_02": { "width": 82, "height": 82 },
+			"Cannon_04": { "width": 82, "height": 82 }
+		},
+		"Cannon_01": {
+			"Cannon_01": { "width": 82, "height": 82 },
+			"Cannon_03": { "width": 82, "height": 82 },
+			"Cannon_05": { "width": 82, "height": 82 }
+		},
+		"Light_00": {
+			"Light_00": { "width": 154, "height": 154 }
+		},
+		"Railway_01": {
+			"Railway_00": { "width": 82, "height": 82 },
+			"Railway_01": { "x": 3.79, "y": -4, "width": 82, "height": 82 },
+			"Railway_02": { "y": -1.8, "scaleX": 0.8, "scaleY": 0.8, "width": 120, "height": 82 }
+		}
+	}
+},
+"events": {
+	"Cannon_point_after": {},
+	"Cannon_point_before": {}
+},
+"animations": {
+	"Cannon_point": {
+		"slots": {
+			"BG_point": {
+				"attachment": [
+					{ "time": 0, "name": "BG_point" },
+					{ "time": 1.3333, "name": "BG_point" }
+				]
+			},
+			"Cannon_00": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.7666, "name": "Cannon_00" }
+				]
+			},
+			"Cannon_01": {
+				"color": [
+					{ "time": 0.4, "color": "ffffff00" },
+					{ "time": 0.5333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.7666, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4, "name": "Cannon_01" }
+				]
+			},
+			"Light_00": {
+				"color": [
+					{
+						"time": 0.7666,
+						"color": "ffffffff",
+						"curve": [ 0.11, 0.52, 0.644, 0.98 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.7666, "name": "Light_00" }
+				]
+			},
+			"Railway_01": {
+				"attachment": [
+					{ "time": 0, "name": "Railway_00" },
+					{ "time": 0.4333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Cannon_01": {
+				"scale": [
+					{ "time": 0.4, "x": 0.1, "y": 0.1 },
+					{ "time": 0.5333, "x": 2, "y": 2 },
+					{ "time": 0.6666, "x": 2.5, "y": 2.5 },
+					{ "time": 0.7666, "x": 1, "y": 1 }
+				]
+			},
+			"Light_00": {
+				"scale": [
+					{
+						"time": 0.7666,
+						"x": 0.1,
+						"y": 0.1,
+						"curve": [ 0.11, 0.52, 0.644, 0.98 ]
+					},
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				]
+			},
+			"Railway_01": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.0333, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1.5, "y": 1.5 },
+					{ "time": 0.2666, "x": 2, "y": 2 },
+					{ "time": 0.4333, "x": 0.1, "y": 0.1 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Cannon_point_before" },
+			{ "time": 1.3333, "name": "Cannon_point_after" }
+		]
+	},
+	"Cannon_point_2": {
+		"slots": {
+			"BG_point": {
+				"attachment": [
+					{ "time": 0, "name": "BG_point" },
+					{ "time": 1.3333, "name": "BG_point" }
+				]
+			},
+			"Cannon_00": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.7666, "name": "Cannon_04" },
+					{ "time": 1.3333, "name": "Cannon_04" }
+				]
+			},
+			"Cannon_01": {
+				"color": [
+					{ "time": 0.4, "color": "ffffff00" },
+					{ "time": 0.5333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.7666, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4, "name": "Cannon_05" },
+					{ "time": 1.3333, "name": null }
+				]
+			},
+			"Light_00": {
+				"color": [
+					{
+						"time": 0.7666,
+						"color": "ffffffff",
+						"curve": [ 0.11, 0.52, 0.644, 0.98 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.7666, "name": "Light_00" }
+				]
+			},
+			"Railway_01": {
+				"attachment": [
+					{ "time": 0, "name": "Railway_02" },
+					{ "time": 0.4333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Cannon_01": {
+				"scale": [
+					{ "time": 0.4, "x": 0.1, "y": 0.1 },
+					{ "time": 0.5333, "x": 2, "y": 2 },
+					{ "time": 0.6666, "x": 2.5, "y": 2.5 },
+					{ "time": 0.7666, "x": 1, "y": 1 }
+				]
+			},
+			"Railway_01": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.0333, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1.5, "y": 1.5 },
+					{ "time": 0.2666, "x": 2, "y": 2 },
+					{ "time": 0.4333, "x": 0.1, "y": 0.1 }
+				]
+			},
+			"Light_00": {
+				"scale": [
+					{
+						"time": 0.7666,
+						"x": 0.1,
+						"y": 0.1,
+						"curve": [ 0.11, 0.52, 0.644, 0.98 ]
+					},
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Cannon_point_before" },
+			{ "time": 1.3333, "name": "Cannon_point_after" }
+		]
+	},
+	"Cannon_point_3": {
+		"slots": {
+			"BG_point": {
+				"attachment": [
+					{ "time": 0, "name": "BG_point" },
+					{ "time": 1.3333, "name": "BG_point" }
+				]
+			},
+			"Cannon_00": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.7666, "name": "Cannon_02" },
+					{ "time": 1.3333, "name": "Cannon_02" }
+				]
+			},
+			"Cannon_01": {
+				"color": [
+					{ "time": 0.4, "color": "ffffff00" },
+					{ "time": 0.5333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.7666, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4, "name": "Cannon_03" },
+					{ "time": 1.3333, "name": null }
+				]
+			},
+			"Light_00": {
+				"color": [
+					{
+						"time": 0.7666,
+						"color": "ffffffff",
+						"curve": [ 0.11, 0.52, 0.644, 0.98 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.7666, "name": "Light_00" }
+				]
+			},
+			"Railway_01": {
+				"attachment": [
+					{ "time": 0, "name": "Railway_01" },
+					{ "time": 0.4333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Cannon_01": {
+				"scale": [
+					{ "time": 0.4, "x": 0.1, "y": 0.1 },
+					{ "time": 0.5333, "x": 2, "y": 2 },
+					{ "time": 0.6666, "x": 2.5, "y": 2.5 },
+					{ "time": 0.7666, "x": 1, "y": 1 }
+				]
+			},
+			"Railway_01": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.0333, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1.5, "y": 1.5 },
+					{ "time": 0.2666, "x": 2, "y": 2 },
+					{ "time": 0.4333, "x": 0.1, "y": 0.1 }
+				]
+			},
+			"Light_00": {
+				"scale": [
+					{
+						"time": 0.7666,
+						"x": 0.1,
+						"y": 0.1,
+						"curve": [ 0.11, 0.52, 0.644, 0.98 ]
+					},
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Cannon_point_before" },
+			{ "time": 1.3333, "name": "Cannon_point_after" }
+		]
+	}
+}
+}

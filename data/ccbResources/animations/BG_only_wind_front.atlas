@@ -1,0 +1,153 @@
+
+BG_only_wind_front.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wind_new_0001
+  rotate: false
+  xy: 2, 368
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0002
+  rotate: false
+  xy: 2, 246
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0003
+  rotate: false
+  xy: 164, 368
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0004
+  rotate: false
+  xy: 2, 124
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0005
+  rotate: false
+  xy: 164, 246
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0006
+  rotate: false
+  xy: 326, 368
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0007
+  rotate: false
+  xy: 2, 2
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0008
+  rotate: false
+  xy: 164, 124
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0009
+  rotate: false
+  xy: 326, 246
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0010
+  rotate: false
+  xy: 488, 368
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0011
+  rotate: false
+  xy: 164, 2
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0012
+  rotate: false
+  xy: 326, 124
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0013
+  rotate: false
+  xy: 488, 246
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0014
+  rotate: false
+  xy: 650, 368
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0015
+  rotate: false
+  xy: 326, 2
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0016
+  rotate: false
+  xy: 488, 124
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0017
+  rotate: false
+  xy: 650, 246
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0018
+  rotate: false
+  xy: 812, 368
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0019
+  rotate: false
+  xy: 488, 2
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0020
+  rotate: false
+  xy: 650, 124
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+Wind_new_0021
+  rotate: false
+  xy: 812, 246
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1

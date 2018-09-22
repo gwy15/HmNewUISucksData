@@ -1,0 +1,97 @@
+
+furniture_60.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: false
+  xy: 705, 97
+  size: 76, 111
+  orig: 616, 448
+  offset: 264, 174
+  index: -1
+A2
+  rotate: true
+  xy: 383, 8
+  size: 81, 111
+  orig: 616, 448
+  offset: 261, 174
+  index: -1
+A3
+  rotate: false
+  xy: 539, 97
+  size: 81, 111
+  orig: 616, 448
+  offset: 261, 174
+  index: -1
+A4
+  rotate: false
+  xy: 622, 97
+  size: 81, 111
+  orig: 616, 448
+  offset: 261, 174
+  index: -1
+A5
+  rotate: false
+  xy: 783, 97
+  size: 76, 111
+  orig: 616, 448
+  offset: 264, 174
+  index: -1
+B1
+  rotate: false
+  xy: 861, 97
+  size: 76, 111
+  orig: 616, 448
+  offset: 264, 174
+  index: -1
+B2
+  rotate: false
+  xy: 939, 97
+  size: 76, 111
+  orig: 616, 448
+  offset: 264, 174
+  index: -1
+B3
+  rotate: true
+  xy: 666, 19
+  size: 76, 111
+  orig: 616, 448
+  offset: 264, 174
+  index: -1
+K
+  rotate: false
+  xy: 383, 91
+  size: 76, 117
+  orig: 616, 448
+  offset: 264, 171
+  index: -1
+SB
+  rotate: false
+  xy: 539, 37
+  size: 125, 58
+  orig: 616, 448
+  offset: 237, 92
+  index: -1
+TV
+  rotate: false
+  xy: 2, 2
+  size: 222, 206
+  orig: 616, 448
+  offset: 183, 99
+  index: -1
+TVA
+  rotate: false
+  xy: 461, 91
+  size: 76, 117
+  orig: 616, 448
+  offset: 264, 171
+  index: -1
+TV_light
+  rotate: false
+  xy: 226, 3
+  size: 155, 205
+  orig: 616, 448
+  offset: 253, 136
+  index: -1

@@ -1,0 +1,244 @@
+
+Gunfire_new_year.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Big_bang_at_sea0001
+  rotate: true
+  xy: 529, 2
+  size: 85, 94
+  orig: 220, 200
+  offset: 76, 67
+  index: -1
+Big_bang_at_sea0003
+  rotate: true
+  xy: 730, 392
+  size: 139, 123
+  orig: 220, 200
+  offset: 47, 43
+  index: -1
+Big_bang_at_sea0005
+  rotate: true
+  xy: 386, 225
+  size: 151, 128
+  orig: 220, 200
+  offset: 41, 39
+  index: -1
+Big_bang_at_sea0007
+  rotate: false
+  xy: 857, 746
+  size: 165, 136
+  orig: 220, 200
+  offset: 34, 32
+  index: -1
+Big_bang_at_sea0009
+  rotate: false
+  xy: 217, 378
+  size: 192, 148
+  orig: 220, 200
+  offset: 26, 26
+  index: -1
+Big_bang_at_sea0011
+  rotate: false
+  xy: 217, 528
+  size: 195, 160
+  orig: 220, 200
+  offset: 19, 20
+  index: -1
+Big_bang_at_sea0013
+  rotate: false
+  xy: 647, 851
+  size: 208, 171
+  orig: 220, 200
+  offset: 12, 15
+  index: -1
+Big_bang_at_sea0015
+  rotate: false
+  xy: 2, 657
+  size: 213, 179
+  orig: 220, 200
+  offset: 7, 11
+  index: -1
+Big_bang_at_sea0017
+  rotate: false
+  xy: 2, 838
+  size: 216, 184
+  orig: 220, 200
+  offset: 4, 8
+  index: -1
+Big_bang_at_sea0019
+  rotate: false
+  xy: 2, 309
+  size: 210, 170
+  orig: 220, 200
+  offset: 4, 20
+  index: -1
+Big_bang_at_sea0021
+  rotate: false
+  xy: 429, 701
+  size: 206, 145
+  orig: 220, 200
+  offset: 5, 37
+  index: -1
+Big_bang_at_sea0023
+  rotate: false
+  xy: 220, 690
+  size: 207, 156
+  orig: 220, 200
+  offset: 5, 29
+  index: -1
+Big_bang_at_sea0025
+  rotate: false
+  xy: 2, 141
+  size: 207, 166
+  orig: 220, 200
+  offset: 5, 21
+  index: -1
+Big_bang_at_sea0027
+  rotate: false
+  xy: 435, 848
+  size: 210, 174
+  orig: 220, 200
+  offset: 5, 14
+  index: -1
+Big_bang_at_sea0029
+  rotate: false
+  xy: 220, 848
+  size: 213, 174
+  orig: 220, 200
+  offset: 4, 14
+  index: -1
+Big_bang_at_sea0031
+  rotate: false
+  xy: 2, 481
+  size: 213, 174
+  orig: 220, 200
+  offset: 3, 14
+  index: -1
+Gunfire
+  rotate: false
+  xy: 625, 4
+  size: 75, 83
+  orig: 300, 300
+  offset: 117, 111
+  index: -1
+Light_picture
+  rotate: false
+  xy: 742, 774
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+Small_bang_at_sea0001
+  rotate: false
+  xy: 742, 702
+  size: 73, 70
+  orig: 170, 160
+  offset: 54, 49
+  index: -1
+Small_bang_at_sea0003
+  rotate: true
+  xy: 637, 725
+  size: 121, 103
+  orig: 170, 160
+  offset: 28, 28
+  index: -1
+Small_bang_at_sea0005
+  rotate: false
+  xy: 799, 141
+  size: 130, 111
+  orig: 170, 160
+  offset: 24, 25
+  index: -1
+Small_bang_at_sea0007
+  rotate: true
+  xy: 680, 236
+  size: 143, 117
+  orig: 170, 160
+  offset: 17, 19
+  index: -1
+Small_bang_at_sea0009
+  rotate: false
+  xy: 2, 12
+  size: 156, 127
+  orig: 170, 160
+  offset: 11, 14
+  index: -1
+Small_bang_at_sea0011
+  rotate: false
+  xy: 857, 884
+  size: 165, 138
+  orig: 170, 160
+  offset: 5, 9
+  index: -1
+Small_bang_at_sea0013
+  rotate: false
+  xy: 214, 228
+  size: 170, 148
+  orig: 170, 160
+  offset: 0, 4
+  index: -1
+Small_bang_at_sea0015
+  rotate: false
+  xy: 211, 72
+  size: 170, 154
+  orig: 170, 160
+  offset: 0, 1
+  index: -1
+Small_bang_at_sea0017
+  rotate: false
+  xy: 429, 542
+  size: 170, 157
+  orig: 170, 160
+  offset: 0, 0
+  index: -1
+Small_bang_at_sea0019
+  rotate: true
+  xy: 601, 533
+  size: 166, 146
+  orig: 170, 160
+  offset: 4, 9
+  index: -1
+Small_bang_at_sea0021
+  rotate: true
+  xy: 799, 254
+  size: 136, 125
+  orig: 170, 160
+  offset: 17, 23
+  index: -1
+Small_bang_at_sea0023
+  rotate: false
+  xy: 529, 89
+  size: 146, 135
+  orig: 170, 160
+  offset: 12, 16
+  index: -1
+Small_bang_at_sea0025
+  rotate: true
+  xy: 383, 68
+  size: 155, 144
+  orig: 170, 160
+  offset: 8, 9
+  index: -1
+Small_bang_at_sea0027
+  rotate: true
+  xy: 414, 378
+  size: 162, 150
+  orig: 170, 160
+  offset: 4, 3
+  index: -1
+Small_bang_at_sea0029
+  rotate: false
+  xy: 566, 381
+  size: 162, 150
+  orig: 170, 160
+  offset: 4, 3
+  index: -1
+Small_bang_at_sea0031
+  rotate: false
+  xy: 516, 226
+  size: 162, 150
+  orig: 170, 160
+  offset: 4, 3
+  index: -1

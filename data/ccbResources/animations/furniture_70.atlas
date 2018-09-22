@@ -1,0 +1,293 @@
+
+furniture_70.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D
+  rotate: true
+  xy: 771, 429
+  size: 49, 36
+  orig: 566, 293
+  offset: 348, 95
+  index: -1
+G
+  rotate: false
+  xy: 2, 376
+  size: 478, 133
+  orig: 566, 293
+  offset: 45, 30
+  index: -1
+G_shadow
+  rotate: false
+  xy: 2, 241
+  size: 478, 133
+  orig: 566, 293
+  offset: 45, 25
+  index: -1
+K
+  rotate: false
+  xy: 442, 61
+  size: 49, 36
+  orig: 566, 293
+  offset: 392, 85
+  index: -1
+d1
+  rotate: false
+  xy: 544, 119
+  size: 58, 31
+  orig: 566, 293
+  offset: 385, 145
+  index: -1
+d2
+  rotate: false
+  xy: 544, 119
+  size: 58, 31
+  orig: 566, 293
+  offset: 148, 145
+  index: -1
+d3
+  rotate: false
+  xy: 604, 127
+  size: 58, 31
+  orig: 566, 293
+  offset: 85, 51
+  index: -1
+d4
+  rotate: false
+  xy: 604, 127
+  size: 58, 31
+  orig: 566, 293
+  offset: 360, 66
+  index: -1
+d5
+  rotate: false
+  xy: 544, 87
+  size: 58, 30
+  orig: 566, 293
+  offset: 396, 128
+  index: -1
+d6
+  rotate: false
+  xy: 664, 95
+  size: 58, 30
+  orig: 566, 293
+  offset: 162, 128
+  index: -1
+d7
+  rotate: false
+  xy: 724, 106
+  size: 58, 30
+  orig: 566, 293
+  offset: 125, 65
+  index: -1
+d8
+  rotate: false
+  xy: 724, 106
+  size: 58, 30
+  orig: 566, 293
+  offset: 386, 49
+  index: -1
+dx1
+  rotate: false
+  xy: 171, 29
+  size: 114, 111
+  orig: 566, 293
+  offset: 403, 51
+  index: -1
+dx2
+  rotate: false
+  xy: 482, 364
+  size: 280, 13
+  orig: 566, 293
+  offset: 166, 146
+  index: -1
+dx3
+  rotate: false
+  xy: 2, 32
+  size: 167, 108
+  orig: 566, 293
+  offset: 52, 53
+  index: -1
+dx4
+  rotate: false
+  xy: 2, 205
+  size: 294, 34
+  orig: 566, 293
+  offset: 109, 49
+  index: -1
+dx5
+  rotate: false
+  xy: 810, 434
+  size: 130, 75
+  orig: 566, 293
+  offset: 367, 68
+  index: -1
+dx6
+  rotate: false
+  xy: 482, 379
+  size: 281, 23
+  orig: 566, 293
+  offset: 179, 122
+  index: -1
+dx7
+  rotate: false
+  xy: 298, 162
+  size: 172, 77
+  orig: 566, 293
+  offset: 70, 68
+  index: -1
+dx8
+  rotate: false
+  xy: 2, 142
+  size: 268, 38
+  orig: 566, 293
+  offset: 155, 49
+  index: -1
+k1
+  rotate: false
+  xy: 664, 127
+  size: 58, 31
+  orig: 566, 293
+  offset: 371, 129
+  index: -1
+k2
+  rotate: false
+  xy: 664, 127
+  size: 58, 31
+  orig: 566, 293
+  offset: 138, 129
+  index: -1
+k3
+  rotate: false
+  xy: 724, 138
+  size: 58, 31
+  orig: 566, 293
+  offset: 147, 66
+  index: -1
+k4
+  rotate: false
+  xy: 724, 138
+  size: 58, 31
+  orig: 566, 293
+  offset: 415, 50
+  index: -1
+k7
+  rotate: false
+  xy: 724, 138
+  size: 58, 31
+  orig: 566, 293
+  offset: 109, 50
+  index: -1
+k8
+  rotate: false
+  xy: 724, 138
+  size: 58, 31
+  orig: 566, 293
+  offset: 380, 66
+  index: -1
+k5
+  rotate: false
+  xy: 604, 94
+  size: 58, 31
+  orig: 566, 293
+  offset: 385, 144
+  index: -1
+k6
+  rotate: false
+  xy: 604, 94
+  size: 58, 31
+  orig: 566, 293
+  offset: 130, 143
+  index: -1
+kEX1
+  rotate: true
+  xy: 720, 171
+  size: 80, 66
+  orig: 566, 293
+  offset: 271, 74
+  index: -1
+kEX2
+  rotate: false
+  xy: 482, 152
+  size: 119, 99
+  orig: 566, 293
+  offset: 278, 72
+  index: -1
+kx1
+  rotate: false
+  xy: 287, 82
+  size: 153, 78
+  orig: 566, 293
+  offset: 344, 66
+  index: -1
+kx2
+  rotate: false
+  xy: 2, 182
+  size: 289, 21
+  orig: 566, 293
+  offset: 173, 123
+  index: -1
+kx3
+  rotate: false
+  xy: 287, 2
+  size: 150, 78
+  orig: 566, 293
+  offset: 71, 67
+  index: -1
+kx4
+  rotate: false
+  xy: 482, 404
+  size: 270, 38
+  orig: 566, 293
+  offset: 172, 49
+  index: -1
+kx5
+  rotate: false
+  xy: 641, 253
+  size: 143, 109
+  orig: 566, 293
+  offset: 372, 52
+  index: -1
+kx6
+  rotate: false
+  xy: 482, 480
+  size: 326, 29
+  orig: 566, 293
+  offset: 157, 130
+  index: -1
+kx7
+  rotate: false
+  xy: 482, 253
+  size: 157, 109
+  orig: 566, 293
+  offset: 51, 51
+  index: -1
+kx8
+  rotate: false
+  xy: 482, 444
+  size: 287, 34
+  orig: 566, 293
+  offset: 132, 49
+  index: -1
+kxEX-2
+  rotate: false
+  xy: 603, 160
+  size: 115, 91
+  orig: 566, 293
+  offset: 276, 68
+  index: -1
+kxEX-3
+  rotate: true
+  xy: 442, 99
+  size: 51, 100
+  orig: 566, 293
+  offset: 405, 98
+  index: -1
+kxEX1
+  rotate: true
+  xy: 942, 379
+  size: 130, 80
+  orig: 566, 293
+  offset: 208, 51
+  index: -1

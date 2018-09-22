@@ -1,0 +1,20 @@
+
+furniture_295A.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B
+  rotate: false
+  xy: 266, 2
+  size: 130, 116
+  orig: 1024, 768
+  offset: 323, 191
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 77
+  size: 262, 41
+  orig: 1024, 768
+  offset: 261, 121
+  index: -1

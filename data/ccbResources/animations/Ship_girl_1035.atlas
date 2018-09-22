@@ -1,0 +1,181 @@
+
+Ship_girl_1035.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rodney_body_damage
+  rotate: true
+  xy: 578, 184
+  size: 70, 115
+  orig: 300, 300
+  offset: 114, 76
+  index: -1
+Rodney_body_normal
+  rotate: true
+  xy: 695, 184
+  size: 70, 115
+  orig: 300, 300
+  offset: 114, 76
+  index: -1
+Rodney_eyes_damage
+  rotate: false
+  xy: 646, 145
+  size: 51, 37
+  orig: 300, 300
+  offset: 135, 161
+  index: -1
+Rodney_eyes_normal
+  rotate: false
+  xy: 699, 144
+  size: 51, 38
+  orig: 300, 300
+  offset: 135, 161
+  index: -1
+Rodney_ship_body_normal_light
+  rotate: false
+  xy: 263, 158
+  size: 103, 96
+  orig: 300, 300
+  offset: 120, 56
+  index: -1
+d1
+  rotate: false
+  xy: 578, 154
+  size: 66, 28
+  orig: 300, 300
+  offset: 180, 231
+  index: -1
+d2
+  rotate: true
+  xy: 1002, 192
+  size: 62, 18
+  orig: 300, 300
+  offset: 190, 213
+  index: -1
+hair
+  rotate: true
+  xy: 2, 6
+  size: 90, 121
+  orig: 300, 300
+  offset: 171, 140
+  index: -1
+hand_L
+  rotate: false
+  xy: 752, 125
+  size: 29, 26
+  orig: 300, 300
+  offset: 106, 122
+  index: -1
+hand_L2
+  rotate: true
+  xy: 137, 76
+  size: 51, 115
+  orig: 300, 300
+  offset: 71, 66
+  index: -1
+hand_L2_damage
+  rotate: true
+  xy: 263, 108
+  size: 48, 98
+  orig: 300, 300
+  offset: 74, 80
+  index: -1
+hand_R
+  rotate: false
+  xy: 125, 2
+  size: 78, 72
+  orig: 300, 300
+  offset: 159, 79
+  index: -1
+hand_R_damage
+  rotate: false
+  xy: 205, 4
+  size: 78, 70
+  orig: 300, 300
+  offset: 159, 81
+  index: -1
+hand_R_damage_light
+  rotate: false
+  xy: 368, 159
+  size: 103, 95
+  orig: 300, 300
+  offset: 165, 71
+  index: -1
+hand_R_light
+  rotate: false
+  xy: 473, 159
+  size: 103, 95
+  orig: 300, 300
+  offset: 165, 71
+  index: -1
+head
+  rotate: false
+  xy: 137, 129
+  size: 124, 125
+  orig: 300, 300
+  offset: 92, 139
+  index: -1
+head_light
+  rotate: false
+  xy: 2, 98
+  size: 133, 156
+  orig: 300, 300
+  offset: 125, 129
+  index: -1
+leg_L
+  rotate: true
+  xy: 300, 82
+  size: 24, 47
+  orig: 300, 300
+  offset: 126, 51
+  index: -1
+leg_L2
+  rotate: false
+  xy: 311, 35
+  size: 23, 45
+  orig: 300, 300
+  offset: 121, 18
+  index: -1
+leg_L_damage
+  rotate: false
+  xy: 285, 28
+  size: 24, 47
+  orig: 300, 300
+  offset: 126, 51
+  index: -1
+leg_R
+  rotate: false
+  xy: 336, 35
+  size: 23, 45
+  orig: 300, 300
+  offset: 153, 53
+  index: -1
+leg_R2
+  rotate: true
+  xy: 752, 153
+  size: 29, 44
+  orig: 300, 300
+  offset: 159, 20
+  index: -1
+leg_R2_damage
+  rotate: true
+  xy: 254, 77
+  size: 29, 44
+  orig: 300, 300
+  offset: 159, 20
+  index: -1
+leg_R2_light
+  rotate: false
+  xy: 812, 175
+  size: 98, 79
+  orig: 300, 300
+  offset: 131, 3
+  index: -1
+leg_R_light
+  rotate: false
+  xy: 912, 182
+  size: 88, 72
+  orig: 300, 300
+  offset: 127, 37
+  index: -1

@@ -1,0 +1,90 @@
+
+cookbook_effect_24.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H1
+  rotate: true
+  xy: 714, 173
+  size: 291, 232
+  orig: 600, 600
+  offset: 146, 211
+  index: -1
+H3
+  rotate: false
+  xy: 443, 466
+  size: 368, 247
+  orig: 600, 600
+  offset: 93, 305
+  index: -1
+PZ
+  rotate: false
+  xy: 2, 598
+  size: 439, 367
+  orig: 600, 600
+  offset: 78, 38
+  index: -1
+PZ2
+  rotate: false
+  xy: 443, 715
+  size: 437, 250
+  orig: 600, 600
+  offset: 79, 39
+  index: -1
+T1
+  rotate: false
+  xy: 2, 5
+  size: 170, 148
+  orig: 600, 600
+  offset: 321, 69
+  index: -1
+T2
+  rotate: false
+  xy: 369, 228
+  size: 343, 236
+  orig: 600, 600
+  offset: 133, 166
+  index: -1
+T3
+  rotate: false
+  xy: 369, 2
+  size: 327, 224
+  orig: 600, 600
+  offset: 118, 178
+  index: -1
+T4
+  rotate: true
+  xy: 882, 727
+  size: 238, 125
+  orig: 600, 600
+  offset: 178, 210
+  index: -1
+TDH1
+  rotate: false
+  xy: 174, 7
+  size: 121, 73
+  orig: 600, 600
+  offset: 333, 295
+  index: -1
+TDH2
+  rotate: false
+  xy: 174, 82
+  size: 156, 71
+  orig: 600, 600
+  offset: 149, 268
+  index: -1
+TDH3
+  rotate: false
+  xy: 698, 73
+  size: 129, 98
+  orig: 600, 600
+  offset: 234, 167
+  index: -1
+Y
+  rotate: true
+  xy: 2, 155
+  size: 441, 365
+  orig: 600, 600
+  offset: 86, 222
+  index: -1

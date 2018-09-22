@@ -1,0 +1,65 @@
+{
+"skeleton": { "hash": "t/ynMuAvgOsaQyMwsz4+MNtyYg4", "spine": "3.2.01", "width": 510, "height": 121, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "骨骼", "parent": "root" },
+	{ "name": "water", "parent": "骨骼" }
+],
+"slots": [
+	{ "name": "water_A", "bone": "骨骼", "attachment": "water_A", "blend": "multiply" },
+	{ "name": "water1", "bone": "water", "attachment": "water1" }
+],
+"skins": {
+	"default": {
+		"water1": {
+			"water1": { "width": 510, "height": 121 },
+			"water2": { "width": 510, "height": 121 },
+			"water3": { "width": 514, "height": 121 }
+		},
+		"water_A": {
+			"water_A": { "width": 508, "height": 114 }
+		}
+	}
+},
+"animations": {
+	"normal": {
+		"slots": {
+			"water1": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffffb0" },
+					{ "time": 0.6666, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffffb0" },
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 1.6666, "color": "ffffffbd" },
+					{ "time": 2, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "water1" },
+					{ "time": 0.1666, "name": "water2" },
+					{ "time": 0.3333, "name": "water3" },
+					{ "time": 0.5, "name": "water1" },
+					{ "time": 0.6666, "name": "water2" },
+					{ "time": 0.8333, "name": "water3" },
+					{ "time": 1, "name": "water1" },
+					{ "time": 1.1666, "name": "water2" },
+					{ "time": 1.3333, "name": "water3" },
+					{ "time": 1.5, "name": "water1" },
+					{ "time": 1.6666, "name": "water2" },
+					{ "time": 1.8333, "name": "water3" },
+					{ "time": 2, "name": "water1" }
+				]
+			},
+			"water_A": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffffb7" },
+					{ "time": 1, "color": "ffffffed" },
+					{ "time": 1.5, "color": "ffffffc0" },
+					{ "time": 2, "color": "ffffffff" }
+				]
+			}
+		}
+	}
+}
+}

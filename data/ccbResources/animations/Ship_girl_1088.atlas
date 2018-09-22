@@ -1,0 +1,279 @@
+
+Ship_girl_1088.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DZ
+  rotate: true
+  xy: 233, 23
+  size: 27, 76
+  orig: 27, 76
+  offset: 0, 0
+  index: -1
+DZ_damage
+  rotate: true
+  xy: 518, 141
+  size: 27, 76
+  orig: 27, 76
+  offset: 0, 0
+  index: -1
+LH_L
+  rotate: true
+  xy: 691, 181
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1
+LH_L2
+  rotate: false
+  xy: 94, 21
+  size: 33, 107
+  orig: 33, 107
+  offset: 0, 0
+  index: -1
+LH_R
+  rotate: true
+  xy: 358, 106
+  size: 49, 89
+  orig: 49, 89
+  offset: 0, 0
+  index: -1
+LH_R2
+  rotate: false
+  xy: 974, 182
+  size: 36, 72
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+LH_R_light
+  rotate: false
+  xy: 377, 157
+  size: 115, 97
+  orig: 115, 97
+  offset: 0, 0
+  index: -1
+P
+  rotate: false
+  xy: 473, 3
+  size: 44, 38
+  orig: 300, 300
+  offset: 172, 67
+  index: -1
+PF
+  rotate: true
+  xy: 245, 117
+  size: 45, 111
+  orig: 45, 111
+  offset: 0, 0
+  index: -1
+PF_damage
+  rotate: false
+  xy: 319, 42
+  size: 35, 73
+  orig: 38, 74
+  offset: 0, 1
+  index: -1
+P_damage
+  rotate: false
+  xy: 643, 147
+  size: 44, 30
+  orig: 300, 300
+  offset: 172, 72
+  index: -1
+P_damage_light
+  rotate: false
+  xy: 783, 185
+  size: 94, 69
+  orig: 300, 300
+  offset: 154, 56
+  index: -1
+P_light
+  rotate: false
+  xy: 879, 185
+  size: 93, 69
+  orig: 300, 300
+  offset: 155, 56
+  index: -1
+Rodney_body_damage
+  rotate: false
+  xy: 129, 32
+  size: 50, 100
+  orig: 300, 300
+  offset: 128, 72
+  index: -1
+Rodney_body_normal
+  rotate: false
+  xy: 181, 32
+  size: 50, 100
+  orig: 300, 300
+  offset: 128, 72
+  index: -1
+Rodney_eyes_SP
+  rotate: false
+  xy: 418, 2
+  size: 53, 39
+  orig: 300, 300
+  offset: 137, 157
+  index: -1
+Rodney_eyes_damage
+  rotate: false
+  xy: 518, 99
+  size: 54, 40
+  orig: 300, 300
+  offset: 136, 155
+  index: -1
+Rodney_eyes_normal
+  rotate: false
+  xy: 509, 56
+  size: 53, 41
+  orig: 300, 300
+  offset: 137, 155
+  index: -1
+Rodney_ship_body_normal_light
+  rotate: false
+  xy: 494, 170
+  size: 96, 84
+  orig: 300, 300
+  offset: 122, 57
+  index: -1
+YL
+  rotate: false
+  xy: 356, 2
+  size: 60, 39
+  orig: 300, 300
+  offset: 131, 93
+  index: -1
+cap
+  rotate: true
+  xy: 2, 2
+  size: 126, 90
+  orig: 300, 300
+  offset: 96, 208
+  index: -1
+cap_damage
+  rotate: false
+  xy: 245, 164
+  size: 130, 90
+  orig: 300, 300
+  offset: 97, 208
+  index: -1
+cap_light
+  rotate: false
+  xy: 123, 134
+  size: 120, 120
+  orig: 300, 300
+  offset: 148, 180
+  index: -1
+hair
+  rotate: true
+  xy: 311, 2
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 550, 19
+  size: 21, 35
+  orig: 300, 300
+  offset: 123, 109
+  index: -1
+hand_L2
+  rotate: false
+  xy: 449, 101
+  size: 67, 54
+  orig: 300, 300
+  offset: 66, 110
+  index: -1
+hand_L2_damage
+  rotate: false
+  xy: 440, 43
+  size: 67, 56
+  orig: 300, 300
+  offset: 66, 110
+  index: -1
+hand_R
+  rotate: false
+  xy: 233, 2
+  size: 36, 19
+  orig: 300, 300
+  offset: 162, 127
+  index: -1
+hand_R2
+  rotate: false
+  xy: 564, 59
+  size: 21, 30
+  orig: 300, 300
+  offset: 178, 132
+  index: -1
+hand_R2_light
+  rotate: false
+  xy: 356, 43
+  size: 82, 61
+  orig: 300, 300
+  offset: 150, 117
+  index: -1
+head
+  rotate: false
+  xy: 2, 130
+  size: 119, 124
+  orig: 300, 300
+  offset: 88, 148
+  index: -1
+leg_L
+  rotate: false
+  xy: 574, 91
+  size: 24, 48
+  orig: 300, 300
+  offset: 132, 50
+  index: -1
+leg_L2
+  rotate: true
+  xy: 129, 7
+  size: 23, 50
+  orig: 300, 300
+  offset: 138, 16
+  index: -1
+leg_L2_damage
+  rotate: true
+  xy: 181, 7
+  size: 23, 50
+  orig: 300, 300
+  offset: 138, 16
+  index: -1
+leg_R
+  rotate: false
+  xy: 519, 9
+  size: 29, 45
+  orig: 300, 300
+  offset: 147, 57
+  index: -1
+leg_R2
+  rotate: true
+  xy: 596, 145
+  size: 32, 45
+  orig: 300, 300
+  offset: 147, 24
+  index: -1
+leg_R2_light
+  rotate: false
+  xy: 592, 179
+  size: 97, 75
+  orig: 300, 300
+  offset: 121, 12
+  index: -1
+leg_R_damage
+  rotate: false
+  xy: 600, 98
+  size: 29, 45
+  orig: 300, 300
+  offset: 147, 57
+  index: -1
+leg_R_light
+  rotate: false
+  xy: 233, 52
+  size: 84, 63
+  orig: 300, 300
+  offset: 124, 41
+  index: -1

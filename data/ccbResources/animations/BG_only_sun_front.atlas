@@ -1,0 +1,13 @@
+
+BG_only_sun_front.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sky_light_1
+  rotate: false
+  xy: 2, 2
+  size: 426, 432
+  orig: 512, 512
+  offset: 0, 80
+  index: -1

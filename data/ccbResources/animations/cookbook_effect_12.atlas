@@ -1,0 +1,76 @@
+
+cookbook_effect_12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H1
+  rotate: false
+  xy: 418, 432
+  size: 134, 256
+  orig: 600, 600
+  offset: 120, 254
+  index: -1
+H3
+  rotate: true
+  xy: 569, 629
+  size: 364, 397
+  orig: 600, 600
+  offset: 151, 144
+  index: -1
+PZ
+  rotate: false
+  xy: 2, 690
+  size: 565, 303
+  orig: 600, 600
+  offset: 6, 117
+  index: -1
+T1
+  rotate: false
+  xy: 2, 4
+  size: 369, 266
+  orig: 600, 600
+  offset: 192, 79
+  index: -1
+T2
+  rotate: false
+  xy: 2, 272
+  size: 414, 416
+  orig: 600, 600
+  offset: 119, 158
+  index: -1
+T3
+  rotate: false
+  xy: 554, 437
+  size: 329, 190
+  orig: 600, 600
+  offset: 119, 184
+  index: -1
+T4
+  rotate: true
+  xy: 885, 461
+  size: 166, 81
+  orig: 600, 600
+  offset: 181, 180
+  index: -1
+TDH1
+  rotate: false
+  xy: 373, 2
+  size: 247, 268
+  orig: 600, 600
+  offset: 247, 238
+  index: -1
+TDH2
+  rotate: false
+  xy: 418, 310
+  size: 130, 120
+  orig: 600, 600
+  offset: 398, 257
+  index: -1
+TDH3
+  rotate: false
+  xy: 622, 218
+  size: 240, 217
+  orig: 600, 600
+  offset: 47, 99
+  index: -1

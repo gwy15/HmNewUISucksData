@@ -1,0 +1,55 @@
+
+skill_effect_double.png
+size: 120,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Actor_picture
+  rotate: false
+  xy: 2, 2
+  size: 2, 2
+  orig: 1024, 1024
+  offset: 0, 1022
+  index: -1
+Actor_picture_2nd
+  rotate: false
+  xy: 2, 2
+  size: 2, 2
+  orig: 1024, 1024
+  offset: 0, 1022
+  index: -1
+Black_line
+  rotate: false
+  xy: 31, 366
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Mask_new
+  rotate: false
+  xy: 13, 418
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Skill_name
+  rotate: false
+  xy: 115, 515
+  size: 3, 3
+  orig: 538, 103
+  offset: 0, 100
+  index: -1
+new_skill_line_black
+  rotate: false
+  xy: 13, 284
+  size: 16, 132
+  orig: 16, 768
+  offset: 0, 156
+  index: -1
+new_skill_line_yellow
+  rotate: true
+  xy: 2, 6
+  size: 512, 9
+  orig: 512, 384
+  offset: 0, 69
+  index: -1

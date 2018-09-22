@@ -1,0 +1,27 @@
+
+BG_landing_place_rain_day.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cloud_Day_U
+  rotate: false
+  xy: 2, 2
+  size: 466, 40
+  orig: 470, 46
+  offset: 1, 6
+  index: -1
+Mountain
+  rotate: false
+  xy: 616, 44
+  size: 205, 84
+  orig: 612, 84
+  offset: 0, 0
+  index: -1
+Sky
+  rotate: false
+  xy: 2, 44
+  size: 612, 84
+  orig: 612, 84
+  offset: 0, 0
+  index: -1

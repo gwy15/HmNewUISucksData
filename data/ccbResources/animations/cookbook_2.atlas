@@ -1,0 +1,146 @@
+
+cookbook_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H1
+  rotate: true
+  xy: 713, 298
+  size: 119, 188
+  orig: 600, 600
+  offset: 245, 347
+  index: -1
+H2
+  rotate: false
+  xy: 819, 106
+  size: 44, 98
+  orig: 600, 600
+  offset: 439, 325
+  index: -1
+H3
+  rotate: false
+  xy: 713, 419
+  size: 215, 126
+  orig: 600, 600
+  offset: 112, 356
+  index: -1
+PZ
+  rotate: false
+  xy: 2, 580
+  size: 426, 418
+  orig: 600, 600
+  offset: 91, 29
+  index: -1
+SS1
+  rotate: true
+  xy: 930, 416
+  size: 129, 52
+  orig: 600, 600
+  offset: 343, 236
+  index: -1
+SS2
+  rotate: false
+  xy: 2, 2
+  size: 292, 122
+  orig: 600, 600
+  offset: 180, 236
+  index: -1
+T1
+  rotate: false
+  xy: 2, 126
+  size: 328, 212
+  orig: 600, 600
+  offset: 142, 143
+  index: -1
+T2
+  rotate: false
+  xy: 2, 340
+  size: 351, 238
+  orig: 600, 600
+  offset: 129, 185
+  index: -1
+T3
+  rotate: false
+  xy: 430, 757
+  size: 344, 241
+  orig: 600, 600
+  offset: 127, 184
+  index: -1
+T4
+  rotate: true
+  xy: 776, 736
+  size: 262, 223
+  orig: 600, 600
+  offset: 129, 185
+  index: -1
+TDH1
+  rotate: true
+  xy: 461, 90
+  size: 139, 155
+  orig: 600, 600
+  offset: 259, 311
+  index: -1
+TDH2
+  rotate: false
+  xy: 713, 206
+  size: 216, 90
+  orig: 600, 600
+  offset: 223, 345
+  index: -1
+TDH3
+  rotate: true
+  xy: 618, 96
+  size: 133, 93
+  orig: 600, 600
+  offset: 106, 294
+  index: -1
+TDQ
+  rotate: false
+  xy: 461, 255
+  size: 79, 57
+  orig: 600, 600
+  offset: 146, 263
+  index: -1
+V1
+  rotate: false
+  xy: 713, 97
+  size: 104, 107
+  orig: 600, 600
+  offset: 234, 241
+  index: -1
+YZ
+  rotate: true
+  xy: 355, 314
+  size: 264, 187
+  orig: 600, 600
+  offset: 163, 225
+  index: -1
+YZ_A
+  rotate: false
+  xy: 775, 547
+  size: 203, 187
+  orig: 600, 600
+  offset: 163, 225
+  index: -1
+shadow2
+  rotate: true
+  xy: 544, 231
+  size: 350, 167
+  orig: 600, 600
+  offset: 126, 179
+  index: -1
+shadow3
+  rotate: false
+  xy: 430, 583
+  size: 343, 172
+  orig: 600, 600
+  offset: 126, 179
+  index: -1
+shadow4
+  rotate: true
+  xy: 332, 88
+  size: 224, 127
+  orig: 600, 600
+  offset: 127, 179
+  index: -1

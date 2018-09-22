@@ -1,0 +1,32 @@
+{
+"skeleton": { "hash": "Eri9BVqwxnSuncCuUZe1wVa75Ug", "spine": "3.2.01", "width": 1280, "height": 540, "images": "" },
+"bones": [
+	{ "name": "activity_stealth_light_root" },
+	{ "name": "activity_stealth_move", "parent": "activity_stealth_light_root", "x": 25.43 },
+	{ "name": "Blue_00", "parent": "activity_stealth_move", "x": -26.01, "y": -318.18 },
+	{ "name": "Box_all", "parent": "Blue_00", "x": 0.57, "y": 318.18 },
+	{ "name": "Line_light", "parent": "Box_all" }
+],
+"slots": [
+	{ "name": "Line_light_00", "bone": "Line_light", "color": "ffffff99", "attachment": "Line_light_00", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"Line_light_00": {
+			"Line_light_00": { "y": 136.41, "scaleX": 20, "scaleY": 6, "width": 64, "height": 90 }
+		}
+	}
+},
+"animations": {
+	"activity_stealth_light": {
+		"bones": {
+			"Line_light": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 496.05 },
+					{ "time": 4, "x": 0, "y": -608.18 }
+				]
+			}
+		}
+	}
+}
+}

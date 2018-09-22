@@ -1,0 +1,125 @@
+
+furniture_201.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 11
+  size: 115, 189
+  orig: 200, 200
+  offset: 50, 5
+  index: -1
+2
+  rotate: true
+  xy: 193, 38
+  size: 88, 138
+  orig: 200, 200
+  offset: 63, 18
+  index: -1
+3
+  rotate: true
+  xy: 333, 38
+  size: 88, 133
+  orig: 200, 200
+  offset: 64, 42
+  index: -1
+4
+  rotate: true
+  xy: 468, 46
+  size: 80, 110
+  orig: 200, 200
+  offset: 79, 74
+  index: -1
+P1
+  rotate: false
+  xy: 674, 55
+  size: 64, 71
+  orig: 170, 170
+  offset: 83, 15
+  index: -1
+P2
+  rotate: false
+  xy: 740, 55
+  size: 64, 71
+  orig: 170, 170
+  offset: 83, 15
+  index: -1
+P3
+  rotate: false
+  xy: 806, 55
+  size: 64, 71
+  orig: 170, 170
+  offset: 83, 15
+  index: -1
+body
+  rotate: true
+  xy: 927, 77
+  size: 49, 50
+  orig: 170, 170
+  offset: 73, 38
+  index: -1
+eye_light
+  rotate: false
+  xy: 468, 9
+  size: 62, 35
+  orig: 170, 170
+  offset: 60, 93
+  index: -1
+hand_l
+  rotate: false
+  xy: 242, 3
+  size: 24, 33
+  orig: 170, 170
+  offset: 62, 48
+  index: -1
+hand_r
+  rotate: false
+  xy: 193, 2
+  size: 24, 34
+  orig: 170, 170
+  offset: 110, 49
+  index: -1
+head
+  rotate: true
+  xy: 580, 47
+  size: 79, 92
+  orig: 170, 170
+  offset: 59, 74
+  index: -1
+leg_l
+  rotate: false
+  xy: 219, 2
+  size: 21, 34
+  orig: 170, 170
+  offset: 76, 15
+  index: -1
+leg_r
+  rotate: false
+  xy: 532, 9
+  size: 24, 35
+  orig: 170, 170
+  offset: 100, 15
+  index: -1
+saber_light
+  rotate: true
+  xy: 979, 81
+  size: 45, 40
+  orig: 170, 170
+  offset: 31, 66
+  index: -1
+saber_off
+  rotate: false
+  xy: 872, 59
+  size: 20, 18
+  orig: 170, 170
+  offset: 17, 56
+  index: -1
+saber_on
+  rotate: false
+  xy: 872, 79
+  size: 53, 47
+  orig: 170, 170
+  offset: 22, 58
+  index: -1

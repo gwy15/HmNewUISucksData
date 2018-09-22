@@ -1,0 +1,494 @@
+{
+"skeleton": { "hash": "IkZcH0j4ihEycO4ezLs1Y2P+s7s", "spine": "3.2.01", "width": 480, "height": 440, "images": "" },
+"bones": [
+	{ "name": "Gunfire_rocket_punch_all" },
+	{ "name": "Gunfire_universal_fire", "parent": "Gunfire_rocket_punch_all" },
+	{ "name": "Gunfire_1", "parent": "Gunfire_universal_fire" },
+	{ "name": "Gunfire_2", "parent": "Gunfire_universal_fire", "x": -17.88 },
+	{ "name": "Gunfire_3", "parent": "Gunfire_universal_fire", "x": -28.53 },
+	{ "name": "Gunfire_4", "parent": "Gunfire_universal_fire", "x": -8.15, "y": -1.74, "scaleX": 0.737, "scaleY": 0.512 },
+	{ "name": "Gunfire_big_bang_at_sea", "parent": "Gunfire_rocket_punch_all", "y": 22.84, "scaleX": 2, "scaleY": 2 },
+	{ "name": "Gunfire_light", "parent": "Gunfire_rocket_punch_all", "scaleX": 4, "scaleY": 4 },
+	{ "name": "Gunfire_small_bang_at_sea", "parent": "Gunfire_rocket_punch_all", "y": 9.79, "scaleX": 2, "scaleY": 2 }
+],
+"slots": [
+	{ "name": "Big_bang_at_sea", "bone": "Gunfire_big_bang_at_sea", "attachment": "Big_bang_at_sea0001" },
+	{ "name": "Small_bang_at_sea", "bone": "Gunfire_small_bang_at_sea", "attachment": "Small_bang_at_sea0001" },
+	{ "name": "Light_picture", "bone": "Gunfire_light", "attachment": "Light_picture", "blend": "additive" },
+	{ "name": "Gunfire_path_a", "bone": "Gunfire_3", "attachment": "Gunfire_path_a" },
+	{ "name": "Rocket_punch_3", "bone": "Gunfire_4", "attachment": "Rocket_punch_4" },
+	{ "name": "Gunfire_4", "bone": "Gunfire_4", "attachment": "Rocket_punch_6", "blend": "additive" },
+	{ "name": "Gunfire_path_b", "bone": "Gunfire_2", "attachment": "Gunfire_path_b" },
+	{ "name": "Gunfire2", "bone": "Gunfire_1", "attachment": "Gunfire" }
+],
+"skins": {
+	"default": {
+		"Big_bang_at_sea": {
+			"Big_bang_at_sea0001": { "width": 240, "height": 220 },
+			"Big_bang_at_sea0003": { "width": 240, "height": 220 },
+			"Big_bang_at_sea0005": { "width": 240, "height": 220 },
+			"Big_bang_at_sea0007": { "width": 240, "height": 220 },
+			"Big_bang_at_sea0009": { "width": 240, "height": 220 },
+			"Big_bang_at_sea0011": { "width": 240, "height": 220 },
+			"Big_bang_at_sea0013": { "width": 240, "height": 220 },
+			"Big_bang_at_sea0015": { "width": 240, "height": 220 },
+			"Big_bang_at_sea0017": { "width": 240, "height": 220 },
+			"Big_bang_at_sea0019": { "width": 240, "height": 220 },
+			"Big_bang_at_sea0021": { "width": 240, "height": 220 },
+			"Big_bang_at_sea0023": { "width": 240, "height": 220 },
+			"Big_bang_at_sea0025": { "width": 240, "height": 220 },
+			"Big_bang_at_sea0027": { "width": 240, "height": 220 },
+			"Big_bang_at_sea0029": { "width": 240, "height": 220 },
+			"Big_bang_at_sea0031": { "width": 240, "height": 220 }
+		},
+		"Gunfire2": {
+			"Gunfire": { "x": -2.29, "y": -9.17, "width": 300, "height": 300 }
+		},
+		"Gunfire_4": {
+			"Rocket_punch_5": { "width": 60, "height": 120 },
+			"Rocket_punch_6": { "width": 60, "height": 120 }
+		},
+		"Gunfire_path_a": {
+			"Gunfire_path_a": { "x": -24.78, "width": 48, "height": 43 }
+		},
+		"Gunfire_path_b": {
+			"Gunfire_path_b": { "x": -10.06, "y": -5.96, "width": 45, "height": 67 }
+		},
+		"Light_picture": {
+			"Light_picture": { "width": 75, "height": 75 }
+		},
+		"Rocket_punch_3": {
+			"Rocket_punch_3": { "width": 60, "height": 120 },
+			"Rocket_punch_4": { "width": 60, "height": 120 }
+		},
+		"Small_bang_at_sea": {
+			"Small_bang_at_sea0001": { "width": 190, "height": 170 },
+			"Small_bang_at_sea0003": { "width": 190, "height": 170 },
+			"Small_bang_at_sea0005": { "width": 190, "height": 170 },
+			"Small_bang_at_sea0007": { "width": 190, "height": 170 },
+			"Small_bang_at_sea0009": { "width": 190, "height": 170 },
+			"Small_bang_at_sea0011": { "width": 190, "height": 170 },
+			"Small_bang_at_sea0013": { "width": 190, "height": 170 },
+			"Small_bang_at_sea0015": { "width": 190, "height": 170 },
+			"Small_bang_at_sea0017": { "width": 190, "height": 170 },
+			"Small_bang_at_sea0019": { "width": 190, "height": 170 },
+			"Small_bang_at_sea0021": { "width": 190, "height": 170 },
+			"Small_bang_at_sea0023": { "width": 190, "height": 170 },
+			"Small_bang_at_sea0025": { "width": 190, "height": 170 },
+			"Small_bang_at_sea0027": { "width": 190, "height": 170 },
+			"Small_bang_at_sea0029": { "width": 190, "height": 170 },
+			"Small_bang_at_sea0031": { "width": 190, "height": 170 }
+		}
+	}
+},
+"events": {
+	"End": {},
+	"Gunfire": {}
+},
+"animations": {
+	"Big_bang_at_sea": {
+		"slots": {
+			"Big_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": "Big_bang_at_sea0001" },
+					{ "time": 0.0666, "name": "Big_bang_at_sea0003" },
+					{ "time": 0.1333, "name": "Big_bang_at_sea0005" },
+					{ "time": 0.2, "name": "Big_bang_at_sea0007" },
+					{ "time": 0.2666, "name": "Big_bang_at_sea0009" },
+					{ "time": 0.3333, "name": "Big_bang_at_sea0011" },
+					{ "time": 0.4, "name": "Big_bang_at_sea0013" },
+					{ "time": 0.4666, "name": "Big_bang_at_sea0015" },
+					{ "time": 0.5333, "name": "Big_bang_at_sea0017" },
+					{ "time": 0.6, "name": "Big_bang_at_sea0019" },
+					{ "time": 0.6666, "name": "Big_bang_at_sea0021" },
+					{ "time": 0.7333, "name": "Big_bang_at_sea0023" },
+					{ "time": 0.8, "name": "Big_bang_at_sea0025" },
+					{ "time": 0.8666, "name": "Big_bang_at_sea0027" },
+					{ "time": 0.9333, "name": "Big_bang_at_sea0029" },
+					{ "time": 1, "name": "Big_bang_at_sea0031" },
+					{ "time": 1.0666, "name": null }
+				]
+			},
+			"Gunfire2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gunfire_4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gunfire_path_a": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gunfire_path_b": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Light_picture": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0333, "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "Light_picture" }
+				]
+			},
+			"Rocket_punch_3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Small_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Gunfire_light": {
+				"scale": [
+					{ "time": 0, "x": 0.304, "y": 0.35 },
+					{ "time": 0.0666, "x": 1.1, "y": 1 },
+					{ "time": 0.3333, "x": 2, "y": 2 }
+				]
+			},
+			"Gunfire_big_bang_at_sea": {
+				"translate": [
+					{ "time": 0, "x": -4.74, "y": 16.03 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.5, "y": 0.5 },
+					{ "time": 0.0666, "x": 2, "y": 2, "curve": "stepped" },
+					{ "time": 1.0666, "x": 2, "y": 2 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 1.0666, "name": "End" }
+		]
+	},
+	"Gunfire_big": {
+		"slots": {
+			"Big_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gunfire_4": {
+				"attachment": [
+					{ "time": 0, "name": "Rocket_punch_6" },
+					{ "time": 0.0333, "name": "Rocket_punch_6" },
+					{ "time": 0.0666, "name": "Rocket_punch_5" },
+					{ "time": 0.1, "name": "Rocket_punch_5" },
+					{ "time": 0.1333, "name": "Rocket_punch_5" }
+				]
+			},
+			"Light_picture": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Rocket_punch_3": {
+				"attachment": [
+					{ "time": 0, "name": "Rocket_punch_4" },
+					{ "time": 0.0333, "name": "Rocket_punch_3" },
+					{ "time": 0.0666, "name": "Rocket_punch_3" },
+					{ "time": 0.1, "name": "Rocket_punch_4" },
+					{ "time": 0.1333, "name": "Rocket_punch_4" }
+				]
+			},
+			"Small_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Gunfire_universal_fire": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"Gunfire_3": {
+				"scale": [
+					{ "time": 0, "x": 1.03, "y": 1.028, "curve": "stepped" },
+					{ "time": 0.0333, "x": 1.467, "y": 1.066, "curve": "stepped" },
+					{ "time": 0.0666, "x": 1.03, "y": 1.028, "curve": "stepped" },
+					{ "time": 0.1, "x": 1.467, "y": 1.066, "curve": "stepped" },
+					{ "time": 0.1333, "x": 1.03, "y": 1.028, "curve": "stepped" },
+					{ "time": 0.1666, "x": 1.467, "y": 1.066 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Gunfire" }
+		]
+	},
+	"Gunfire_medium": {
+		"slots": {
+			"Big_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gunfire_4": {
+				"attachment": [
+					{ "time": 0, "name": "Rocket_punch_6" },
+					{ "time": 0.0333, "name": "Rocket_punch_6" },
+					{ "time": 0.0666, "name": "Rocket_punch_5" },
+					{ "time": 0.1, "name": "Rocket_punch_5" },
+					{ "time": 0.1333, "name": "Rocket_punch_5" }
+				]
+			},
+			"Light_picture": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Rocket_punch_3": {
+				"attachment": [
+					{ "time": 0, "name": "Rocket_punch_4" },
+					{ "time": 0.0333, "name": "Rocket_punch_3" },
+					{ "time": 0.0666, "name": "Rocket_punch_3" },
+					{ "time": 0.1, "name": "Rocket_punch_4" },
+					{ "time": 0.1333, "name": "Rocket_punch_4" }
+				]
+			},
+			"Small_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Gunfire_universal_fire": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.8, "y": 0.8 }
+				]
+			},
+			"Gunfire_small_bang_at_sea": {
+				"shear": [
+					{ "time": 0, "x": -0.6, "y": 0 }
+				]
+			},
+			"Gunfire_big_bang_at_sea": {
+				"shear": [
+					{ "time": 0, "x": -0.6, "y": 0 }
+				]
+			},
+			"Gunfire_light": {
+				"shear": [
+					{ "time": 0, "x": -0.6, "y": 0 }
+				]
+			},
+			"Gunfire_4": {
+				"shear": [
+					{ "time": 0, "x": -0.6, "y": 0 }
+				]
+			},
+			"Gunfire_3": {
+				"scale": [
+					{ "time": 0, "x": 1.03, "y": 1.028, "curve": "stepped" },
+					{ "time": 0.0333, "x": 1.467, "y": 1.066, "curve": "stepped" },
+					{ "time": 0.0666, "x": 1.03, "y": 1.028, "curve": "stepped" },
+					{ "time": 0.1, "x": 1.467, "y": 1.066, "curve": "stepped" },
+					{ "time": 0.1333, "x": 1.03, "y": 1.028, "curve": "stepped" },
+					{ "time": 0.1666, "x": 1.467, "y": 1.066 }
+				],
+				"shear": [
+					{ "time": 0, "x": -0.6, "y": 0 }
+				]
+			},
+			"Gunfire_rocket_punch_all": {
+				"shear": [
+					{ "time": 0, "x": -0.6, "y": 0 }
+				]
+			},
+			"Gunfire_1": {
+				"shear": [
+					{ "time": 0, "x": -0.6, "y": 0 }
+				]
+			},
+			"Gunfire_2": {
+				"shear": [
+					{ "time": 0, "x": -0.6, "y": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Gunfire" }
+		]
+	},
+	"Gunfire_small": {
+		"slots": {
+			"Big_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gunfire_4": {
+				"attachment": [
+					{ "time": 0, "name": "Rocket_punch_6" },
+					{ "time": 0.0333, "name": "Rocket_punch_6" },
+					{ "time": 0.0666, "name": "Rocket_punch_5" },
+					{ "time": 0.1, "name": "Rocket_punch_5" },
+					{ "time": 0.1333, "name": "Rocket_punch_5" }
+				]
+			},
+			"Light_picture": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Rocket_punch_3": {
+				"attachment": [
+					{ "time": 0, "name": "Rocket_punch_4" },
+					{ "time": 0.0333, "name": "Rocket_punch_3" },
+					{ "time": 0.0666, "name": "Rocket_punch_3" },
+					{ "time": 0.1, "name": "Rocket_punch_4" },
+					{ "time": 0.1333, "name": "Rocket_punch_4" }
+				]
+			},
+			"Small_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Gunfire_universal_fire": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.6, "y": 0.6 }
+				]
+			},
+			"Gunfire_3": {
+				"scale": [
+					{ "time": 0, "x": 1.03, "y": 1.028, "curve": "stepped" },
+					{ "time": 0.0333, "x": 1.467, "y": 1.066, "curve": "stepped" },
+					{ "time": 0.0666, "x": 1.03, "y": 1.028, "curve": "stepped" },
+					{ "time": 0.1, "x": 1.467, "y": 1.066, "curve": "stepped" },
+					{ "time": 0.1333, "x": 1.03, "y": 1.028, "curve": "stepped" },
+					{ "time": 0.1666, "x": 1.467, "y": 1.066 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Gunfire" }
+		]
+	},
+	"Small_bang_at_sea": {
+		"slots": {
+			"Big_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gunfire2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gunfire_4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gunfire_path_a": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Gunfire_path_b": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Light_picture": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0333, "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "Light_picture" }
+				]
+			},
+			"Rocket_punch_3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Small_bang_at_sea": {
+				"attachment": [
+					{ "time": 0, "name": "Small_bang_at_sea0001" },
+					{ "time": 0.0666, "name": "Small_bang_at_sea0003" },
+					{ "time": 0.1333, "name": "Small_bang_at_sea0005" },
+					{ "time": 0.2, "name": "Small_bang_at_sea0007" },
+					{ "time": 0.2666, "name": "Small_bang_at_sea0009" },
+					{ "time": 0.3333, "name": "Small_bang_at_sea0011" },
+					{ "time": 0.4, "name": "Small_bang_at_sea0013" },
+					{ "time": 0.4666, "name": "Small_bang_at_sea0015" },
+					{ "time": 0.5333, "name": "Small_bang_at_sea0017" },
+					{ "time": 0.6, "name": "Small_bang_at_sea0019" },
+					{ "time": 0.6666, "name": "Small_bang_at_sea0021" },
+					{ "time": 0.7333, "name": "Small_bang_at_sea0023" },
+					{ "time": 0.8, "name": "Small_bang_at_sea0025" },
+					{ "time": 0.8666, "name": "Small_bang_at_sea0027" },
+					{ "time": 0.9333, "name": "Small_bang_at_sea0029" },
+					{ "time": 1, "name": "Small_bang_at_sea0031" },
+					{ "time": 1.0666, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Gunfire_light": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 7.75 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.303, "y": 0.35 },
+					{ "time": 0.0666, "x": 0.849, "y": 0.832 },
+					{ "time": 0.3333, "x": 1.484, "y": 1.271 }
+				]
+			},
+			"Gunfire_small_bang_at_sea": {
+				"translate": [
+					{ "time": 0, "x": 1.67, "y": 18 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.5, "y": 0.5 },
+					{ "time": 0.0666, "x": 1.75, "y": 1.75, "curve": "stepped" },
+					{ "time": 1.0666, "x": 1.75, "y": 1.75 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 1.0666, "name": "End" }
+		]
+	}
+}
+}

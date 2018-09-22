@@ -1,0 +1,174 @@
+
+cookbook_14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D1
+  rotate: false
+  xy: 438, 731
+  size: 246, 27
+  orig: 600, 600
+  offset: 18, 394
+  index: -1
+D2
+  rotate: false
+  xy: 757, 771
+  size: 214, 70
+  orig: 600, 600
+  offset: 43, 390
+  index: -1
+D3
+  rotate: true
+  xy: 337, 280
+  size: 193, 114
+  orig: 600, 600
+  offset: 31, 401
+  index: -1
+D4
+  rotate: false
+  xy: 436, 676
+  size: 233, 53
+  orig: 600, 600
+  offset: 24, 398
+  index: -1
+D5
+  rotate: false
+  xy: 436, 632
+  size: 213, 42
+  orig: 600, 600
+  offset: 35, 391
+  index: -1
+PZ1
+  rotate: false
+  xy: 2, 739
+  size: 434, 264
+  orig: 600, 600
+  offset: 123, 137
+  index: -1
+PZ2
+  rotate: false
+  xy: 2, 475
+  size: 432, 262
+  orig: 600, 600
+  offset: 123, 139
+  index: -1
+PZS2
+  rotate: false
+  xy: 2, 2
+  size: 177, 29
+  orig: 600, 600
+  offset: 226, 274
+  index: -1
+R1
+  rotate: true
+  xy: 453, 381
+  size: 100, 84
+  orig: 600, 600
+  offset: 298, 364
+  index: -1
+R2
+  rotate: false
+  xy: 436, 483
+  size: 102, 74
+  orig: 600, 600
+  offset: 201, 362
+  index: -1
+R3
+  rotate: true
+  xy: 955, 894
+  size: 109, 59
+  orig: 600, 600
+  offset: 243, 388
+  index: -1
+RA1
+  rotate: false
+  xy: 2, 33
+  size: 189, 155
+  orig: 600, 600
+  offset: 344, 209
+  index: -1
+RA2
+  rotate: false
+  xy: 2, 190
+  size: 236, 283
+  orig: 600, 600
+  offset: 347, 110
+  index: -1
+RA3
+  rotate: false
+  xy: 757, 843
+  size: 196, 160
+  orig: 600, 600
+  offset: 342, 190
+  index: -1
+RA4
+  rotate: true
+  xy: 240, 256
+  size: 217, 95
+  orig: 600, 600
+  offset: 317, 196
+  index: -1
+RS1
+  rotate: false
+  xy: 240, 211
+  size: 61, 43
+  orig: 600, 600
+  offset: 330, 332
+  index: -1
+RS2
+  rotate: false
+  xy: 193, 96
+  size: 32, 92
+  orig: 600, 600
+  offset: 318, 189
+  index: -1
+RS3
+  rotate: false
+  xy: 453, 346
+  size: 51, 33
+  orig: 600, 600
+  offset: 385, 133
+  index: -1
+RS4
+  rotate: false
+  xy: 540, 519
+  size: 60, 38
+  orig: 600, 600
+  offset: 445, 166
+  index: -1
+RS5
+  rotate: false
+  xy: 686, 733
+  size: 44, 25
+  orig: 600, 600
+  offset: 476, 150
+  index: -1
+RS6
+  rotate: false
+  xy: 955, 844
+  size: 34, 48
+  orig: 600, 600
+  offset: 519, 188
+  index: -1
+T1
+  rotate: true
+  xy: 438, 760
+  size: 243, 317
+  orig: 600, 600
+  offset: 180, 105
+  index: -1
+T2
+  rotate: false
+  xy: 436, 591
+  size: 216, 39
+  orig: 600, 600
+  offset: 193, 399
+  index: -1
+shadow
+  rotate: false
+  xy: 436, 559
+  size: 205, 30
+  orig: 600, 600
+  offset: 189, 283
+  index: -1

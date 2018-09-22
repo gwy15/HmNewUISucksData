@@ -1,0 +1,292 @@
+
+Gunfire_lollipop.png
+size: 1023,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Big_bang_at_sea0001
+  rotate: false
+  xy: 232, 7
+  size: 114, 115
+  orig: 240, 240
+  offset: 65, 65
+  index: -1
+Big_bang_at_sea0003
+  rotate: false
+  xy: 836, 498
+  size: 180, 180
+  orig: 240, 240
+  offset: 32, 32
+  index: -1
+Big_bang_at_sea0005
+  rotate: false
+  xy: 2, 781
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+Big_bang_at_sea0007
+  rotate: false
+  xy: 2, 106
+  size: 211, 219
+  orig: 240, 240
+  offset: 7, 13
+  index: -1
+Big_bang_at_sea0009
+  rotate: true
+  xy: 2, 327
+  size: 224, 200
+  orig: 240, 240
+  offset: 4, 6
+  index: -1
+Big_bang_at_sea0011
+  rotate: true
+  xy: 2, 553
+  size: 226, 196
+  orig: 240, 240
+  offset: 14, 21
+  index: -1
+Big_bang_at_sea0013
+  rotate: true
+  xy: 244, 800
+  size: 221, 215
+  orig: 240, 240
+  offset: 19, 21
+  index: -1
+Big_bang_at_sea0015
+  rotate: true
+  xy: 204, 340
+  size: 215, 176
+  orig: 240, 240
+  offset: 14, 32
+  index: -1
+Big_bang_at_sea0017
+  rotate: true
+  xy: 200, 557
+  size: 222, 181
+  orig: 240, 240
+  offset: 10, 30
+  index: -1
+Big_bang_at_sea0019
+  rotate: true
+  xy: 596, 815
+  size: 206, 166
+  orig: 240, 240
+  offset: 11, 42
+  index: -1
+Big_bang_at_sea0021
+  rotate: true
+  xy: 686, 611
+  size: 202, 148
+  orig: 240, 240
+  offset: 12, 50
+  index: -1
+Big_bang_at_sea0023
+  rotate: false
+  xy: 552, 2
+  size: 203, 128
+  orig: 240, 240
+  offset: 12, 71
+  index: -1
+Big_bang_at_sea0025
+  rotate: true
+  xy: 655, 397
+  size: 204, 130
+  orig: 240, 240
+  offset: 12, 71
+  index: -1
+Big_bang_at_sea0027
+  rotate: true
+  xy: 521, 352
+  size: 206, 132
+  orig: 240, 240
+  offset: 11, 71
+  index: -1
+Big_bang_at_sea0029
+  rotate: true
+  xy: 461, 812
+  size: 209, 133
+  orig: 240, 240
+  offset: 11, 71
+  index: -1
+Big_bang_at_sea0031
+  rotate: true
+  xy: 383, 588
+  size: 210, 134
+  orig: 240, 240
+  offset: 10, 71
+  index: -1
+Big_bang_at_sea0033
+  rotate: true
+  xy: 382, 344
+  size: 211, 137
+  orig: 240, 240
+  offset: 10, 70
+  index: -1
+Big_bang_at_sea0035
+  rotate: true
+  xy: 360, 124
+  size: 214, 139
+  orig: 240, 240
+  offset: 9, 70
+  index: -1
+Big_bang_at_sea0037
+  rotate: true
+  xy: 215, 124
+  size: 214, 143
+  orig: 240, 240
+  offset: 9, 70
+  index: -1
+Gunfire
+  rotate: true
+  xy: 519, 560
+  size: 41, 33
+  orig: 300, 300
+  offset: 136, 137
+  index: -1
+Small_bang_at_sea0001
+  rotate: false
+  xy: 883, 7
+  size: 87, 87
+  orig: 210, 210
+  offset: 62, 62
+  index: -1
+Small_bang_at_sea0003
+  rotate: false
+  xy: 883, 192
+  size: 136, 136
+  orig: 210, 210
+  offset: 37, 37
+  index: -1
+Small_bang_at_sea0005
+  rotate: false
+  xy: 836, 836
+  size: 185, 185
+  orig: 210, 210
+  offset: 13, 13
+  index: -1
+Small_bang_at_sea0007
+  rotate: true
+  xy: 673, 134
+  size: 159, 165
+  orig: 210, 210
+  offset: 18, 23
+  index: -1
+Small_bang_at_sea0011
+  rotate: false
+  xy: 836, 680
+  size: 184, 154
+  orig: 210, 210
+  offset: 14, 29
+  index: -1
+Small_bang_at_sea0013
+  rotate: false
+  xy: 787, 330
+  size: 201, 166
+  orig: 210, 210
+  offset: 7, 25
+  index: -1
+Small_bang_at_sea0015
+  rotate: true
+  xy: 519, 603
+  size: 207, 165
+  orig: 210, 210
+  offset: 3, 22
+  index: -1
+Small_bang_at_sea0017
+  rotate: true
+  xy: 501, 132
+  size: 210, 170
+  orig: 210, 210
+  offset: 0, 19
+  index: -1
+Small_bang_at_sea0021
+  rotate: false
+  xy: 757, 6
+  size: 124, 126
+  orig: 210, 210
+  offset: 46, 62
+  index: -1
+Small_bang_at_sea0027
+  rotate: false
+  xy: 673, 295
+  size: 110, 100
+  orig: 210, 210
+  offset: 42, 70
+  index: -1
+Small_bang_at_sea0029
+  rotate: false
+  xy: 118, 3
+  size: 112, 101
+  orig: 210, 210
+  offset: 41, 70
+  index: -1
+Small_bang_at_sea0031
+  rotate: false
+  xy: 2, 3
+  size: 114, 101
+  orig: 210, 210
+  offset: 40, 70
+  index: -1
+Small_bang_at_sea0033
+  rotate: true
+  xy: 450, 8
+  size: 114, 100
+  orig: 210, 210
+  offset: 40, 70
+  index: -1
+Small_bang_at_sea0035
+  rotate: true
+  xy: 348, 7
+  size: 115, 100
+  orig: 210, 210
+  offset: 40, 70
+  index: -1
+Small_bang_at_sea0037
+  rotate: false
+  xy: 883, 96
+  size: 114, 94
+  orig: 210, 210
+  offset: 41, 71
+  index: -1
+
+Gunfire_lollipop2.png
+size: 560,179
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light_picture
+  rotate: false
+  xy: 451, 2
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+Small_bang_at_sea0009
+  rotate: false
+  xy: 180, 9
+  size: 168, 168
+  orig: 210, 210
+  offset: 18, 17
+  index: -1
+Small_bang_at_sea0019
+  rotate: false
+  xy: 2, 12
+  size: 176, 165
+  orig: 210, 210
+  offset: 14, 24
+  index: -1
+Small_bang_at_sea0023
+  rotate: false
+  xy: 451, 79
+  size: 107, 98
+  orig: 210, 210
+  offset: 44, 70
+  index: -1
+Small_bang_at_sea0025
+  rotate: true
+  xy: 350, 69
+  size: 108, 99
+  orig: 210, 210
+  offset: 43, 70
+  index: -1

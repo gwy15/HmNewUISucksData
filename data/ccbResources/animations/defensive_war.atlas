@@ -1,0 +1,55 @@
+
+defensive_war.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ship_00
+  rotate: false
+  xy: 2, 2
+  size: 76, 26
+  orig: 101, 58
+  offset: 14, 16
+  index: -1
+Ship_01
+  rotate: true
+  xy: 483, 140
+  size: 75, 26
+  orig: 127, 82
+  offset: 27, 30
+  index: -1
+arrow_00
+  rotate: true
+  xy: 130, 42
+  size: 89, 84
+  orig: 306, 268
+  offset: 11, 165
+  index: -1
+arrow_01
+  rotate: false
+  xy: 348, 130
+  size: 133, 85
+  orig: 306, 268
+  offset: 57, 128
+  index: -1
+arrow_02
+  rotate: false
+  xy: 189, 147
+  size: 157, 68
+  orig: 306, 268
+  offset: 125, 35
+  index: -1
+arrow_blue_00
+  rotate: false
+  xy: 2, 133
+  size: 185, 82
+  orig: 367, 247
+  offset: 33, 115
+  index: -1
+arrow_blue_01
+  rotate: false
+  xy: 2, 30
+  size: 126, 101
+  orig: 367, 247
+  offset: 182, 31
+  index: -1

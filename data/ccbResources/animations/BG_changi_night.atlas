@@ -1,0 +1,27 @@
+
+BG_changi_night.png
+size: 616,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cloud_Day_U
+  rotate: false
+  xy: 2, 37
+  size: 592, 84
+  orig: 612, 84
+  offset: 20, 0
+  index: -1
+Mountain
+  rotate: false
+  xy: 2, 2
+  size: 213, 33
+  orig: 612, 84
+  offset: 0, 0
+  index: -1
+Sky
+  rotate: false
+  xy: 2, 123
+  size: 612, 84
+  orig: 612, 84
+  offset: 0, 0
+  index: -1

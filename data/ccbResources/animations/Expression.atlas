@@ -1,0 +1,118 @@
+
+Expression.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+!!!
+  rotate: false
+  xy: 105, 17
+  size: 15, 39
+  orig: 200, 200
+  offset: 84, 94
+  index: -1
+.1
+  rotate: true
+  xy: 122, 47
+  size: 9, 10
+  orig: 200, 200
+  offset: 72, 106
+  index: -1
+X
+  rotate: true
+  xy: 180, 2
+  size: 36, 35
+  orig: 200, 200
+  offset: 74, 95
+  index: -1
+black_line
+  rotate: false
+  xy: 183, 82
+  size: 43, 44
+  orig: 200, 200
+  offset: 71, 87
+  index: -1
+doubt
+  rotate: false
+  xy: 72, 13
+  size: 31, 40
+  orig: 200, 200
+  offset: 74, 92
+  index: -1
+good_idea
+  rotate: false
+  xy: 77, 85
+  size: 55, 41
+  orig: 200, 200
+  offset: 66, 91
+  index: -1
+good_idea_light
+  rotate: false
+  xy: 134, 80
+  size: 47, 46
+  orig: 200, 200
+  offset: 71, 95
+  index: -1
+heart
+  rotate: false
+  xy: 122, 4
+  size: 35, 31
+  orig: 200, 200
+  offset: 76, 95
+  index: -1
+shy
+  rotate: false
+  xy: 77, 58
+  size: 55, 25
+  orig: 200, 200
+  offset: 63, 98
+  index: -1
+start1
+  rotate: false
+  xy: 228, 84
+  size: 11, 5
+  orig: 200, 200
+  offset: 86, 93
+  index: -1
+start2
+  rotate: true
+  xy: 159, 2
+  size: 33, 15
+  orig: 200, 200
+  offset: 77, 90
+  index: -1
+start3
+  rotate: false
+  xy: 2, 12
+  size: 68, 41
+  orig: 200, 200
+  offset: 58, 84
+  index: -1
+start4
+  rotate: false
+  xy: 2, 55
+  size: 73, 71
+  orig: 200, 200
+  offset: 55, 70
+  index: -1
+stop
+  rotate: false
+  xy: 180, 40
+  size: 38, 38
+  orig: 200, 200
+  offset: 73, 93
+  index: -1
+surprise
+  rotate: true
+  xy: 134, 37
+  size: 41, 44
+  orig: 200, 200
+  offset: 73, 87
+  index: -1
+sweat
+  rotate: false
+  xy: 228, 91
+  size: 20, 35
+  orig: 200, 200
+  offset: 84, 94
+  index: -1

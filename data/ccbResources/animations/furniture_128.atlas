@@ -1,0 +1,181 @@
+
+furniture_128.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LH_1
+  rotate: true
+  xy: 391, 105
+  size: 21, 43
+  orig: 170, 170
+  offset: 65, 107
+  index: -1
+LH_2
+  rotate: false
+  xy: 353, 86
+  size: 36, 40
+  orig: 170, 170
+  offset: 78, 110
+  index: -1
+LH_L
+  rotate: true
+  xy: 94, 65
+  size: 23, 42
+  orig: 170, 170
+  offset: 49, 101
+  index: -1
+LH_R
+  rotate: false
+  xy: 278, 57
+  size: 34, 69
+  orig: 170, 170
+  offset: 90, 79
+  index: -1
+arm_L
+  rotate: true
+  xy: 72, 6
+  size: 13, 19
+  orig: 170, 170
+  offset: 68, 64
+  index: -1
+arm_L2
+  rotate: false
+  xy: 496, 107
+  size: 14, 19
+  orig: 170, 170
+  offset: 62, 53
+  index: -1
+arm_L3C
+  rotate: false
+  xy: 450, 88
+  size: 11, 13
+  orig: 170, 170
+  offset: 61, 49
+  index: -1
+arm_R
+  rotate: false
+  xy: 496, 86
+  size: 14, 19
+  orig: 170, 170
+  offset: 85, 65
+  index: -1
+arm_R2
+  rotate: false
+  xy: 421, 84
+  size: 13, 19
+  orig: 170, 170
+  offset: 91, 53
+  index: -1
+arm_R3C
+  rotate: false
+  xy: 436, 87
+  size: 12, 14
+  orig: 170, 170
+  offset: 94, 48
+  index: -1
+body
+  rotate: true
+  xy: 353, 61
+  size: 23, 33
+  orig: 170, 170
+  offset: 70, 55
+  index: -1
+brow_1
+  rotate: false
+  xy: 314, 55
+  size: 33, 4
+  orig: 170, 170
+  offset: 64, 116
+  index: -1
+brow_2
+  rotate: false
+  xy: 138, 66
+  size: 37, 7
+  orig: 170, 170
+  offset: 62, 113
+  index: -1
+eyes_close
+  rotate: false
+  xy: 138, 75
+  size: 40, 13
+  orig: 170, 170
+  offset: 61, 96
+  index: -1
+eyes_normal
+  rotate: true
+  xy: 72, 21
+  size: 40, 19
+  orig: 170, 170
+  offset: 60, 93
+  index: -1
+hair
+  rotate: false
+  xy: 201, 55
+  size: 75, 71
+  orig: 170, 170
+  offset: 50, 84
+  index: -1
+hat
+  rotate: false
+  xy: 2, 63
+  size: 90, 63
+  orig: 170, 170
+  offset: 38, 95
+  index: -1
+hat_2
+  rotate: false
+  xy: 314, 61
+  size: 37, 65
+  orig: 170, 170
+  offset: 109, 101
+  index: -1
+head
+  rotate: true
+  xy: 2, 2
+  size: 59, 68
+  orig: 170, 170
+  offset: 55, 81
+  index: -1
+leg_L
+  rotate: false
+  xy: 480, 103
+  size: 14, 23
+  orig: 170, 170
+  offset: 67, 38
+  index: -1
+leg_L2
+  rotate: true
+  xy: 391, 89
+  size: 14, 28
+  orig: 170, 170
+  offset: 66, 20
+  index: -1
+leg_R
+  rotate: false
+  xy: 463, 103
+  size: 15, 23
+  orig: 170, 170
+  offset: 82, 38
+  index: -1
+leg_R2
+  rotate: false
+  xy: 180, 61
+  size: 19, 27
+  orig: 170, 170
+  offset: 85, 22
+  index: -1
+unit_1
+  rotate: true
+  xy: 94, 90
+  size: 36, 105
+  orig: 170, 170
+  offset: 119, 21
+  index: -1
+waist
+  rotate: false
+  xy: 436, 103
+  size: 25, 23
+  orig: 170, 170
+  offset: 69, 50
+  index: -1

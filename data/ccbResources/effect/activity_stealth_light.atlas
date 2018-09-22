@@ -1,0 +1,13 @@
+
+activity_stealth_light.png
+size: 68,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Line_light_00
+  rotate: false
+  xy: 2, 2
+  size: 64, 73
+  orig: 64, 90
+  offset: 0, 3
+  index: -1

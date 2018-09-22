@@ -1,0 +1,230 @@
+
+Ship_girl_1162.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D
+  rotate: true
+  xy: 177, 11
+  size: 34, 68
+  orig: 300, 300
+  offset: 221, 67
+  index: -1
+DL
+  rotate: false
+  xy: 144, 47
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+DL_damage
+  rotate: false
+  xy: 794, 139
+  size: 110, 32
+  orig: 110, 32
+  offset: 0, 0
+  index: -1
+DR
+  rotate: false
+  xy: 2, 6
+  size: 105, 46
+  orig: 105, 46
+  offset: 0, 0
+  index: -1
+DR_damage
+  rotate: true
+  xy: 440, 47
+  size: 105, 46
+  orig: 105, 46
+  offset: 0, 0
+  index: -1
+D_damage
+  rotate: true
+  xy: 296, 45
+  size: 34, 68
+  orig: 300, 300
+  offset: 221, 67
+  index: -1
+D_light
+  rotate: false
+  xy: 488, 45
+  size: 105, 94
+  orig: 300, 300
+  offset: 193, 46
+  index: -1
+GJ_L
+  rotate: false
+  xy: 425, 40
+  size: 10, 39
+  orig: 300, 300
+  offset: 80, 18
+  index: -1
+GJ_R
+  rotate: true
+  xy: 638, 75
+  size: 9, 34
+  orig: 300, 300
+  offset: 235, 43
+  index: -1
+GJ_R_light
+  rotate: false
+  xy: 366, 34
+  size: 57, 45
+  orig: 300, 300
+  offset: 213, 36
+  index: -1
+JL
+  rotate: false
+  xy: 256, 37
+  size: 38, 48
+  orig: 300, 300
+  offset: 97, 54
+  index: -1
+JL_damage
+  rotate: true
+  xy: 595, 33
+  size: 38, 47
+  orig: 300, 300
+  offset: 97, 55
+  index: -1
+JR
+  rotate: true
+  xy: 296, 2
+  size: 41, 39
+  orig: 300, 300
+  offset: 157, 79
+  index: -1
+JR_damage
+  rotate: true
+  xy: 906, 130
+  size: 41, 34
+  orig: 300, 300
+  offset: 157, 84
+  index: -1
+Rodney_body_damage
+  rotate: true
+  xy: 296, 81
+  size: 71, 142
+  orig: 300, 300
+  offset: 125, 25
+  index: -1
+Rodney_body_normal
+  rotate: true
+  xy: 794, 173
+  size: 81, 146
+  orig: 300, 300
+  offset: 125, 21
+  index: -1
+Rodney_eyes_damage
+  rotate: false
+  xy: 942, 118
+  size: 53, 44
+  orig: 300, 300
+  offset: 128, 150
+  index: -1
+Rodney_eyes_normal
+  rotate: true
+  xy: 638, 86
+  size: 53, 44
+  orig: 300, 300
+  offset: 128, 151
+  index: -1
+Rodney_ship_armor_damage
+  rotate: false
+  xy: 595, 73
+  size: 41, 66
+  orig: 300, 300
+  offset: 102, 75
+  index: -1
+Rodney_ship_armor_normal
+  rotate: true
+  xy: 109, 2
+  size: 41, 66
+  orig: 300, 300
+  offset: 102, 75
+  index: -1
+Rodney_ship_body_normal_light
+  rotate: true
+  xy: 650, 146
+  size: 108, 142
+  orig: 300, 300
+  offset: 125, 10
+  index: -1
+ZP
+  rotate: true
+  xy: 1002, 188
+  size: 23, 9
+  orig: 300, 300
+  offset: 244, 108
+  index: -1
+ZZ
+  rotate: false
+  xy: 296, 154
+  size: 196, 100
+  orig: 300, 300
+  offset: 68, 48
+  index: -1
+ZZ_light
+  rotate: true
+  xy: 942, 164
+  size: 90, 58
+  orig: 300, 300
+  offset: 200, 107
+  index: -1
+hand_L
+  rotate: false
+  xy: 337, 2
+  size: 18, 41
+  orig: 300, 300
+  offset: 119, 99
+  index: -1
+hand_L2
+  rotate: true
+  xy: 997, 124
+  size: 38, 25
+  orig: 300, 300
+  offset: 119, 87
+  index: -1
+hand_L2_damage
+  rotate: true
+  xy: 997, 84
+  size: 38, 25
+  orig: 300, 300
+  offset: 119, 87
+  index: -1
+hand_L_damage
+  rotate: false
+  xy: 1002, 213
+  size: 18, 41
+  orig: 300, 300
+  offset: 119, 99
+  index: -1
+hand_R
+  rotate: false
+  xy: 644, 57
+  size: 13, 16
+  orig: 300, 300
+  offset: 159, 92
+  index: -1
+head
+  rotate: false
+  xy: 144, 87
+  size: 150, 167
+  orig: 300, 300
+  offset: 60, 100
+  index: -1
+head_light
+  rotate: false
+  xy: 2, 54
+  size: 140, 200
+  orig: 300, 300
+  offset: 117, 87
+  index: -1
+power
+  rotate: false
+  xy: 494, 141
+  size: 154, 113
+  orig: 154, 116
+  offset: 0, 0
+  index: -1

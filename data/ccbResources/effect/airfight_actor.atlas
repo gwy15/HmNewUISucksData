@@ -1,0 +1,13 @@
+
+airfight_actor.png
+size: 16,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Actor_picture
+  rotate: false
+  xy: 2, 2
+  size: 2, 2
+  orig: 1024, 1024
+  offset: 0, 1022
+  index: -1

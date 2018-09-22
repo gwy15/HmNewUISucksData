@@ -1,0 +1,408 @@
+{
+"skeleton": { "hash": "P1GYMiQQy4pCKpPazlyt12cnYCE", "spine": "2.1.27", "width": 150, "height": 150, "images": "" },
+"bones": [
+	{ "name": "shadow_all" },
+	{ "name": "Shadow_black", "parent": "shadow_all", "y": 52 },
+	{ "name": "Shadow_black_small", "parent": "shadow_all", "y": 27 },
+	{ "name": "Shadow_blue_small", "parent": "shadow_all", "y": 27 },
+	{ "name": "Shadow_blue_small_light", "parent": "shadow_all", "y": 27 },
+	{ "name": "Shadow_yellow_small", "parent": "shadow_all", "y": 27 },
+	{ "name": "Shadow_yellow_small_light", "parent": "shadow_all", "y": 27 }
+],
+"slots": [
+	{ "name": "Shadow_Black", "bone": "Shadow_black", "attachment": "Shadow_Black" },
+	{ "name": "Shadow_Black_small", "bone": "Shadow_black_small", "attachment": "Shadow_Black_small" },
+	{ "name": "Shadow_Blue", "bone": "Shadow_blue_small", "attachment": "Shadow_Blue" },
+	{ "name": "Shadow_Blue_light", "bone": "Shadow_blue_small_light", "attachment": "Shadow_Blue", "blend": "additive" },
+	{ "name": "Shadow_Yellow", "bone": "Shadow_yellow_small", "attachment": "Shadow_Yellow" },
+	{ "name": "Shadow_Yellow_light", "bone": "Shadow_yellow_small_light", "attachment": "Shadow_Yellow", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"Shadow_Black": {
+			"Shadow_Black": { "width": 150, "height": 150 }
+		},
+		"Shadow_Black_small": {
+			"Shadow_Black_small": { "width": 80, "height": 80 }
+		},
+		"Shadow_Blue": {
+			"Shadow_Blue": { "width": 80, "height": 80 }
+		},
+		"Shadow_Blue_light": {
+			"Shadow_Blue": { "width": 80, "height": 80 }
+		},
+		"Shadow_Yellow": {
+			"Shadow_Yellow": { "width": 80, "height": 80 }
+		},
+		"Shadow_Yellow_light": {
+			"Shadow_Yellow": { "width": 80, "height": 80 }
+		}
+	}
+},
+"events": {
+	"Shadow_Fighter": {},
+	"Shadow_Gunfire_bag": {},
+	"Shadow_Gunfire_flower": {},
+	"Shadow_Gunfire_mosaic": {},
+	"Shadow_Gunfire_railgun": {},
+	"Shadow_Gunfire_snow": {},
+	"Shadow_Gunfire_star": {},
+	"Shadow_Gunfire_universal": {},
+	"Shadow_Ship": {}
+},
+"animations": {
+	"Shadow_Fighter": {
+		"slots": {
+			"Shadow_Black": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Black_small": {
+				"attachment": [
+					{ "time": 0, "name": "Shadow_Black_small" }
+				]
+			},
+			"Shadow_Blue": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Blue_light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Yellow": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Yellow_light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Shadow_Fighter" }
+		]
+	},
+	"Shadow_Gunfire_bag": {
+		"slots": {
+			"Shadow_Black": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Black_small": {
+				"attachment": [
+					{ "time": 0, "name": "Shadow_Black_small" }
+				]
+			},
+			"Shadow_Blue": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Blue_light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Yellow": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Yellow_light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Shadow_Gunfire_bag" }
+		]
+	},
+	"Shadow_Gunfire_flower": {
+		"slots": {
+			"Shadow_Black": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Black_small": {
+				"attachment": [
+					{ "time": 0, "name": "Shadow_Black_small" }
+				]
+			},
+			"Shadow_Blue": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Blue_light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Yellow": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Yellow_light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Shadow_Gunfire_flower" }
+		]
+	},
+	"Shadow_Gunfire_mosaic": {
+		"slots": {
+			"Shadow_Black": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Black_small": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Blue": {
+				"attachment": [
+					{ "time": 0, "name": "Shadow_Blue" }
+				]
+			},
+			"Shadow_Blue_light": {
+				"attachment": [
+					{ "time": 0, "name": "Shadow_Blue" }
+				],
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.6666, "color": "ffffff83" },
+					{ "time": 1.3333, "color": "ffffffff" }
+				]
+			},
+			"Shadow_Yellow": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Yellow_light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Shadow_Gunfire_mosaic" }
+		]
+	},
+	"Shadow_Gunfire_railgun": {
+		"slots": {
+			"Shadow_Black": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Black_small": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Blue": {
+				"attachment": [
+					{ "time": 0, "name": "Shadow_Blue" }
+				]
+			},
+			"Shadow_Blue_light": {
+				"attachment": [
+					{ "time": 0, "name": "Shadow_Blue" }
+				],
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.6666, "color": "ffffff83" },
+					{ "time": 1.3333, "color": "ffffffff" }
+				]
+			},
+			"Shadow_Yellow": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Yellow_light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Shadow_Gunfire_railgun" }
+		]
+	},
+	"Shadow_Gunfire_snow": {
+		"slots": {
+			"Shadow_Black": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Black_small": {
+				"attachment": [
+					{ "time": 0, "name": "Shadow_Black_small" }
+				]
+			},
+			"Shadow_Blue": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Blue_light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Yellow": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Yellow_light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Shadow_Gunfire_snow" }
+		]
+	},
+	"Shadow_Gunfire_star": {
+		"slots": {
+			"Shadow_Black": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Black_small": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Blue": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Blue_light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Yellow": {
+				"attachment": [
+					{ "time": 0, "name": "Shadow_Yellow" }
+				]
+			},
+			"Shadow_Yellow_light": {
+				"attachment": [
+					{ "time": 0, "name": "Shadow_Yellow" }
+				],
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.6666, "color": "ffffff84" },
+					{ "time": 1.3333, "color": "ffffffff" }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Shadow_Gunfire_star" }
+		]
+	},
+	"Shadow_Gunfire_universal": {
+		"slots": {
+			"Shadow_Black": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Black_small": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Blue": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Blue_light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Yellow": {
+				"attachment": [
+					{ "time": 0, "name": "Shadow_Yellow" }
+				]
+			},
+			"Shadow_Yellow_light": {
+				"attachment": [
+					{ "time": 0, "name": "Shadow_Yellow" }
+				],
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.6666, "color": "ffffff84" },
+					{ "time": 1.3333, "color": "ffffffff" }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Shadow_Gunfire_universal" }
+		]
+	},
+	"Shadow_Ship": {
+		"slots": {
+			"Shadow_Black": {
+				"attachment": [
+					{ "time": 0, "name": "Shadow_Black" }
+				]
+			},
+			"Shadow_Black_small": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Blue": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Blue_light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Yellow": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Shadow_Yellow_light": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "Shadow_Ship" }
+		]
+	}
+}
+}

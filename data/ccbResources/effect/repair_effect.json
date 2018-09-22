@@ -1,0 +1,72 @@
+{
+"skeleton": { "hash": "So16re9rilCWhX1FbzlntztaDdc", "spine": "3.2.01", "width": 160, "height": 238, "images": "" },
+"bones": [
+	{ "name": "repair_effect_root" },
+	{ "name": "repair_effect_picture", "parent": "repair_effect_root", "scaleX": 0.8, "scaleY": 0.7 }
+],
+"slots": [
+	{ "name": "Effect_Light", "bone": "repair_effect_picture", "attachment": "Effect_Light_0002", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"Effect_Light": {
+			"Effect_Light_0002": { "width": 200, "height": 340 },
+			"Effect_Light_0004": { "width": 200, "height": 340 },
+			"Effect_Light_0006": { "width": 200, "height": 340 },
+			"Effect_Light_0008": { "width": 200, "height": 340 },
+			"Effect_Light_0010": { "width": 200, "height": 340 },
+			"Effect_Light_0012": { "width": 200, "height": 340 },
+			"Effect_Light_0014": { "width": 200, "height": 340 },
+			"Effect_Light_0016": { "width": 200, "height": 340 },
+			"Effect_Light_0018": { "width": 200, "height": 340 },
+			"Effect_Light_0020": { "width": 200, "height": 340 },
+			"Effect_Light_0022": { "width": 200, "height": 340 },
+			"Effect_Light_0024": { "width": 200, "height": 340 },
+			"Effect_Light_0026": { "width": 200, "height": 340 },
+			"Effect_Light_0028": { "width": 200, "height": 340 },
+			"Effect_Light_0030": { "width": 200, "height": 340 },
+			"Effect_Light_0032": { "width": 200, "height": 340 },
+			"Effect_Light_0034": { "width": 200, "height": 340 },
+			"Effect_Light_0036": { "width": 200, "height": 340 },
+			"Effect_Light_0038": { "width": 200, "height": 340 },
+			"Effect_Light_0040": { "width": 200, "height": 340 },
+			"Effect_Light_0042": { "width": 200, "height": 340 }
+		}
+	}
+},
+"animations": {
+	"repair_effect": {
+		"slots": {
+			"Effect_Light": {
+				"color": [
+					{ "time": 0, "color": "9cff9bff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "Effect_Light_0002" },
+					{ "time": 0.0666, "name": "Effect_Light_0004" },
+					{ "time": 0.1333, "name": "Effect_Light_0006" },
+					{ "time": 0.2, "name": "Effect_Light_0008" },
+					{ "time": 0.2666, "name": "Effect_Light_0010" },
+					{ "time": 0.3333, "name": "Effect_Light_0012" },
+					{ "time": 0.4, "name": "Effect_Light_0014" },
+					{ "time": 0.4666, "name": "Effect_Light_0016" },
+					{ "time": 0.5333, "name": "Effect_Light_0018" },
+					{ "time": 0.6, "name": "Effect_Light_0020" },
+					{ "time": 0.6666, "name": "Effect_Light_0022" },
+					{ "time": 0.7333, "name": "Effect_Light_0024" },
+					{ "time": 0.8, "name": "Effect_Light_0026" },
+					{ "time": 0.8666, "name": "Effect_Light_0028" },
+					{ "time": 0.9333, "name": "Effect_Light_0030" },
+					{ "time": 1, "name": "Effect_Light_0032" },
+					{ "time": 1.0666, "name": "Effect_Light_0034" },
+					{ "time": 1.1333, "name": "Effect_Light_0036" },
+					{ "time": 1.2, "name": "Effect_Light_0038" },
+					{ "time": 1.2666, "name": "Effect_Light_0040" },
+					{ "time": 1.3333, "name": "Effect_Light_0042" },
+					{ "time": 1.4, "name": null }
+				]
+			}
+		}
+	}
+}
+}

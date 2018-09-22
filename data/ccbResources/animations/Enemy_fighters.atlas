@@ -1,0 +1,356 @@
+
+Enemy_fighters.png
+size: 1010,870
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+17_Enemy_bomber
+  rotate: true
+  xy: 558, 358
+  size: 129, 91
+  orig: 300, 300
+  offset: 90, 124
+  index: -1
+17_light
+  rotate: false
+  xy: 855, 468
+  size: 149, 138
+  orig: 300, 300
+  offset: 119, 98
+  index: -1
+18_Enemy_torpedo
+  rotate: false
+  xy: 869, 721
+  size: 139, 65
+  orig: 300, 300
+  offset: 77, 134
+  index: -1
+18_light
+  rotate: false
+  xy: 2, 2
+  size: 110, 100
+  orig: 300, 300
+  offset: 100, 123
+  index: -1
+19_Enemy_fighter
+  rotate: true
+  xy: 572, 489
+  size: 127, 77
+  orig: 300, 300
+  offset: 99, 127
+  index: -1
+19_light
+  rotate: false
+  xy: 866, 608
+  size: 141, 111
+  orig: 300, 300
+  offset: 102, 102
+  index: -1
+20_Enemy_bomber_elite
+  rotate: true
+  xy: 479, 489
+  size: 127, 91
+  orig: 300, 300
+  offset: 90, 123
+  index: -1
+21_Enemy_torpedo_elite
+  rotate: false
+  xy: 866, 18
+  size: 139, 65
+  orig: 300, 300
+  offset: 77, 134
+  index: -1
+22_Enemy_fighter_elite
+  rotate: true
+  xy: 657, 7
+  size: 127, 77
+  orig: 300, 300
+  offset: 99, 128
+  index: -1
+24_Enemy_Akagi
+  rotate: false
+  xy: 464, 4
+  size: 191, 111
+  orig: 300, 300
+  offset: 58, 111
+  index: -1
+24_light
+  rotate: true
+  xy: 319, 117
+  size: 236, 165
+  orig: 300, 300
+  offset: 58, 72
+  index: -1
+25_Enemy_Kaga
+  rotate: false
+  xy: 657, 378
+  size: 191, 110
+  orig: 300, 300
+  offset: 58, 111
+  index: -1
+25_light
+  rotate: true
+  xy: 2, 104
+  size: 246, 166
+  orig: 300, 300
+  offset: 54, 71
+  index: -1
+26_Enemy_Sisters
+  rotate: true
+  xy: 361, 681
+  size: 187, 120
+  orig: 300, 300
+  offset: 58, 104
+  index: -1
+26_light
+  rotate: true
+  xy: 2, 601
+  size: 267, 183
+  orig: 300, 300
+  offset: 33, 63
+  index: -1
+27_Paper_fighter
+  rotate: false
+  xy: 114, 3
+  size: 205, 99
+  orig: 300, 300
+  offset: 39, 102
+  index: -1
+27_Paper_fighter_light
+  rotate: true
+  xy: 181, 355
+  size: 244, 178
+  orig: 300, 300
+  offset: 2, 61
+  index: -1
+28_Enemy_Shokaku
+  rotate: true
+  xy: 361, 488
+  size: 191, 116
+  orig: 300, 300
+  offset: 53, 90
+  index: -1
+28_Enemy_Shokaku_light
+  rotate: true
+  xy: 2, 352
+  size: 247, 177
+  orig: 300, 300
+  offset: 53, 77
+  index: -1
+29_Enemy_Shinano
+  rotate: false
+  xy: 850, 357
+  size: 154, 109
+  orig: 300, 300
+  offset: 90, 107
+  index: -1
+29_Enemy_Shinano_light
+  rotate: false
+  xy: 361, 355
+  size: 195, 131
+  orig: 300, 300
+  offset: 75, 95
+  index: -1
+29_Enemy_Shinano_tail
+  rotate: false
+  xy: 486, 674
+  size: 166, 90
+  orig: 166, 90
+  offset: 0, 0
+  index: -1
+30_Enemy_fighters
+  rotate: true
+  xy: 240, 649
+  size: 219, 119
+  orig: 300, 300
+  offset: 27, 105
+  index: -1
+30_Enemy_fighters_light
+  rotate: true
+  xy: 170, 104
+  size: 246, 147
+  orig: 300, 300
+  offset: 54, 73
+  index: -1
+Fire_00
+  rotate: true
+  xy: 736, 20
+  size: 114, 63
+  orig: 300, 300
+  offset: 36, 142
+  index: -1
+Fire_01
+  rotate: true
+  xy: 801, 20
+  size: 114, 63
+  orig: 300, 300
+  offset: 36, 142
+  index: -1
+Fire_02
+  rotate: false
+  xy: 876, 788
+  size: 132, 80
+  orig: 300, 300
+  offset: 43, 134
+  index: -1
+Fire_03
+  rotate: false
+  xy: 736, 244
+  size: 107, 67
+  orig: 300, 300
+  offset: 30, 138
+  index: -1
+Fire_04
+  rotate: true
+  xy: 486, 208
+  size: 145, 70
+  orig: 300, 300
+  offset: 9, 139
+  index: -1
+Light_fire_00
+  rotate: false
+  xy: 866, 186
+  size: 141, 99
+  orig: 300, 300
+  offset: 84, 119
+  index: -1
+Light_fire_01
+  rotate: false
+  xy: 850, 287
+  size: 149, 68
+  orig: 300, 300
+  offset: 76, 130
+  index: -1
+Light_fire_02
+  rotate: true
+  xy: 680, 136
+  size: 106, 71
+  orig: 300, 300
+  offset: 109, 134
+  index: -1
+Light_fire_03
+  rotate: false
+  xy: 866, 85
+  size: 141, 99
+  orig: 300, 300
+  offset: 84, 119
+  index: -1
+Light_fire_04
+  rotate: true
+  xy: 610, 136
+  size: 149, 68
+  orig: 300, 300
+  offset: 76, 130
+  index: -1
+Light_fire_05
+  rotate: true
+  xy: 753, 136
+  size: 106, 71
+  orig: 300, 300
+  offset: 109, 134
+  index: -1
+Light_fire_06
+  rotate: false
+  xy: 558, 292
+  size: 89, 64
+  orig: 300, 300
+  offset: 90, 117
+  index: -1
+Light_fire_07
+  rotate: true
+  xy: 486, 117
+  size: 89, 64
+  orig: 300, 300
+  offset: 90, 117
+  index: -1
+Light_fire_08
+  rotate: false
+  xy: 486, 766
+  size: 166, 102
+  orig: 300, 300
+  offset: 85, 113
+  index: -1
+Light_fire_09
+  rotate: false
+  xy: 187, 606
+  size: 71, 37
+  orig: 300, 300
+  offset: 149, 147
+  index: -1
+Light_fire_10
+  rotate: false
+  xy: 321, 2
+  size: 141, 113
+  orig: 300, 300
+  offset: 60, 73
+  index: -1
+Small_01
+  rotate: false
+  xy: 657, 687
+  size: 207, 58
+  orig: 300, 150
+  offset: 52, 50
+  index: -1
+Small_02
+  rotate: false
+  xy: 657, 490
+  size: 192, 61
+  orig: 300, 150
+  offset: 67, 46
+  index: -1
+Small_03
+  rotate: false
+  xy: 657, 313
+  size: 191, 63
+  orig: 300, 150
+  offset: 68, 44
+  index: -1
+Small_04
+  rotate: false
+  xy: 657, 553
+  size: 196, 63
+  orig: 300, 150
+  offset: 63, 51
+  index: -1
+Small_05
+  rotate: false
+  xy: 657, 618
+  size: 201, 67
+  orig: 300, 150
+  offset: 58, 50
+  index: -1
+Small_06
+  rotate: false
+  xy: 657, 747
+  size: 210, 56
+  orig: 300, 150
+  offset: 48, 48
+  index: -1
+Small_07
+  rotate: false
+  xy: 657, 805
+  size: 217, 63
+  orig: 300, 150
+  offset: 41, 42
+  index: -1
+Small_08
+  rotate: true
+  xy: 187, 645
+  size: 223, 51
+  orig: 300, 150
+  offset: 35, 48
+  index: -1
+Small_09
+  rotate: true
+  xy: 558, 126
+  size: 159, 50
+  orig: 300, 150
+  offset: 99, 51
+  index: -1
+Small_10
+  rotate: false
+  xy: 479, 618
+  size: 173, 54
+  orig: 300, 150
+  offset: 86, 51
+  index: -1

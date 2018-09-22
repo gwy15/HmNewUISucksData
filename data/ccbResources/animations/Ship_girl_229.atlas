@@ -1,0 +1,132 @@
+
+Ship_girl_229.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BB
+  rotate: false
+  xy: 368, 110
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+BB_damage
+  rotate: false
+  xy: 134, 95
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+DL
+  rotate: true
+  xy: 325, 100
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+DR
+  rotate: false
+  xy: 433, 133
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+JZ_L
+  rotate: true
+  xy: 937, 181
+  size: 69, 84
+  orig: 300, 300
+  offset: 85, 39
+  index: -1
+JZ_L_damage
+  rotate: true
+  xy: 605, 182
+  size: 68, 132
+  orig: 300, 300
+  offset: 85, 41
+  index: -1
+JZ_L_light
+  rotate: false
+  xy: 839, 182
+  size: 96, 68
+  orig: 300, 300
+  offset: 89, 52
+  index: -1
+JZ_R
+  rotate: true
+  xy: 373, 134
+  size: 44, 58
+  orig: 300, 300
+  offset: 155, 55
+  index: -1
+JZ_R_light
+  rotate: false
+  xy: 739, 168
+  size: 98, 82
+  orig: 300, 300
+  offset: 141, 48
+  index: -1
+Rodney_body_damage
+  rotate: true
+  xy: 277, 180
+  size: 70, 162
+  orig: 300, 300
+  offset: 119, 15
+  index: -1
+Rodney_body_normal
+  rotate: true
+  xy: 441, 180
+  size: 70, 162
+  orig: 300, 300
+  offset: 119, 15
+  index: -1
+Rodney_eyes_damage
+  rotate: false
+  xy: 540, 139
+  size: 51, 39
+  orig: 300, 300
+  offset: 140, 162
+  index: -1
+Rodney_eyes_normal
+  rotate: false
+  xy: 486, 137
+  size: 52, 41
+  orig: 300, 300
+  offset: 140, 162
+  index: -1
+Rodney_ship_body_normal_light
+  rotate: true
+  xy: 2, 2
+  size: 98, 122
+  orig: 300, 300
+  offset: 122, 31
+  index: -1
+hair
+  rotate: false
+  xy: 277, 141
+  size: 94, 37
+  orig: 95, 40
+  offset: 1, 1
+  index: -1
+hand_L
+  rotate: false
+  xy: 277, 100
+  size: 46, 39
+  orig: 300, 300
+  offset: 96, 107
+  index: -1
+head
+  rotate: false
+  xy: 2, 102
+  size: 130, 148
+  orig: 300, 300
+  offset: 94, 116
+  index: -1
+head_light
+  rotate: false
+  xy: 134, 119
+  size: 141, 131
+  orig: 300, 300
+  offset: 119, 147
+  index: -1

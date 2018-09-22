@@ -1,0 +1,97 @@
+
+furniture_192.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YA1
+  rotate: true
+  xy: 318, 2
+  size: 52, 55
+  orig: 356, 296
+  offset: 19, 238
+  index: -1
+YA2
+  rotate: false
+  xy: 318, 56
+  size: 59, 59
+  orig: 356, 296
+  offset: 10, 232
+  index: -1
+YA3
+  rotate: true
+  xy: 265, 19
+  size: 37, 51
+  orig: 356, 296
+  offset: 33, 242
+  index: -1
+YA4
+  rotate: true
+  xy: 206, 11
+  size: 45, 57
+  orig: 356, 296
+  offset: 26, 239
+  index: -1
+YB1
+  rotate: false
+  xy: 430, 178
+  size: 55, 68
+  orig: 356, 296
+  offset: 168, 228
+  index: -1
+YB2
+  rotate: false
+  xy: 379, 55
+  size: 43, 60
+  orig: 356, 296
+  offset: 175, 224
+  index: -1
+YB3
+  rotate: false
+  xy: 375, 7
+  size: 43, 46
+  orig: 356, 296
+  offset: 174, 227
+  index: -1
+ZT
+  rotate: false
+  xy: 2, 58
+  size: 314, 188
+  orig: 356, 296
+  offset: 29, 27
+  index: -1
+fire1
+  rotate: false
+  xy: 2, 21
+  size: 103, 35
+  orig: 356, 296
+  offset: 65, 170
+  index: -1
+fire2
+  rotate: false
+  xy: 318, 117
+  size: 102, 32
+  orig: 356, 296
+  offset: 65, 170
+  index: -1
+fire3
+  rotate: false
+  xy: 107, 28
+  size: 97, 28
+  orig: 356, 296
+  offset: 70, 170
+  index: -1
+open
+  rotate: false
+  xy: 430, 157
+  size: 18, 19
+  orig: 356, 296
+  offset: 55, 129
+  index: -1
+sh
+  rotate: false
+  xy: 318, 151
+  size: 110, 95
+  orig: 356, 296
+  offset: 51, 174
+  index: -1

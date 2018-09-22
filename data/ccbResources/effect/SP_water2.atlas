@@ -1,0 +1,34 @@
+
+SP_water2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+water1
+  rotate: false
+  xy: 2, 241
+  size: 510, 121
+  orig: 510, 121
+  offset: 0, 0
+  index: -1
+water2
+  rotate: false
+  xy: 2, 118
+  size: 510, 121
+  orig: 510, 121
+  offset: 0, 0
+  index: -1
+water3
+  rotate: false
+  xy: 2, 364
+  size: 514, 121
+  orig: 514, 121
+  offset: 0, 0
+  index: -1
+water_A
+  rotate: false
+  xy: 2, 2
+  size: 508, 114
+  orig: 508, 114
+  offset: 0, 0
+  index: -1
